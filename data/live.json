@@ -1,0 +1,354 @@
+{
+  "fetchedAt": "2026-04-02T19:22:00.996Z",
+  "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167244",
+      "source": "UN News — Middle East",
+      "title": "Guterres warns of ‘wider war’ as Middle East conflict enters second month",
+      "summary": "The Middle East crisis has lurched into its second month, prompting UN Secretary-General António Guterres to issue a stark warning on Thursday morning that the world is “on the edge of a wider war” with catastrophic global implications.",
+      "published": "2026-04-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167244"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167242",
+      "source": "UN News — Middle East",
+      "title": "MIDDLE EAST LIVE 2 April: Civilian impact deepens as UN chief says ‘we must find a peaceful way out’ before region is engulfed by war",
+      "summary": "Deadly new strikes reported across the Middle East overnight and Thursday rattled energy markets and pushed crude oil prices up to $107 in early trading. Hopes dwindled of a quick end to the conflict as President Trump spoke of another &quot;two to three weeks&quot; of attacks, alongside &quot;ongoing&quot; discussions with Tehran. Civilians across the region continue to suffer misery and displacement. The UN chief told reporters at UN Headquarters the conflict ‘is already being felt everywhere,” and “the spiral of destruction must stop”. Follow live coverage from the Security Council here. Ap",
+      "published": "2026-04-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167242",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167243",
+      "source": "UN News — Peace and security",
+      "title": "Middle East crisis exposes global energy fault line as UN urges shift to renewables",
+      "summary": "The ongoing crisis in the Middle East is exposing a central vulnerability in the global economy: the dependence on fossil fuels flowing through regions affected by conflict, a situation which is strengthening the UN’s case for a faster transition to cheaper, more resilient renewable power.",
+      "published": "2026-04-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167243"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167235",
+      "source": "UN News — Middle East",
+      "title": "Breaking the Gaza aid bottleneck: 106-tonne delivery arrives via new sea route",
+      "summary": "The World Health Organization (WHO) has facilitated the delivery of some 106 metric tonnes of lifesaving nutrition supplies to the Gaza Strip – the first shipment via a mechanism to deliver aid by sea, in line with a UN Security Council resolution and amid the ongoing war in the Middle East.&amp;nbsp;",
+      "published": "2026-04-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167235",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167234",
+      "source": "UN News — Middle East",
+      "title": "Middle East war: UN’s Türk decries ‘severe restrictions’ on free speech",
+      "summary": "From Iran to multiple nations in the Gulf and the wider Middle East, around 3,000 people have reportedly been arrested in the first month of the ongoing war across the region, sparking alarm over free speech restrictions and state repression.",
+      "published": "2026-04-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167234",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167233",
+      "source": "UN News — Middle East",
+      "title": "Middle East war: Energy crunch hits vulnerable nations",
+      "summary": "The war in the Middle East and the near halt to shipping in the&amp;nbsp;Strait of Hormuz has amplified the energy crunch facing developing nations in Africa and&amp;nbsp;South Asia that rely heavily on imported liquid gas, food and fertilizers.&amp;nbsp;",
+      "published": "2026-04-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167233"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167239",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Lebanon peacekeeper deaths, Haiti mission support, drought and conflict in Somalia",
+      "summary": "Although the situation on the ground is challenging, investigations are underway into the killing of three UN peacekeepers over two consecutive days with an update expected “as soon as possible,” UN Spokesperson Stéphane Dujarric said on Wednesday.&amp;nbsp;",
+      "published": "2026-04-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167239",
+      "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167231",
+      "source": "UN News — Middle East",
+      "title": "Lebanon at ‘breaking point’ as displacement soars and strikes intensify",
+      "summary": "The UN’s top humanitarian official warned the Security Council on Tuesday that Lebanon is facing one of its most dangerous moments in years, with escalating violence, mass displacement and deepening human suffering pushing the country to “breaking point”.",
+      "published": "2026-03-31T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167231",
+      "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167227",
+      "source": "UN News — Middle East",
+      "title": "Lebanon: The UN peacekeepers helping communities who’ve stayed behind",
+      "summary": "The killing of three UN peacekeepers in south Lebanon in the past two days has highlighted the grave dangers for the 10,000 military personnel who make up the bulk of UNIFIL, the UN Interim Force in Lebanon – and for the communities caught up in intense clashes between the Israeli military and Hezbollah fighters.",
+      "published": "2026-03-31T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167227"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167226",
+      "source": "UN News — Middle East",
+      "title": "Syria: Hundreds of thousands flee Lebanon, vital food aid blocked",
+      "summary": "The trauma of mass displacement and disruption to aid shipments throughout the world are among the devastating impacts of the war raging in the Middle East, UN agencies said on Tuesday.",
+      "published": "2026-03-31T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167226",
+      "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167224",
+      "source": "UN News — Middle East",
+      "title": "‘No precedent’ for seafarers caught in war zone in post-WW2 era",
+      "summary": "Some 20,000 seafarers remain stranded on ships in the Strait of Hormuz as the war in the Middle East continues, a situation which has been described as unprecedented in the post-Second World War era.",
+      "published": "2026-03-31T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167224"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167225",
+      "source": "UN News — Peace and security",
+      "title": "MIDDLE EAST LIVE: Vital food aid blocked, Security Council meets in emergency session on Lebanon",
+      "summary": "More than a month since war erupted in the Middle East, UN agencies confirmed on Tuesday that huge numbers of people have returned to Syria from Lebanon &quot;exhausted, traumatized and with very, very few belongings&quot;. Meanwhile, the UN International Maritime Organization said that another vessel has been attacked in the Strait of Hormuz, increasing concerns of further delays in transporting lifesaving aid. The Security Council met in New York in emergency session on Lebanon. Stay with us for live updates. App users can follow coverage here",
+      "published": "2026-03-31T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167225",
+      "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167220",
+      "source": "UN News — Middle East",
+      "title": "The image from Gaza that still haunts me: Palestine relief agency chief",
+      "summary": "Asking the softly spoken, veteran humanitarian worker Philippe Lazzarini how he feels as he comes to the end of his second term as the head of the UN agency for Palestinians, UNRWA, is perhaps an unfair question.&amp;nbsp;",
+      "published": "2026-03-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167220",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167222",
+      "source": "UN News — Middle East",
+      "title": "UN condemns killing of two more peacekeepers in Lebanon",
+      "summary": "The United Nations has condemned two consecutive days of deadly attacks on peacekeepers serving with the UN Interim Force in Lebanon (UNIFIL), amid rising hostilities between Israeli forces and Hezbollah militants.&amp;nbsp;",
+      "published": "2026-03-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167222"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167216",
+      "source": "UN News — Middle East",
+      "title": "Sea mines clearance: A new dimension of difficulty",
+      "summary": "Clearing mines laid at sea is an “extremely challenging and very dangerous” mission, with tidal currents just one of myriad other risk factors to consider before attempting to make a stretch of water safe, a leading UN mines expert tells us.",
+      "published": "2026-03-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167216"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167215",
+      "source": "UN News — Middle East",
+      "title": "MIDDLE EAST LIVE 30 March: UN peacekeepers killed amid Israel-Hezbollah clashes",
+      "summary": "Further attacks have been reported across the Middle East as the war enters a second month, with two more Indonesian peacekeepers killed in Southern Lebanon on Monday, following the death of a fellow ‘blue helmet’ a day earlier. On the diplomatic front, the UN has announced a taskforce to restore the flow of fertilizer and aid through the Strait of Hormuz, while the UN&#039;s atomic watchdog confirms an attack on a heavy water facility at Khondab in Iran. Stay with us for live updates on this and UN agencies. App users can follow coverage here.",
+      "published": "2026-03-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167215"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167223",
+      "source": "UN News — Peace and security",
+      "title": "Airstrike on funeral underscores rising civilian toll in Sudan",
+      "summary": "Fears are mounting for civilians caught up in Sudan’s deadly war between rival militaries as attacks intensify and humanitarian access shrinks, following a deadly airstrike on a funeral gathering in West Kordofan.",
+      "published": "2026-03-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167223"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167221",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Ukraine drone attacks, Afghan rights, Zero-Waste Day",
+      "summary": "A night of drone attacks reportedly killed two people and injured 12 in the Ukrainian port city of Odesa, as a maternity hospital and three educational facilities were also damaged.",
+      "published": "2026-03-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167221"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167214",
+      "source": "UN News — Middle East",
+      "title": "UN peacekeeper killed, another seriously injured, in southern Lebanon",
+      "summary": "UN Secretary-General António Guterres called for accountability after a peacekeeper was killed in Lebanon on Sunday amid hostilities between Israel and Hezbollah.",
+      "published": "2026-03-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167214"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167213",
+      "source": "UN News — Middle East",
+      "title": "Middle East war: UN initiatives support mediation efforts, ‘lifesaving’ fertiliser shipments",
+      "summary": "Just hours after war broke out in the Middle East last month, United Nations Secretary-General António Guterres warned the Security Council that the fighting risked “igniting a chain of events that no one can control in the most volatile region of the world.”",
+      "published": "2026-03-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167213"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167210",
+      "source": "UN News — Middle East",
+      "title": "Syria: UN Commission documents grave violations in July 2025 escalation in Sweida",
+      "summary": "More than 1,700 people were killed and nearly 200,000 more displaced in the July 2025 massacres in Sweida, Syria, UN human rights investigators said on Friday in a report&amp;nbsp;that called for greater action towards accountability.&amp;nbsp;",
+      "published": "2026-03-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167210"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167208",
+      "source": "UN News — Middle East",
+      "title": "Middle East war: Attacks on vital healthcare, evacuation strike fears",
+      "summary": "Almost one month since Israeli and US airstrikes on Iran began, sparking a wider regional war, UN agencies and partners on Friday highlighted the terror among civilians fleeing bombardment, with “no safe space” to go.",
+      "published": "2026-03-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167208"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167207",
+      "source": "UN News — Middle East",
+      "title": "MIDDLE EAST LIVE 27 March: Humanitarian crisis deepens across the region",
+      "summary": "The war in the Middle East continues, with attacks causing further terror and suffering, deepening the humanitarian crisis across the region. The UN announced the launch of a task force to meet the immense needs. &amp;nbsp;In Geneva, diplomats at the Human Rights Council have been discussing the school strike in Iran’s Minab that killed more than 100 children. Stay with us for live updates on this and from UN agencies providing relief. App users can follow coverage here.",
+      "published": "2026-03-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167207",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167205",
+      "source": "UN News — Peace and security",
+      "title": "Persian Gulf crisis impacting food security, FAO warns",
+      "summary": "The intensifying conflict in the Persian Gulf “has triggered one of the most rapid and severe disruptions to global commodity flows in recent times,” the Chief Economist with the UN Food and Agriculture Organization (FAO) said on Thursday.&amp;nbsp;",
+      "published": "2026-03-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167205",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167204",
+      "source": "UN News — Peace and security",
+      "title": "DR Congo: violence intensifies as UN mission pledges continued support",
+      "summary": "The security and political situation in the Democratic Republic of the Congo (DRC) remains “extremely tense”, a senior UN official told the Security Council on Thursday.",
+      "published": "2026-03-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167204"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167203",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief, Cuba blockade hits healthcare, Haiti’s ‘vortex of violence’, deadly Djibouti shipwreck",
+      "summary": "Hospitals are just the latest vital public services to be hit in Cuba, more than a month since Washington took measures to block oil supplies from entering the Caribbean nation.",
+      "published": "2026-03-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167203"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167201",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: danger is only increasing, warns UN human rights office",
+      "summary": "More than four years since Russia’s full-scale invasion of Ukraine, the “danger is only increasing”, particularly from attack drones, a top UN human rights official warned on Thursday.",
+      "published": "2026-03-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167201"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167198",
+      "source": "UN News — Middle East",
+      "title": "Gulf war ‘out of control’, Guterres warns, as UN appoints envoy to push for peace",
+      "summary": "UN Secretary-General António Guterres&amp;nbsp;has warned that the escalating Gulf war is “out of control”, urging all sides to step back from the brink and allow diplomacy to prevail, as he announced the appointment of a senior envoy to spearhead peace efforts.",
+      "published": "2026-03-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167198"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167195",
+      "source": "UN News — Middle East",
+      "title": "MIDDLE EAST LIVE 25 March: All eyes on Strait of Hormuz; war is ‘out of control’, UN chief warns",
+      "summary": "It’s day 26 of war in the Middle East. The UN chief says with the conflict now totally out of control, diplomacy must prevail. Ongoing strikes in Israel and Iran have included intensifying Israeli attacks against Hezbollah targets in Lebanon, while some US troops are heading to the region, the Pentagon has confirmed. Meanwhile, Iran has told the UN maritime agency that the Strait of Hormuz remains open to “non-hostile” ships not associated with the US and Israel. UN News app users can follow coverage here.",
+      "published": "2026-03-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167195"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167200",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: 273 million out of school, deadly attacks on Ukraine, migratory species in danger",
+      "summary": "The number of children and young people out of school worldwide&amp;nbsp;has climbed&amp;nbsp;for the seventh consecutive year, reaching 273 million, according to a new report from the UN education agency, UNESCO.&amp;nbsp;",
+      "published": "2026-03-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167200"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167194",
+      "source": "UN News — Middle East",
+      "title": "Gaza: Commitment to US-backed plan crucial to recovery, Security Council hears",
+      "summary": "As tensions escalate in the Middle East, the international community must not lose sight of the situation in Gaza, an official with US President Donald Trump’s Board of Peace across the shattered enclave said on Tuesday in his first appearance in the UN Security Council.&amp;nbsp;",
+      "published": "2026-03-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167194",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167193",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Airstrikes continue in Ukraine, refugees return to DR Congo, emergency aid for the ‘Dry Corridor’",
+      "summary": "The latest wave of Russian attacks across Ukraine have reportedly killed and injured civilians and damaged critical infrastructure in Dnipro, Odesa, Poltava, Zaporizhzhia and other regions.",
+      "published": "2026-03-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167193"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167189",
+      "source": "UN News — Peace and security",
+      "title": "Sudan: Hospital strike highlights surge in drone attacks on civilians",
+      "summary": "The death toll from a horrific attack on a hospital in Sudan’s Darfur has risen further, amid a “sharp increase” in drone attacks against civilians this year, UN agencies said on Tuesday.",
+      "published": "2026-03-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167189"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167181",
+      "source": "UN News — Middle East",
+      "title": "War in the Middle East: Cultural treasures damaged, with more at risk",
+      "summary": "Since the outbreak of war on 28 February, several unique sites of cultural significance have been damaged in Iran, Israel and Lebanon, alongside immense suffering, displacement and death.",
+      "published": "2026-03-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167181"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167180",
+      "source": "UN News — Middle East",
+      "title": "MIDDLE EAST LIVE 23 March: Civilians bear brunt of ongoing war",
+      "summary": "The war in the Middle East is well into its fourth week and the humanitarian emergency it has sparked continues to be the focus of international attention, along with the energy crisis caused by attacks on shipping in key Strait of Hormuz and other oil and gas infrastructure in the Gulf region. Stay with us for live updates from across the UN system. App users can follow coverage here.",
+      "published": "2026-03-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167180"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167175",
+      "source": "UN News — Middle East",
+      "title": "War in the Middle East: Iran nuclear facility hit as equivalent of ‘one classroom of children’ killed, wounded daily in Lebanon",
+      "summary": "More than 1,000 people have been killed and 2,584 injured in Lebanon since the start of the US-Israel war on Iran, UN officials said Saturday.",
+      "published": "2026-03-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167175"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167172",
+      "source": "UN News — Middle East",
+      "title": "MIDDLE EAST LIVE 20 March: Energy shocks deepen as strikes hit infrastructure",
+      "summary": "The crisis in the Middle East continues, with strikes and counter-strikes reported across the region, driving civilian casualties, displacement and rising humanitarian needs. Energy assets in Gulf States continue to be hit, with serious long-term damaged reportedly sustained at Qatar&#039;s Ras Laffan gas hub. Oil prices remain above $100 a barrel, underscoring the growing global economic impact. Stay with us for live updates from across the UN system. App users can follow coverage here.",
+      "published": "2026-03-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167172"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167167",
+      "source": "UN News — Middle East",
+      "title": "Middle East war shockwaves ripple through Asia-Pacific fuel and supply chains",
+      "summary": "The fallout from the war in the Middle East is rippling far beyond the Gulf, disrupting fuel supplies, shipping routes and supply chains across Asia and the Pacific, with some of the region’s most vulnerable economies already feeling the strain through rising prices, rationing and threats to jobs, food security and remittances.",
+      "published": "2026-03-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167167"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167166",
+      "source": "UN News — Middle East",
+      "title": "Amid deepening crisis in Palestine, girls face rising risks and a mounting mental health emergency",
+      "summary": "More than two years of unrelenting violence, displacement and loss have pushed children and young people in Palestine into what one UN official describes as a “profound mental health emergency”, with girls facing heightened risks, including a resurgence in child marriage.",
+      "published": "2026-03-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167166",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167165",
+      "source": "UN News — Middle East",
+      "title": "Middle East war: ‘Force of the law’ must prevail over the law of force, urges Guterres",
+      "summary": "The US and Israel must end their bombing campaign before it spirals out of control, while Iran needs to stop attacking Gulf neighbours who have played no direct part in the war roiling the Middle East and beyond, the UN Secretary-General urged on Thursday.",
+      "published": "2026-03-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167165"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167161",
+      "source": "UN News — Middle East",
+      "title": "MIDDLE EAST LIVE 19 March: Civilians bear the brunt as strikes and displacement rise",
+      "summary": "Ongoing strikes across the Middle East stemming from the US-Israeli bombing of Iran and subsequent counterstrikes in the Gulf by Tehran continue to drive humanitarian needs, civilian casualties and mass displacement. Concerns are also growing over maritime security, the economic crisis centred around the closure of the Strait of Hormuz, attacks on healthcare and the protection of critical infrastructure, including nuclear facilities. Stay with us for live updates from across the UN system. App users can follow coverage here.",
+      "published": "2026-03-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167161"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167159",
+      "source": "UN News — Middle East",
+      "title": "Humanitarian needs in Gaza deepen as aid access remains constrained",
+      "summary": "Humanitarian needs are continuing to grow again across Gaza, the UN agency assisting Palestine refugees (UNRWA) said on Wednesday, amid mounting pressures on aid delivery and the ongoing conflict in the Middle East.&amp;nbsp;",
+      "published": "2026-03-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167159",
+      "country": "israel"
+    }
+  ]
+}
