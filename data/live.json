@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-02T21:56:23.193Z",
+  "fetchedAt": "2026-04-02T22:23:21.561Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167244",
@@ -17,6 +17,14 @@
       "published": "2026-04-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167242",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167248",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: South Sudan rights, opioid guidelines update, DR Congo crisis continues",
+      "summary": "South Sudan is evolving into a catastrophic human rights and humanitarian crisis, UN Human Rights Council-appointed independent experts warned on Thursday.",
+      "published": "2026-04-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167248"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167243",
@@ -267,14 +275,6 @@
       "summary": "The latest wave of Russian attacks across Ukraine have reportedly killed and injured civilians and damaged critical infrastructure in Dnipro, Odesa, Poltava, Zaporizhzhia and other regions.",
       "published": "2026-03-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167193"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167189",
-      "source": "UN News — Peace and security",
-      "title": "Sudan: Hospital strike highlights surge in drone attacks on civilians",
-      "summary": "The death toll from a horrific attack on a hospital in Sudan’s Darfur has risen further, amid a “sharp increase” in drone attacks against civilians this year, UN agencies said on Tuesday.",
-      "published": "2026-03-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167189"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167181",
