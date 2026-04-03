@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-04-03T13:47:45.193Z",
+  "fetchedAt": "2026-04-03T14:33:56.110Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167230",
+      "source": "UN News — Peace and security",
+      "title": "‘We watched them die before our eyes’: Sudan health workers helpless amid medical shortages",
+      "summary": "As violence forces tens of thousands to flee Sudan’s South Kordofan state, doctors in a key maternity hospital are facing impossible choices – with too few supplies, too many patients, and lives slipping away.",
+      "published": "2026-04-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167230"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167247",
+      "source": "UN News — Peace and security",
+      "title": "Deminers race to keep up with military technology",
+      "summary": "In conflict zones where new technologies are making landmines more dangerous, deminers must innovate at the same pace to avoid being left behind, a leading UN mines expert has told UN News.&amp;nbsp;",
+      "published": "2026-04-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167247"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167244",
       "source": "UN News — Middle East",
@@ -267,14 +283,6 @@
       "published": "2026-03-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167194",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167193",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Airstrikes continue in Ukraine, refugees return to DR Congo, emergency aid for the ‘Dry Corridor’",
-      "summary": "The latest wave of Russian attacks across Ukraine have reportedly killed and injured civilians and damaged critical infrastructure in Dnipro, Odesa, Poltava, Zaporizhzhia and other regions.",
-      "published": "2026-03-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167193"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167181",
