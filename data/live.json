@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-04-04T17:53:29.946Z",
+  "fetchedAt": "2026-04-04T18:22:45.132Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167250",
+      "source": "UN News — Peace and security",
+      "title": "UN nuclear agency chief ‘deeply concerned’ by reports of latest attack on Iran power plant",
+      "summary": "Reports of yet another projectile strike near the Bushehr nuclear power plant prompted Rafael Grossi, head of the International Atomic Energy Agency (IAEA), to register his deep concern on Saturday.",
+      "published": "2026-04-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167250",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167230",
       "source": "UN News — Peace and security",
