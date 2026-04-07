@@ -1,11 +1,19 @@
 {
-  "fetchedAt": "2026-04-07T20:22:21.891Z",
+  "fetchedAt": "2026-04-07T21:06:49.463Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167261",
+      "source": "UN News — Middle East",
+      "title": "Security Council: Russia and China veto resolution on Strait of Hormuz",
+      "summary": "The UN Security Council has failed to adopt a resolution aiming to boost security in the Strait of Hormuz as the critical shipping corridor remains largely closed to global trade and the transport of humanitarian aid, with war continuing to rage across the region.&amp;nbsp;",
+      "published": "2026-04-07T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167261"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167257",
       "source": "UN News — Middle East",
       "title": "MIDDLE EAST LIVE 7 April: Humanitarian and economic pressures grow; Russia and China veto resolution on Strait of Hormuz",
-      "summary": "Hostilities continue across the Middle East, with ongoing strikes, rising civilian impacts and mounting pressure on critical infrastructure and humanitarian services. On the diplomatic track in New York, China and Russia vetoed a Security Council resolution put forward by Gulf States to ensure safety and security of ships in the Strait of Hormuz - follow full live coverage here. Meanwhile, displacement remains high, aid access is constrained. Human rights chief Volker Türk says President Trump’s threat to annihilate Iranian civilisation is “sickening”. Stay with us for live updates from across",
+      "summary": "Hostilities continue across the Middle East, with ongoing strikes, rising civilian impacts and mounting pressure on critical infrastructure and humanitarian services. On the diplomatic track in New York, China and Russia vetoed a Security Council resolution put forward by Gulf States to ensure safety and security of ships in the Strait of Hormuz - find full coverage here. Meanwhile, displacement remains high, aid access is constrained. Human rights chief Volker Türk says President Trump’s threat to annihilate Iranian civilisation is “sickening”. Stay with us for live updates from across the UN",
       "published": "2026-04-07T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167257",
       "country": "iran"
@@ -341,15 +349,6 @@
       "summary": "The fallout from the war in the Middle East is rippling far beyond the Gulf, disrupting fuel supplies, shipping routes and supply chains across Asia and the Pacific, with some of the region’s most vulnerable economies already feeling the strain through rising prices, rationing and threats to jobs, food security and remittances.",
       "published": "2026-03-19T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167167"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167166",
-      "source": "UN News — Middle East",
-      "title": "Amid deepening crisis in Palestine, girls face rising risks and a mounting mental health emergency",
-      "summary": "More than two years of unrelenting violence, displacement and loss have pushed children and young people in Palestine into what one UN official describes as a “profound mental health emergency”, with girls facing heightened risks, including a resurgence in child marriage.",
-      "published": "2026-03-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167166",
-      "country": "israel"
     }
   ]
 }
