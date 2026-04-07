@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-04-07T07:00:52.737Z",
+  "fetchedAt": "2026-04-07T08:18:50.930Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167256",
+      "source": "UN News — Peace and security",
+      "title": "‘Entire families brutally erased’: Remembering the victims of the 1994 genocide against the Tutsi in Rwanda",
+      "summary": "Thirty-two years ago, a genocidal campaign was unleashed against Rwanda’s Tutsi people, resulting in more than million deaths. On Tuesday, the UN is holding commemorations to ensure that the genocide is never forgotten and never repeated.",
+      "published": "2026-04-07T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167256"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167251",
       "source": "UN News — Middle East",
@@ -8,6 +16,14 @@
       "summary": "Strikes and counter-strikes continue across the Middle East, with dozens of casualties reported over the weekend in Lebanon following Israeli strikes targeting the south and the capital, Beirut. Meanwhile, humanitarian needs are rising, critical infrastructure remains under strain, and the wider economic and global impacts of the crisis continue to mount. Stay with us for live updates from across the UN system. App users can follow coverage here.",
       "published": "2026-04-06T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167251"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167255",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: ‘Skyrocketing’ needs outpace Sudan funding, Ukraine strikes update, global water security",
+      "summary": "The UN is significantly scaling up its presence in the Sudanese capital, Khartoum, to expand life-saving operations as the conflict between rival militaries approaches its third year.",
+      "published": "2026-04-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167255"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167250",
@@ -261,14 +277,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167203"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167201",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: danger is only increasing, warns UN human rights office",
-      "summary": "More than four years since Russia’s full-scale invasion of Ukraine, the “danger is only increasing”, particularly from attack drones, a top UN human rights official warned on Thursday.",
-      "published": "2026-03-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167201"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167198",
       "source": "UN News — Middle East",
       "title": "Gulf war ‘out of control’, Guterres warns, as UN appoints envoy to push for peace",
@@ -283,14 +291,6 @@
       "summary": "It’s day 26 of war in the Middle East. The UN chief says with the conflict now totally out of control, diplomacy must prevail. Ongoing strikes in Israel and Iran have included intensifying Israeli attacks against Hezbollah targets in Lebanon, while some US troops are heading to the region, the Pentagon has confirmed. Meanwhile, Iran has told the UN maritime agency that the Strait of Hormuz remains open to “non-hostile” ships not associated with the US and Israel. UN News app users can follow coverage here.",
       "published": "2026-03-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167195"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167200",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: 273 million out of school, deadly attacks on Ukraine, migratory species in danger",
-      "summary": "The number of children and young people out of school worldwide&amp;nbsp;has climbed&amp;nbsp;for the seventh consecutive year, reaching 273 million, according to a new report from the UN education agency, UNESCO.&amp;nbsp;",
-      "published": "2026-03-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167200"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167194",
