@@ -1,19 +1,20 @@
 {
-  "fetchedAt": "2026-04-07T17:37:36.307Z",
+  "fetchedAt": "2026-04-07T18:34:31.567Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167257",
       "source": "UN News — Middle East",
       "title": "MIDDLE EAST LIVE 7 April: Humanitarian and economic pressures grow; Russia and China veto resolution on Strait of Hormuz",
-      "summary": "Hostilities continue across the Middle East, with ongoing strikes, rising civilian impacts and mounting pressure on critical infrastructure and humanitarian services. On the diplomatic track in New York, China and Russia vetoed a Security Council resolution put forward by Gulf States to ensure safety and security of ships in the Strait of Hormuz - follow full live coverage here. Meanwhile, displacement remains high, aid access is constrained, and economic and security impacts continue to ripple far beyond the region. Stay with us for live updates from across the UN system. App users can follow",
+      "summary": "Hostilities continue across the Middle East, with ongoing strikes, rising civilian impacts and mounting pressure on critical infrastructure and humanitarian services. On the diplomatic track in New York, China and Russia vetoed a Security Council resolution put forward by Gulf States to ensure safety and security of ships in the Strait of Hormuz - follow full live coverage here. Meanwhile, displacement remains high, aid access is constrained. Human rights chief Volker Türk says President Trump’s threat to annihilate Iranian civilisation is “sickening”. Stay with us for live updates from across",
       "published": "2026-04-07T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167257"
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167257",
+      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167256",
       "source": "UN News — Peace and security",
       "title": "‘Entire families brutally erased’: Remembering the victims of the 1994 genocide against the Tutsi in Rwanda",
-      "summary": "Thirty-two years ago, a genocidal campaign was unleashed against Rwanda’s Tutsi people, resulting in more than million deaths. On Tuesday, the UN is holding commemorations to ensure that the genocide is never forgotten and never repeated.",
+      "summary": "Thirty-two years ago, a genocidal campaign was unleashed against Rwanda’s Tutsi minority, resulting in more than one million deaths. On Tuesday, the UN is holding commemorations to ensure that the genocide is never forgotten and never repeated.",
       "published": "2026-04-07T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167256"
     },
