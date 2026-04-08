@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-04-08T22:58:34.050Z",
+  "fetchedAt": "2026-04-08T23:34:51.998Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167270",
+      "source": "UN News — Middle East",
+      "title": "Iran ceasefire raises hopes for reopening key Strait of Hormuz",
+      "summary": "The announcement of a two-week ceasefire between the US and Iran, will it is hoped, lead to the opening of the strategically important Strait of Hormuz, a vital waterway through which one fifth of the world’s oil and gas passes.",
+      "published": "2026-04-08T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167270",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167268",
       "source": "UN News — Middle East",
@@ -332,14 +341,6 @@
       "summary": "The war in the Middle East is well into its fourth week and the humanitarian emergency it has sparked continues to be the focus of international attention, along with the energy crisis caused by attacks on shipping in key Strait of Hormuz and other oil and gas infrastructure in the Gulf region. Stay with us for live updates from across the UN system. App users can follow coverage here.",
       "published": "2026-03-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167180"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167175",
-      "source": "UN News — Middle East",
-      "title": "War in the Middle East: Iran nuclear facility hit as equivalent of ‘one classroom of children’ killed, wounded daily in Lebanon",
-      "summary": "More than 1,000 people have been killed and 2,584 injured in Lebanon since the start of the US-Israel war on Iran, UN officials said Saturday.",
-      "published": "2026-03-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167175"
     }
   ]
 }
