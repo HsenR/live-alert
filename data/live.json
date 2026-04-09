@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-04-09T19:34:34.933Z",
+  "fetchedAt": "2026-04-09T20:29:22.333Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167276",
+      "source": "UN News — Middle East",
+      "title": "Lebanon: Health system overwhelmed following a ‘horrific’ day of Israeli strikes",
+      "summary": "The scale and speed of destruction from the wave of airstrikes in Lebanon which began just hours after the US-Iran ceasefire announcement, has left the country’s already strained health system struggling to cope, according to the World Health Organization (WHO).",
+      "published": "2026-04-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167276"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167271",
       "source": "UN News — Middle East",
@@ -333,14 +341,6 @@
       "published": "2026-03-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167194",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167181",
-      "source": "UN News — Middle East",
-      "title": "War in the Middle East: Cultural treasures damaged, with more at risk",
-      "summary": "Since the outbreak of war on 28 February, several unique sites of cultural significance have been damaged in Iran, Israel and Lebanon, alongside immense suffering, displacement and death.",
-      "published": "2026-03-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167181"
     }
   ]
 }
