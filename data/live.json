@@ -1,11 +1,19 @@
 {
-  "fetchedAt": "2026-04-10T11:59:59.696Z",
+  "fetchedAt": "2026-04-10T13:11:29.117Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167280",
+      "source": "UN News — Middle East",
+      "title": "Lebanon airstrike casualties ‘still under the rubble’ as ambulances, hospitals face new threats",
+      "summary": "With Lebanon still reeling from Israel’s devastating airstrikes on 8 April, UN humanitarians reported new fears of attacks on ambulances and looming food shortages in the south of the country on Friday.",
+      "published": "2026-04-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167280"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167279",
       "source": "UN News — Middle East",
       "title": "MIDDLE EAST LIVE 10 April: Fear and uncertainty grow in Lebanon as conflict grinds on",
-      "summary": "Fighting continues across parts of the Middle East, with renewed exchanges between Israel and Hezbollah adding to an already volatile regional picture. The escalation comes as humanitarian needs deepen, with rising civilian casualties, mounting displacement and growing strain on critical infrastructure and health services. At the same time, diplomatic efforts continue amid the scope of the recent US-Iran ceasefire, with talks scheduled in the coming days. Stay with us for live updates from across the UN system. App users can follow coverage here.",
+      "summary": "Fighting continues across parts of the Middle East, with renewed exchanges between Israel and Hezbollah in Lebanon. Humanitarian needs are deepening, with rising civilian casualties, mounting displacement and growing strain on services. Diplomatic efforts continue with high stakes negotiations due to start Saturday between the US and Iran over the faltering ceasefire deal. Lebanon is an active war zone and the Strait of Hormuz is still effectively closed. Stay with us for live updates. App users can follow coverage here.",
       "published": "2026-04-10T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167279"
     },
@@ -332,14 +340,6 @@
       "summary": "UN Secretary-General António Guterres&amp;nbsp;has warned that the escalating Gulf war is “out of control”, urging all sides to step back from the brink and allow diplomacy to prevail, as he announced the appointment of a senior envoy to spearhead peace efforts.",
       "published": "2026-03-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167198"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167195",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 25 March: All eyes on Strait of Hormuz; war is ‘out of control’, UN chief warns",
-      "summary": "It’s day 26 of war in the Middle East. The UN chief says with the conflict now totally out of control, diplomacy must prevail. Ongoing strikes in Israel and Iran have included intensifying Israeli attacks against Hezbollah targets in Lebanon, while some US troops are heading to the region, the Pentagon has confirmed. Meanwhile, Iran has told the UN maritime agency that the Strait of Hormuz remains open to “non-hostile” ships not associated with the US and Israel. UN News app users can follow coverage here.",
-      "published": "2026-03-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167195"
     }
   ]
 }
