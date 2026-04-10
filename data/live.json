@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-10T10:15:54.021Z",
+  "fetchedAt": "2026-04-10T11:14:48.299Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167279",
@@ -283,14 +283,6 @@
       "summary": "Fears are mounting for civilians caught up in Sudan’s deadly war between rival militaries as attacks intensify and humanitarian access shrinks, following a deadly airstrike on a funeral gathering in West Kordofan.",
       "published": "2026-03-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167223"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167221",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Ukraine drone attacks, Afghan rights, Zero-Waste Day",
-      "summary": "A night of drone attacks reportedly killed two people and injured 12 in the Ukrainian port city of Odesa, as a maternity hospital and three educational facilities were also damaged.",
-      "published": "2026-03-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167221"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167214",
