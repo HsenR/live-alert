@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-04-12T16:24:30.715Z",
+  "fetchedAt": "2026-04-12T17:01:23.220Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167269",
+      "source": "UN News — Peace and security",
+      "title": "From conflict to catwalk: Women ex-combatants weave reconciliation in Colombia",
+      "summary": "Katerine Avella is a former combatant in Colombia’s decades-long civil war, a peace signatory and a community leader. After the guns fell silent, she created the fashion brand Ixora but, with violence returning to the region, Ms. Avella is now focusing on trying to keep the project afloat in the face of new challenges.",
+      "published": "2026-04-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167269"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167280",
       "source": "UN News — Middle East",
@@ -257,15 +265,6 @@
       "summary": "Some 20,000 seafarers remain stranded on ships in the Strait of Hormuz as the war in the Middle East continues, a situation which has been described as unprecedented in the post-Second World War era.",
       "published": "2026-03-31T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167224"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167225",
-      "source": "UN News — Peace and security",
-      "title": "MIDDLE EAST LIVE: Vital food aid blocked, Security Council meets in emergency session on Lebanon",
-      "summary": "More than a month since war erupted in the Middle East, UN agencies confirmed on Tuesday that huge numbers of people have returned to Syria from Lebanon &quot;exhausted, traumatized and with very, very few belongings&quot;. Meanwhile, the UN International Maritime Organization said that another vessel has been attacked in the Strait of Hormuz, increasing concerns of further delays in transporting lifesaving aid. The Security Council met in New York in emergency session on Lebanon. Stay with us for live updates. App users can follow coverage here",
-      "published": "2026-03-31T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167225",
-      "country": "lebanon"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167220",
