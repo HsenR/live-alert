@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-04-13T22:28:08.038Z",
+  "fetchedAt": "2026-04-13T23:09:02.476Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167292",
+      "source": "UN News — Middle East",
+      "title": "US-Iran war: Guterres calls for continued talks, end to ceasefire violations",
+      "summary": "The United States and Iran must continue talks aimed at ending their weeks-long war, UN Secretary-General António Guterres said on Monday, underscoring that there is no military solution to the conflict.&amp;nbsp;",
+      "published": "2026-04-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167292",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167289",
       "source": "UN News — Middle East",
@@ -24,15 +33,6 @@
       "summary": "As Sudan’s war moves into a fourth year, civilians are still being killed, displaced and subjected to widespread sexual violence, the UN’s top humanitarian official in the country warned on Monday, calling for urgent action to stop the fighting and protect civilians.",
       "published": "2026-04-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167293"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167292",
-      "source": "UN News — Peace and security",
-      "title": "US-Iran war: Guterres calls for continued talks, end to ceasefire violations",
-      "summary": "The United States and Iran must continue talks aimed at ending their weeks-long war, UN Secretary-General António Guterres said on Monday, underscoring that there is no military solution to the conflict.&amp;nbsp;",
-      "published": "2026-04-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167292",
-      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167288",
@@ -363,14 +363,6 @@
       "summary": "More than 1,700 people were killed and nearly 200,000 more displaced in the July 2025 massacres in Sweida, Syria, UN human rights investigators said on Friday in a report&amp;nbsp;that called for greater action towards accountability.&amp;nbsp;",
       "published": "2026-03-27T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167210"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167208",
-      "source": "UN News — Middle East",
-      "title": "Middle East war: Attacks on vital healthcare, evacuation strike fears",
-      "summary": "Almost one month since Israeli and US airstrikes on Iran began, sparking a wider regional war, UN agencies and partners on Friday highlighted the terror among civilians fleeing bombardment, with “no safe space” to go.",
-      "published": "2026-03-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167208"
     }
   ]
 }
