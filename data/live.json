@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-04-14T17:56:09.960Z",
+  "fetchedAt": "2026-04-14T18:58:07.189Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167299",
+      "source": "UN News — Middle East",
+      "title": "‘Time for diplomacy over escalation’ in Middle East war: Guterres",
+      "summary": "As the war in the Middle East continues, the United Nations Secretary-General issued a passionate call for “serious negotiations” between the US and Iran to resume, warning that respect for international law “is being trampled” underfoot.&amp;nbsp;",
+      "published": "2026-04-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167299",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167291",
       "source": "UN News — Middle East",
@@ -12,10 +21,11 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167294",
       "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 14 April: Civilians suffer as uncertainty and tensions persist",
-      "summary": "As Israel and Lebanon prepare for talks in Washington, the UN Secretary-General has urged both sides to use all available diplomatic avenues to end hostilities. At the same time, blockading of the Strait of Hormuz continues to impact global trade and food security. Meanwhile, a regional humanitarian crisis continues. Stay with us for live updates. App users can follow coverage here.",
+      "title": "MIDDLE EAST LIVE 14 April: UN chief says US-Iran ceasefire must continue, urges respect for international law",
+      "summary": "Respect for international law is being “trampled” the UN chief warned on Tuesday, urging further negotiations between the US and Iran over ending the war and extending the fragile ceasefire as needed. Saying “there is no military solution,” he called for international navigation rights to be restored in the Strait of Hormuz. Meanwhile, a regional humanitarian crisis continues. Stay with us for live updates. App users can follow coverage here.",
       "published": "2026-04-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167294"
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167294",
+      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167292",
@@ -346,14 +356,6 @@
       "summary": "Further attacks have been reported across the Middle East as the war enters a second month, with two more Indonesian peacekeepers killed in Southern Lebanon on Monday, following the death of a fellow ‘blue helmet’ a day earlier. On the diplomatic front, the UN has announced a taskforce to restore the flow of fertilizer and aid through the Strait of Hormuz, while the UN&#039;s atomic watchdog confirms an attack on a heavy water facility at Khondab in Iran. Stay with us for live updates on this and UN agencies. App users can follow coverage here.",
       "published": "2026-03-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167215"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167214",
-      "source": "UN News — Middle East",
-      "title": "UN peacekeeper killed, another seriously injured, in southern Lebanon",
-      "summary": "UN Secretary-General António Guterres called for accountability after a peacekeeper was killed in Lebanon on Sunday amid hostilities between Israel and Hezbollah.",
-      "published": "2026-03-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167214"
     }
   ]
 }
