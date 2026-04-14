@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-04-14T08:08:53.483Z",
+  "fetchedAt": "2026-04-14T09:47:06.822Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167294",
+      "source": "UN News — Peace and security",
+      "title": "MIDDLE EAST LIVE 14 April: Civilians suffer as uncertainty and tensions persist",
+      "summary": "As Israel and Lebanon prepare for talks in Washington, the UN Secretary-General has urged both sides to use all available diplomatic avenues to end hostilities and advance the implementation of Security Council resolution 1701. At the same time, uncertainty around the Strait of Hormuz continues to raise concerns over global trade and food security. Meanwhile, the humanitarian toll remains severe, with women and children among those hardest hit by the conflict. Stay with us for live updates on developments on the ground, humanitarian impacts and ongoing diplomatic efforts. App users can follow ",
+      "published": "2026-04-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167294"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167292",
       "source": "UN News — Middle East",
@@ -263,15 +271,6 @@
       "summary": "The war in the Middle East and the near halt to shipping in the&amp;nbsp;Strait of Hormuz has amplified the energy crunch facing developing nations in Africa and&amp;nbsp;South Asia that rely heavily on imported liquid gas, food and fertilizers.&amp;nbsp;",
       "published": "2026-04-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167233"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167239",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Lebanon peacekeeper deaths, Haiti mission support, drought and conflict in Somalia",
-      "summary": "Although the situation on the ground is challenging, investigations are underway into the killing of three UN peacekeepers over two consecutive days with an update expected “as soon as possible,” UN Spokesperson Stéphane Dujarric said on Wednesday.&amp;nbsp;",
-      "published": "2026-04-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167239",
-      "country": "lebanon"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167231",
