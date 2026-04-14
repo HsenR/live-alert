@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-14T22:02:10.014Z",
+  "fetchedAt": "2026-04-14T23:01:25.310Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167300",
@@ -34,6 +34,14 @@
       "published": "2026-04-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167294",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167301",
+      "source": "UN News — Peace and security",
+      "title": "World failing Sudan as war enters a fourth year, UN relief chief warns",
+      "summary": "Sudan remains the world’ s largest humanitarian and displacement crisis, UN agencies and partners said on Tuesday, calling for an end to the war between rival militaries on the eve of the three-year mark.&amp;nbsp;",
+      "published": "2026-04-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167301"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167292",
@@ -255,14 +263,6 @@
       "published": "2026-04-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167242",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167248",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: South Sudan rights, opioid guidelines update, DR Congo crisis continues",
-      "summary": "South Sudan is evolving into a catastrophic human rights and humanitarian crisis, UN Human Rights Council-appointed independent experts warned on Thursday.",
-      "published": "2026-04-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167248"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167235",
