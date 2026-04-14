@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-04-14T09:47:06.822Z",
+  "fetchedAt": "2026-04-14T10:53:46.379Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167294",
-      "source": "UN News — Peace and security",
+      "source": "UN News — Middle East",
       "title": "MIDDLE EAST LIVE 14 April: Civilians suffer as uncertainty and tensions persist",
       "summary": "As Israel and Lebanon prepare for talks in Washington, the UN Secretary-General has urged both sides to use all available diplomatic avenues to end hostilities and advance the implementation of Security Council resolution 1701. At the same time, uncertainty around the Strait of Hormuz continues to raise concerns over global trade and food security. Meanwhile, the humanitarian toll remains severe, with women and children among those hardest hit by the conflict. Stay with us for live updates on developments on the ground, humanitarian impacts and ongoing diplomatic efforts. App users can follow ",
       "published": "2026-04-14T12:00:00.000Z",
@@ -354,14 +354,6 @@
       "summary": "Just hours after war broke out in the Middle East last month, United Nations Secretary-General António Guterres warned the Security Council that the fighting risked “igniting a chain of events that no one can control in the most volatile region of the world.”",
       "published": "2026-03-28T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167213"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167210",
-      "source": "UN News — Middle East",
-      "title": "Syria: UN Commission documents grave violations in July 2025 escalation in Sweida",
-      "summary": "More than 1,700 people were killed and nearly 200,000 more displaced in the July 2025 massacres in Sweida, Syria, UN human rights investigators said on Friday in a report&amp;nbsp;that called for greater action towards accountability.&amp;nbsp;",
-      "published": "2026-03-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167210"
     }
   ]
 }
