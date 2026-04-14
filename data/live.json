@@ -1,11 +1,19 @@
 {
-  "fetchedAt": "2026-04-14T11:46:57.902Z",
+  "fetchedAt": "2026-04-14T12:53:09.482Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167291",
+      "source": "UN News — Middle East",
+      "title": "‘Now is the moment to invest’: Syria needs global backing, says UN expert",
+      "summary": "Syria has made “remarkable progress” on transitional justice within the past year, raising hopes for accountability and recovery after more than a decade of civil conflict.",
+      "published": "2026-04-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167291"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167294",
       "source": "UN News — Middle East",
       "title": "MIDDLE EAST LIVE 14 April: Civilians suffer as uncertainty and tensions persist",
-      "summary": "As Israel and Lebanon prepare for talks in Washington, the UN Secretary-General has urged both sides to use all available diplomatic avenues to end hostilities and advance the implementation of Security Council resolution 1701. At the same time, uncertainty around the Strait of Hormuz continues to raise concerns over global trade and food security. Meanwhile, the humanitarian toll remains severe, with women and children among those hardest hit by the conflict. Stay with us for live updates on developments on the ground, humanitarian impacts and ongoing diplomatic efforts. App users can follow ",
+      "summary": "As Israel and Lebanon prepare for talks in Washington, the UN Secretary-General has urged both sides to use all available diplomatic avenues to end hostilities. At the same time, blockading of the Strait of Hormuz continues to impact global trade and food security. Meanwhile, a regional humanitarian crisis continues. Stay with us for live updates. App users can follow the coverage here.",
       "published": "2026-04-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167294"
     },
@@ -346,14 +354,6 @@
       "summary": "UN Secretary-General António Guterres called for accountability after a peacekeeper was killed in Lebanon on Sunday amid hostilities between Israel and Hezbollah.",
       "published": "2026-03-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167214"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167213",
-      "source": "UN News — Middle East",
-      "title": "Middle East war: UN initiatives support mediation efforts, ‘lifesaving’ fertiliser shipments",
-      "summary": "Just hours after war broke out in the Middle East last month, United Nations Secretary-General António Guterres warned the Security Council that the fighting risked “igniting a chain of events that no one can control in the most volatile region of the world.”",
-      "published": "2026-03-28T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167213"
     }
   ]
 }
