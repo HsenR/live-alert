@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-04-14T20:02:20.083Z",
+  "fetchedAt": "2026-04-14T21:05:49.060Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167300",
+      "source": "UN News — Middle East",
+      "title": "Yemenis are ‘hanging by a thread’ top aid official warns Security Council",
+      "summary": "Yemen must not be drawn into the escalating conflict in the Middle East, the Security Council heard on Tuesday, stressing the need for de-escalation, political progress and urgent humanitarian funding for beleaguered civilians battered by years of grinding war.&amp;nbsp;",
+      "published": "2026-04-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167300"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167299",
       "source": "UN News — Middle East",
@@ -340,14 +348,6 @@
       "summary": "Clearing mines laid at sea is an “extremely challenging and very dangerous” mission, with tidal currents just one of myriad other risk factors to consider before attempting to make a stretch of water safe, a leading UN mines expert tells us.",
       "published": "2026-03-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167216"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167215",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 30 March: UN peacekeepers killed amid Israel-Hezbollah clashes",
-      "summary": "Further attacks have been reported across the Middle East as the war enters a second month, with two more Indonesian peacekeepers killed in Southern Lebanon on Monday, following the death of a fellow ‘blue helmet’ a day earlier. On the diplomatic front, the UN has announced a taskforce to restore the flow of fertilizer and aid through the Strait of Hormuz, while the UN&#039;s atomic watchdog confirms an attack on a heavy water facility at Khondab in Iran. Stay with us for live updates on this and UN agencies. App users can follow coverage here.",
-      "published": "2026-03-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167215"
     }
   ]
 }
