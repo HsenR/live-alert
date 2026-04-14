@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-14T18:58:07.189Z",
+  "fetchedAt": "2026-04-14T20:02:20.083Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167299",
@@ -255,14 +255,6 @@
       "summary": "South Sudan is evolving into a catastrophic human rights and humanitarian crisis, UN Human Rights Council-appointed independent experts warned on Thursday.",
       "published": "2026-04-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167248"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167243",
-      "source": "UN News — Peace and security",
-      "title": "Middle East crisis exposes global energy fault line as UN urges shift to renewables",
-      "summary": "The ongoing crisis in the Middle East is exposing a central vulnerability in the global economy: the dependence on fossil fuels flowing through regions affected by conflict, a situation which is strengthening the UN’s case for a faster transition to cheaper, more resilient renewable power.",
-      "published": "2026-04-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167243"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167235",
