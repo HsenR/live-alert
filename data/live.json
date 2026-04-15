@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-04-15T08:04:38.197Z",
+  "fetchedAt": "2026-04-15T09:47:21.797Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167302",
+      "source": "UN News — Middle East",
+      "title": "MIDDLE EAST LIVE 15 April: Civilians continue to be at risk as tensions remain high",
+      "summary": "Developments across the Middle East continue as Israeli military operations in Lebanon persist, a day after rare talks aimed at easing tensions. The humanitarian toll remains severe, with more than 2,000 people reported killed since early March and growing concern over the impact on healthcare and the situation of vulnerable groups, including pregnant women. Uncertainty also continues in the Strait of Hormuz following a US-announced blockade on Iranian ports, raising wider concerns over regional stability and global trade. Stay with us for live updates on developments on the ground, humanitari",
+      "published": "2026-04-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167302"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167300",
       "source": "UN News — Middle East",
@@ -240,14 +248,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167230"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167247",
-      "source": "UN News — Peace and security",
-      "title": "Deminers race to keep up with military technology",
-      "summary": "In conflict zones where new technologies are making landmines more dangerous, deminers must innovate at the same pace to avoid being left behind, a leading UN mines expert has told UN News.&amp;nbsp;",
-      "published": "2026-04-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167247"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167244",
       "source": "UN News — Middle East",
       "title": "Guterres warns of ‘wider war’ as Middle East conflict enters second month",
@@ -340,14 +340,6 @@
       "summary": "The United Nations has condemned two consecutive days of deadly attacks on peacekeepers serving with the UN Interim Force in Lebanon (UNIFIL), amid rising hostilities between Israeli forces and Hezbollah militants.&amp;nbsp;",
       "published": "2026-03-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167222"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167216",
-      "source": "UN News — Middle East",
-      "title": "Sea mines clearance: A new dimension of difficulty",
-      "summary": "Clearing mines laid at sea is an “extremely challenging and very dangerous” mission, with tidal currents just one of myriad other risk factors to consider before attempting to make a stretch of water safe, a leading UN mines expert tells us.",
-      "published": "2026-03-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167216"
     }
   ]
 }
