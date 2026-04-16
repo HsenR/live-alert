@@ -1,13 +1,21 @@
 {
-  "fetchedAt": "2026-04-16T16:12:53.975Z",
+  "fetchedAt": "2026-04-16T17:42:29.601Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167311",
       "source": "UN News — Middle East",
       "title": "MIDDLE EAST LIVE 16 April: UN meets over China-Russia Hormuz crisis veto as Lebanon war continues",
-      "summary": "War in Lebanon continues amid the fragile US-Iran ceasefire amid hopes for direct talks between Israel and Beirut. Meanwhile, the UN General Assembly is set to debate the China-Russia Security Council veto on the crucial Strait of Hormuz crisis last month.. Stay with us for live updates. App users can follow coverage here.",
+      "summary": "War in Lebanon continues amid the fragile US-Iran ceasefire amid hopes for direct talks between Israel and Beirut. Meanwhile, the UN General Assembly is debating the China-Russia Security Council veto on the crucial Strait of Hormuz crisis last month, with assembly president Annalena Baerbock saying debate must move “to action”, on stabilising the Middle East. Stay with us for live updates. App users can follow coverage here.",
       "published": "2026-04-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167311"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167313",
+      "source": "UN News — Peace and security",
+      "title": "Deadly Russian strikes on Ukrainians ‘simply trying to live their lives’ must stop, says senior UN official",
+      "summary": "The latest wave of Russian attacks on Ukrainian civilians in Dnipro, Kyiv and Odesa, which killed and injured scores of civilians, was roundly condemned by Matthias Schmale, the UN Humanitarian Coordinator in the country.",
+      "published": "2026-04-16T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167313"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167312",
@@ -237,14 +245,6 @@
       "summary": "Over 180 people are feared dead or missing in the latest shipwrecks on the Mediterranean, according to the UN migration agency, IOM.",
       "published": "2026-04-07T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167262"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167256",
-      "source": "UN News — Peace and security",
-      "title": "‘Entire families brutally erased’: Remembering the victims of the 1994 genocide against the Tutsi in Rwanda",
-      "summary": "Thirty-two years ago, a genocidal campaign was unleashed against Rwanda’s Tutsi minority, resulting in more than one million deaths. On Tuesday, the UN is holding commemorations to ensure that the genocide is never forgotten and never repeated.",
-      "published": "2026-04-07T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167256"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167251",
