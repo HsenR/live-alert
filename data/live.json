@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-04-18T07:33:03.038Z",
+  "fetchedAt": "2026-04-18T08:24:00.906Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167331",
+      "source": "UN News — Peace and security",
+      "title": "UNICEF ‘outraged’ by killing of Gaza water truck drivers, urges investigation",
+      "summary": "The UN Children’s Fund (UNICEF) has raised alarm over the killing of two contracted workers delivering clean water to families in the Gaza Strip.",
+      "published": "2026-04-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167331",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167326",
       "source": "UN News — Middle East",
