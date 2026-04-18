@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-17T23:59:14.560Z",
+  "fetchedAt": "2026-04-18T02:09:41.663Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167326",
@@ -25,6 +25,14 @@
       "summary": "A 10-day ceasefire between Israel and Lebanon came into effect at midnight in Beirut, offering a pause in hostilities after weeks of fighting. The UN Secretary-General has welcomed the agreement and urged all parties to respect it, expressing hope it could open the way for further negotiations. He also welcomed Iran’s announcement that the Strait of Hormuz will remain open to commercial vessels for the remainder of the ceasefire, calling it a step in the right direction. Stay with us for live updates. App users can follow coverage here.",
       "published": "2026-04-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167318"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167329",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Myanmar amnesty, rising needs in Afghanistan, another power loss at Ukraine nuclear plant",
+      "summary": "Authorities in Myanmar released the country’s ousted president from prison on Friday, along with some 4,000 other people, as part of an amnesty to mark the traditional New Year festival.",
+      "published": "2026-04-17T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167329"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167327",
