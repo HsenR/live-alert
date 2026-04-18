@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-04-18T15:56:50.818Z",
+  "fetchedAt": "2026-04-18T16:29:27.251Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167332",
+      "source": "UN News — Middle East",
+      "title": "UN peacekeeper killed and three injured in southern Lebanon attack",
+      "summary": "A UN peacekeeper has been killed and three others injured after a UN Interim Force in Lebanon (UNIFIL) patrol came under fire in southern Lebanon, the mission said.",
+      "published": "2026-04-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167332",
+      "country": "lebanon"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167331",
       "source": "UN News — Middle East",
@@ -363,15 +372,6 @@
       "summary": "The war in the Middle East and the near halt to shipping in the&amp;nbsp;Strait of Hormuz has amplified the energy crunch facing developing nations in Africa and&amp;nbsp;South Asia that rely heavily on imported liquid gas, food and fertilizers.&amp;nbsp;",
       "published": "2026-04-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167233"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/03/1167231",
-      "source": "UN News — Middle East",
-      "title": "Lebanon at ‘breaking point’ as displacement soars and strikes intensify",
-      "summary": "The UN’s top humanitarian official warned the Security Council on Tuesday that Lebanon is facing one of its most dangerous moments in years, with escalating violence, mass displacement and deepening human suffering pushing the country to “breaking point”.",
-      "published": "2026-03-31T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/03/1167231",
-      "country": "lebanon"
     }
   ]
 }
