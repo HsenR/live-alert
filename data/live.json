@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-04-20T14:08:19.467Z",
+  "fetchedAt": "2026-04-20T15:41:37.440Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167333",
+      "source": "UN News — Middle East",
+      "title": "MIDDLE EAST LIVE 20 April: Uncertainty grows in the Strait of Hormuz",
+      "summary": "Tensions have escalated in the Strait of Hormuz amid renewed security incidents, including reported attacks on vessels and a US interception of an Iranian cargo ship. In Lebanon, a 10-day ceasefire with Israel continues to hold, with thousands returning to the south despite widespread destruction. A UN peacekeeper was also killed over the weekend, with initial assessments indicating the fire reportedly came from Hezbollah. Stay with us for live updates. App users can follow coverage here.",
+      "published": "2026-04-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167333"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167332",
       "source": "UN News — Middle East",
@@ -364,14 +372,6 @@
       "published": "2026-04-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167234",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167233",
-      "source": "UN News — Middle East",
-      "title": "Middle East war: Energy crunch hits vulnerable nations",
-      "summary": "The war in the Middle East and the near halt to shipping in the&amp;nbsp;Strait of Hormuz has amplified the energy crunch facing developing nations in Africa and&amp;nbsp;South Asia that rely heavily on imported liquid gas, food and fertilizers.&amp;nbsp;",
-      "published": "2026-04-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167233"
     }
   ]
 }
