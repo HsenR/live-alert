@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-21T20:40:15.441Z",
+  "fetchedAt": "2026-04-21T21:27:48.835Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167340",
@@ -8,6 +8,14 @@
       "summary": "Uncertainty surrounds possible US-Iran talks in Pakistan, with no confirmation yet that they will go ahead. At the same time, tensions persist in the Strait of Hormuz, raising concerns over maritime security, while the humanitarian crisis in Lebanon continues despite the ceasefire. Stay with us for live updates. App users can follow coverage here.",
       "published": "2026-04-21T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167340"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167348",
+      "source": "UN News — Peace and security",
+      "title": "As Colombia elections near, Security Council calls for calm",
+      "summary": "While hope for peace is alive in Colombia as the country prepares for presidential elections, the Security Council on Tuesday heard that achieving it – and making it last – still requires the full implementation of a peace accord signed almost 10 years ago.",
+      "published": "2026-04-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167348"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167341",
@@ -279,14 +287,6 @@
       "summary": "Fighting continues across parts of the Middle East, with renewed exchanges between Israel and Hezbollah in Lebanon. Humanitarian needs are deepening, with rising civilian casualties, mounting displacement and growing strain on services. Diplomatic efforts continue with high stakes negotiations due to start Saturday between the US and Iran over the faltering ceasefire deal. Lebanon is an active war zone and the Strait of Hormuz is still effectively closed. Stay with us for live updates. App users can follow coverage here.",
       "published": "2026-04-10T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167279"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167284",
-      "source": "UN News — Peace and security",
-      "title": "New era for space dawns as Artemis astronauts return",
-      "summary": "After a 10-day journey around the far side of the Moon, the four astronauts on NASA’s Artemis II mission are set to splash down in the Pacific Ocean late on Friday.&amp;nbsp;",
-      "published": "2026-04-10T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167284"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167276",
