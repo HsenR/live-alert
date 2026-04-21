@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-04-21T21:27:48.835Z",
+  "fetchedAt": "2026-04-21T22:06:11.785Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167345",
+      "source": "UN News — Middle East",
+      "title": "Economic collapse pushes highly educated Gazans into the ‘survival economy’",
+      "summary": "Young Palestinians in Gaza with university-level educations are setting aside dreams of putting their hard-won skills into practice and doing whatever they can to survive.&amp;nbsp;",
+      "published": "2026-04-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167345",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167340",
       "source": "UN News — Middle East",
@@ -370,15 +379,6 @@
       "summary": "The Middle East crisis has lurched into its second month, prompting UN Secretary-General António Guterres to issue a stark warning on Thursday morning that the world is “on the edge of a wider war” with catastrophic global implications.",
       "published": "2026-04-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167244"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167242",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 2 April: Civilian impact deepens as UN chief says ‘we must find a peaceful way out’ before region is engulfed by war",
-      "summary": "Deadly new strikes reported across the Middle East overnight and Thursday rattled energy markets and pushed crude oil prices up to $107 in early trading. Hopes dwindled of a quick end to the conflict as President Trump spoke of another &quot;two to three weeks&quot; of attacks, alongside &quot;ongoing&quot; discussions with Tehran. Civilians across the region continue to suffer misery and displacement. The UN chief told reporters at UN Headquarters the conflict ‘is already being felt everywhere,” and “the spiral of destruction must stop”. Follow live coverage from the Security Council here. Ap",
-      "published": "2026-04-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167242",
-      "country": "iran"
     }
   ]
 }
