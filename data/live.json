@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-22T18:43:07.020Z",
+  "fetchedAt": "2026-04-22T19:49:48.352Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167354",
@@ -9,6 +9,14 @@
       "published": "2026-04-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167354",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167357",
+      "source": "UN News — Peace and security",
+      "title": "Libya: UN mission chief laments lack of progress towards national renewal",
+      "summary": "Libya’s political leaders continue to lag in implementing a roadmap that leads to national elections and unified institutions, the UN Special Representative for the country told the Security Council on Wednesday.",
+      "published": "2026-04-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167357"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167345",
@@ -281,14 +289,6 @@
       "summary": "As Sudan’s war moves into a fourth year, civilians are still being killed, displaced and subjected to widespread sexual violence, the UN’s top humanitarian official in the country warned on Monday, calling for urgent action to stop the fighting and protect civilians.",
       "published": "2026-04-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167293"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167288",
-      "source": "UN News — Peace and security",
-      "title": "European Union support for the UN ‘more vital than ever’, Security Council hears",
-      "summary": "A senior United Nations official on Monday hailed the European Union (EU) as “a major economic and diplomatic actor and a strong advocate of multilateralism.”&amp;nbsp;&amp;nbsp;",
-      "published": "2026-04-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167288"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167280",
