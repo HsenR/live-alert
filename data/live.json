@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-04-22T16:39:43.012Z",
+  "fetchedAt": "2026-04-22T17:38:03.515Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167354",
+      "source": "UN News — Middle East",
+      "title": "Ceasefire extension offers diplomatic opening, but tensions persist in Strait of Hormuz",
+      "summary": "The United States’ decision to extend a fragile ceasefire with Iran has kept a narrow window open for diplomacy, but fresh security incidents in the Strait of Hormuz on Wednesday underscore the volatility of the situation and the risks to global shipping and regional stability.",
+      "published": "2026-04-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167354",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167345",
       "source": "UN News — Middle East",
@@ -371,14 +380,6 @@
       "published": "2026-04-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167250",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167244",
-      "source": "UN News — Middle East",
-      "title": "Guterres warns of ‘wider war’ as Middle East conflict enters second month",
-      "summary": "The Middle East crisis has lurched into its second month, prompting UN Secretary-General António Guterres to issue a stark warning on Thursday morning that the world is “on the edge of a wider war” with catastrophic global implications.",
-      "published": "2026-04-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167244"
     }
   ]
 }
