@@ -1,6 +1,40 @@
 {
-  "fetchedAt": "2026-04-23T17:45:20.598Z",
+  "fetchedAt": "2026-04-23T18:50:19.236Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167367",
+      "source": "UN News — Peace and security",
+      "title": "Devastation at every turn greets UN aid mission to south Lebanon",
+      "summary": "A UNICEF relief mission reached a large hospital in the southern Lebanese town of Tebnine on Thursday, only to find massive destruction and staggering needs.",
+      "published": "2026-04-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167367",
+      "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167365",
+      "source": "UN News — Peace and security",
+      "title": "Despite ceasefire, Hormuz tensions continue to throttle supply chains worldwide",
+      "summary": "A temporary ceasefire between the United States and Iran has been extended, offering an opening for diplomacy – but persistent tensions in the Strait of Hormuz are compounding trade disruptions and intensifying pressure on humanitarian operations and vulnerable communities far beyond the Gulf.",
+      "published": "2026-04-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167365",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167364",
+      "source": "UN News — Peace and security",
+      "title": "Middle East war: After oil and gas, concerns grow over minerals crunch",
+      "summary": "The shipping crisis in the Strait of Hormuz caused by war in the Middle East has exposed a new threat: a looming shortage of strategic minerals that drive economies all over the world – and a race by countries to obtain them.",
+      "published": "2026-04-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167364"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167362",
+      "source": "UN News — Peace and security",
+      "title": "SECURITY COUNCIL LIVE: Update on Haiti as humanitarian crisis continues alongside gang violence",
+      "summary": "The Security Council is addressing the deepening crisis in Haiti on Wednesday, centered on the Secretary-General’s latest report which highlights a security landscape of both intensified enforcement and rising civilian risk. While operations including by the UN-backed&amp;nbsp;Gang Suppression Force (GSF) between December and February resulted in the deaths of 1,343 suspected gang members, the humanitarian cost remains staggering. The UN Special Representative told ambassadors elections are the “only legitimate path” back to political stability, while his counterpart with the GSF said its succ",
+      "published": "2026-04-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167362"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167358",
       "source": "UN News — Middle East",
@@ -289,14 +323,6 @@
       "summary": "Weekend developments have raised fresh concerns worldwide after talks between the United States and Iran on Saturday ended without agreement, fuelling uncertainty and raising tensions once again. The planned US blockade targeting Iranian ports going into effect has added to fears of further escalation and global trade disruption. Meanwhile, the humanitarian toll mounts, with Lebanese authorities reporting that deaths from Israeli airstrikes has now surpassed 2,000. Stay with us for live updates on humanitarian impacts and diplomatic efforts. App users can follow coverage here.",
       "published": "2026-04-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167285"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167293",
-      "source": "UN News — Peace and security",
-      "title": "Sudan: Top UN aid official warns of ‘abandoned crisis’ as war enters fourth year",
-      "summary": "As Sudan’s war moves into a fourth year, civilians are still being killed, displaced and subjected to widespread sexual violence, the UN’s top humanitarian official in the country warned on Monday, calling for urgent action to stop the fighting and protect civilians.",
-      "published": "2026-04-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167293"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167280",
