@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-23T20:04:12.807Z",
+  "fetchedAt": "2026-04-23T20:53:11.375Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167367",
@@ -26,6 +26,15 @@
       "summary": "The shipping crisis in the Strait of Hormuz caused by war in the Middle East has exposed a new threat: a looming shortage of strategic minerals that drive economies all over the world – and a race by countries to obtain them.",
       "published": "2026-04-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167364"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167373",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Civilians at risk in Gaza, Duterte to go on trial in ICC, closing vaccination gaps",
+      "summary": "Continued strikes, shelling and gunfire in residential areas of Gaza are raising alarm over civilian safety, the UN relief coordination office OCHA has warned.",
+      "published": "2026-04-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167373",
+      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167362",
