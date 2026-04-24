@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-04-24T12:42:58.871Z",
+  "fetchedAt": "2026-04-24T14:17:14.427Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167376",
+      "source": "UN News — Peace and security",
+      "title": "As Gaza misery continues, shortages in Iran begin to bite",
+      "summary": "Desperate and dangerous conditions in Gaza continue to hamper recovery efforts for the wartorn enclave&#039;s people, the UN health agency said on Friday, while demining experts warned that they’ve “barely scratched the surface” in assessing the level of contamination of unexploded ordnance.",
+      "published": "2026-04-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167376"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167375",
+      "source": "UN News — Peace and security",
+      "title": "MIDDLE EAST LIVE 24 April: Israel-Lebanon ceasefire extended as humanitarian concerns persist",
+      "summary": "The United States has announced that the Israel-Lebanon ceasefire will be extended by three weeks following talks in Washington, offering a potential pause in hostilities. Meanwhile, humanitarian concerns persist across the region, including in Gaza and Iran. Stay with us for live updates.",
+      "published": "2026-04-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167375"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167367",
       "source": "UN News — Middle East",
@@ -299,14 +315,6 @@
       "published": "2026-04-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167294",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167301",
-      "source": "UN News — Peace and security",
-      "title": "World failing Sudan as war enters a fourth year, UN relief chief warns",
-      "summary": "Sudan remains the world’ s largest humanitarian and displacement crisis, UN agencies and partners said on Tuesday, calling for an end to the war between rival militaries on the eve of the three-year mark.&amp;nbsp;",
-      "published": "2026-04-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167301"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167292",
