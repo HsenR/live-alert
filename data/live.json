@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-24T23:22:53.532Z",
+  "fetchedAt": "2026-04-24T23:59:20.567Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167376",
@@ -16,6 +16,22 @@
       "summary": "The United States has announced that the Israel-Lebanon ceasefire will be extended by three weeks following talks in Washington, offering a potential pause in hostilities. Meanwhile, humanitarian concerns are growing over shortages in Iran and Gaza, while another UN peacekeeper has died after coming under fire. Stay with us for live updates.",
       "published": "2026-04-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167375"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167380",
+      "source": "UN News — Peace and security",
+      "title": "Rising nuclear risks put global security pact to the test at UN Headquarters",
+      "summary": "At a moment of mounting nuclear danger and deepening global mistrust, governments from nearly every country will convene at the United Nations next week to confront a central question: will the world’s main barrier against the spread of nuclear weapons still hold?",
+      "published": "2026-04-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167380"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167379",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Airliner safety warning, drought in Somalia, solar boosts farming in Ethiopia",
+      "summary": "The head of the UN’s civil aviation agency, ICAO, has called for immediate global action to protect commercial flights from escalating military threats, including missiles, drones, and GPS signal jamming.",
+      "published": "2026-04-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167379"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167367",
@@ -273,14 +289,6 @@
       "summary": "Foreign ministers from across the world met in Berlin on Wednesday to show support for Sudan, where a fourth year of brutal warfare has begun as humanitarian needs deepen.&amp;nbsp;",
       "published": "2026-04-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167309"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167304",
-      "source": "UN News — Peace and security",
-      "title": "SECURITY COUNCIL LIVE: Security fears rise in eastern DR Congo",
-      "summary": "The UN Security Council met Wednesday over the deteriorating security situation in the Democratic Republic of the Congo and wider Great Lakes region. Despite mediation efforts in Doha and Washington, regional tensions between the DRC, Rwanda, and Burundi remain acute. Follow the full live updates below from our Meetings Coverage team, and app users can click here.",
-      "published": "2026-04-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167304"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167300",
