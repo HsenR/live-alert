@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-04-26T22:34:14.664Z",
+  "fetchedAt": "2026-04-26T23:22:35.831Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167383",
+      "source": "UN News — Peace and security",
+      "title": "Chokepoints and conflict: How the Hormuz crisis is exposing global shipping vulnerabilities",
+      "summary": "The blockading of ships in the Strait of Hormuz as a result of the conflict between the United States and Iran has demonstrated how ships and seafarers have become “leverage in geopolitical disputes,” according to the head of the UN’s International Maritime Organization (IMO).",
+      "published": "2026-04-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167383",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167382",
       "source": "UN News — Peace and security",
@@ -281,14 +290,6 @@
       "summary": "The latest wave of Russian attacks on Ukrainian civilians in Dnipro, Kyiv and Odesa, which killed and injured scores of civilians, was roundly condemned by Matthias Schmale, the UN Humanitarian Coordinator in the country.",
       "published": "2026-04-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167313"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167312",
-      "source": "UN News — Peace and security",
-      "title": "UN peacekeeping missions under strain as funding cuts and new threats grow",
-      "summary": "From election support in the Central African Republic to patrols in the disputed Abyei region, UN peacekeepers are operating in increasingly volatile environments – but shrinking resources and new threats, including drone warfare, are testing their ability to keep communities safe.",
-      "published": "2026-04-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167312"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167302",
