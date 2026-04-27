@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-04-27T11:58:06.070Z",
+  "fetchedAt": "2026-04-27T13:27:42.133Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167384",
+      "source": "UN News — Peace and security",
+      "title": "MIDDLE EAST LIVE 27 April: Fighting continues in Lebanon; Security Council to debate maritime security",
+      "summary": "The recently extended ceasefire between Israel and Lebanon remains under strain as violence continues, with civilian deaths and injuries reported in Israeli strikes over the weekend. Meanwhile, the UN Security Council is set to hold a high-level debate on maritime security amid ongoing concerns over the safety of key global waterways. Stay with us for live updates.",
+      "published": "2026-04-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167384"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167383",
       "source": "UN News — Peace and security",
@@ -46,7 +54,7 @@
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167380",
       "source": "UN News — Peace and security",
       "title": "Rising nuclear risks put global security pact to the test at UN Headquarters",
-      "summary": "At a moment of mounting nuclear danger and deepening global mistrust, governments from nearly every country will convene at the United Nations next week to confront a central question: will the world’s main barrier against the spread of nuclear weapons still hold?",
+      "summary": "At a moment of mounting nuclear danger and deepening global mistrust, governments from nearly every country have convened at United Nations Headquarters to confront a central question: will the world’s main barrier against the spread of nuclear weapons still hold?",
       "published": "2026-04-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167380"
     },
@@ -282,14 +290,6 @@
       "summary": "War in Lebanon continues amid the fragile US-Iran ceasefire amid hopes for direct talks between Israel and Beirut. Meanwhile, the UN General Assembly is debating the China-Russia Security Council veto on the crucial Strait of Hormuz crisis last month, with assembly president Annalena Baerbock saying debate must move “to action”, on stabilising the Middle East. Stay with us for live updates below and live Meetings Coverage on the veto meeting is here. App users can follow our live coverage here.",
       "published": "2026-04-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167311"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167313",
-      "source": "UN News — Peace and security",
-      "title": "Deadly Russian strikes on Ukrainians ‘simply trying to live their lives’ must stop, says senior UN official",
-      "summary": "The latest wave of Russian attacks on Ukrainian civilians in Dnipro, Kyiv and Odesa, which killed and injured scores of civilians, was roundly condemned by Matthias Schmale, the UN Humanitarian Coordinator in the country.",
-      "published": "2026-04-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167313"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167302",
