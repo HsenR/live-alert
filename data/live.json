@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-27T15:22:57.611Z",
+  "fetchedAt": "2026-04-27T16:59:39.645Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167384",
@@ -8,6 +8,14 @@
       "summary": "The recently extended ceasefire between Israel and Lebanon remains under strain as violence continues, with civilian deaths and injuries reported in Israeli strikes over the weekend. Meanwhile, the UN Security Council is set to hold a high-level debate on maritime security amid ongoing concerns over the safety of key global waterways, follow in-depth meeting coverage here. Stay with us for live updates.",
       "published": "2026-04-27T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167384"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167385",
+      "source": "UN News — Peace and security",
+      "title": "Central Sahel: Millions of children in humanitarian need, UNICEF official warns",
+      "summary": "Nearly 7.5 million children across the Central Sahel region in Africa are in urgent need of humanitarian assistance – “an emergency that remains too far from the attention of the international community,” a senior official with the UN child rights agency UNICEF has said.&amp;nbsp;",
+      "published": "2026-04-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167385"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167383",
