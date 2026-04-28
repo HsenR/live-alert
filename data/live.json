@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-27T23:33:46.940Z",
+  "fetchedAt": "2026-04-28T01:19:55.867Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167384",
@@ -8,6 +8,14 @@
       "summary": "The recently extended ceasefire between Israel and Lebanon remains under strain as violence continues, with civilian deaths and injuries reported in Israeli strikes over the weekend. Meanwhile, the Security Council is debating maritime security with the UN chief calling on nations restricting ship movement through the Strait of Hormuz to “let the global economy breathe.” Follow in-depth meeting coverage here. Stay with us for live updates.",
       "published": "2026-04-27T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167384"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167388",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Sudan drone attacks condemned, South Sudan violence, airstrikes in Ukraine, South Africa Freedom Day",
+      "summary": "The United Nations has condemned two recent drone attacks in Sudan, one of which left seven dead, Spokesperson Stéphane Dujarric said on Monday during his regular media briefing in New York.",
+      "published": "2026-04-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167388"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167387",
@@ -282,14 +290,6 @@
       "summary": "Senior UN officials painted a sorry picture of South Sudan on Friday at the Security Council, describing political turmoil, rising violence, hunger and disease, amid budget cuts that are limiting the ability of the UN peacekeeping mission to protect civilians.",
       "published": "2026-04-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167327"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167322",
-      "source": "UN News — Peace and security",
-      "title": "As the ‘world court’ turns 80, Guterres says law must prevail over force",
-      "summary": "The world is at a “moment of crisis” and countries must reaffirm commitment to international law amid rising violations and geopolitical tensions, UN Secretary-General António Guterres said at an event on Friday to commemorate the 80th anniversary of the International Court of Justice (ICJ).&amp;nbsp;",
-      "published": "2026-04-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167322"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167311",
