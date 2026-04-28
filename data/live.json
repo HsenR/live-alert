@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-04-28T22:15:54.102Z",
+  "fetchedAt": "2026-04-28T23:14:45.365Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167400",
+      "source": "UN News — Middle East",
+      "title": "From Hormuz to Lebanon, crisis reverberates through trade routes, upending humanitarian networks",
+      "summary": "Disruptions in the Strait of Hormuz continue to send shockwaves through global food systems, the UN Food and Agriculture Organization has warned, as a widening crisis across the Middle East continues to strain humanitarian operations and deepen instability.",
+      "published": "2026-04-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167400",
+      "country": "lebanon"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167392",
       "source": "UN News — Middle East",
@@ -9,15 +18,6 @@
       "published": "2026-04-28T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167392",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167400",
-      "source": "UN News — Peace and security",
-      "title": "From Hormuz to Lebanon, crisis reverberates through trade routes, upending humanitarian networks",
-      "summary": "Disruptions in the Strait of Hormuz continue to send shockwaves through global food systems, the UN Food and Agriculture Organization has warned, as a widening crisis across the Middle East continues to strain humanitarian operations and deepen instability.",
-      "published": "2026-04-28T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167400",
-      "country": "lebanon"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167390",
@@ -391,14 +391,6 @@
       "summary": "With Lebanon still reeling from Israel’s devastating airstrikes on 8 April, UN humanitarians reported new fears of attacks on ambulances and looming food shortages in the south of the country on Friday.",
       "published": "2026-04-10T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167280"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167279",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 10 April: Fear and uncertainty grow in Lebanon as conflict grinds on",
-      "summary": "Fighting continues across parts of the Middle East, with renewed exchanges between Israel and Hezbollah in Lebanon. Humanitarian needs are deepening, with rising civilian casualties, mounting displacement and growing strain on services. Diplomatic efforts continue with high stakes negotiations due to start Saturday between the US and Iran over the faltering ceasefire deal. Lebanon is an active war zone and the Strait of Hormuz is still effectively closed. Stay with us for live updates. App users can follow coverage here.",
-      "published": "2026-04-10T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167279"
     }
   ]
 }
