@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-04-28T13:02:51.658Z",
+  "fetchedAt": "2026-04-28T15:34:17.308Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167392",
+      "source": "UN News — Middle East",
+      "title": "SECURITY COUNCIL LIVE: Gaza in focus",
+      "summary": "The Security Council turns again to the Middle East crisis in New York on Tuesday, with scheduled debate expected to focus on the fragile Gaza ceasefire, a worsening humanitarian crisis there and efforts to advance a US-backed peace plan. UN Assistant Secretary-General for political affairs Khaled Khiari is set to brief, alongside former UK Prime Minister and member of the US-led Board of Peace Tony Blair. You can follow all the UN&#039;s meetings coverage here but follow live and in-depth updates below.&amp;nbsp;",
+      "published": "2026-04-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167392",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167390",
+      "source": "UN News — Peace and security",
+      "title": "Darfur: Two decades on, a new generation of children faces &#039;horrific violence&#039;",
+      "summary": "Twenty years after the conflict in Darfur first sparked global outrage, children in the region are once again trapped in a catastrophic cycle of violence, hunger, and displacement – but this time, the world is failing to take notice.",
+      "published": "2026-04-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167390"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167389",
       "source": "UN News — Middle East",
@@ -284,22 +301,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167318"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167329",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Myanmar amnesty, rising needs in Afghanistan, another power loss at Ukraine nuclear plant",
-      "summary": "Authorities in Myanmar released the country’s ousted president from prison on Friday, along with some 4,000 other people, as part of an amnesty to mark the traditional New Year festival.",
-      "published": "2026-04-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167329"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167327",
-      "source": "UN News — Peace and security",
-      "title": "‘Slaughtered like goats’: Despair and abandonment in South Sudan",
-      "summary": "Senior UN officials painted a sorry picture of South Sudan on Friday at the Security Council, describing political turmoil, rising violence, hunger and disease, amid budget cuts that are limiting the ability of the UN peacekeeping mission to protect civilians.",
-      "published": "2026-04-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167327"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167311",
       "source": "UN News — Middle East",
       "title": "MIDDLE EAST LIVE 16 April: UN meets over China-Russia Hormuz crisis veto as humanitarian crisis continues in Lebanon",
@@ -389,14 +390,6 @@
       "summary": "Fighting continues across parts of the Middle East, with renewed exchanges between Israel and Hezbollah in Lebanon. Humanitarian needs are deepening, with rising civilian casualties, mounting displacement and growing strain on services. Diplomatic efforts continue with high stakes negotiations due to start Saturday between the US and Iran over the faltering ceasefire deal. Lebanon is an active war zone and the Strait of Hormuz is still effectively closed. Stay with us for live updates. App users can follow coverage here.",
       "published": "2026-04-10T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167279"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167276",
-      "source": "UN News — Middle East",
-      "title": "Lebanon: Health system overwhelmed following a ‘horrific’ day of Israeli strikes",
-      "summary": "The scale and speed of destruction from the wave of airstrikes in Lebanon which began just hours after the US-Iran ceasefire announcement, has left the country’s already strained health system struggling to cope, according to the World Health Organization (WHO).",
-      "published": "2026-04-09T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167276"
     }
   ]
 }
