@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-04-28T01:19:55.867Z",
+  "fetchedAt": "2026-04-28T04:48:02.053Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167389",
+      "source": "UN News — Middle East",
+      "title": "Afghanistan risks losing 25,000 women teachers and health workers",
+      "summary": "Restrictions on girls’ education and women’s employment in Afghanistan could leave the country with a deficit of over 25,000 female teachers and health workers by 2030, the UN Children’s Fund (UNICEF) warned on Tuesday.&amp;nbsp;",
+      "published": "2026-04-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167389"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167384",
       "source": "UN News — Middle East",
@@ -389,14 +397,6 @@
       "summary": "The scale and speed of destruction from the wave of airstrikes in Lebanon which began just hours after the US-Iran ceasefire announcement, has left the country’s already strained health system struggling to cope, according to the World Health Organization (WHO).",
       "published": "2026-04-09T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167276"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167271",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 9 April: UN condemns massive strikes in Lebanon, as concerns grow over ceasefire",
-      "summary": "With a US-Iran ceasefire offering a fragile glimmer of hope after weeks of conflict, violence continues to reverberate across the Middle East. Massive airstrikes in Lebanon have caused heavy civilian casualties and widespread destruction, drawing strong UN condemnation. As humanitarian needs deepen and diplomatic efforts intensify, the situation remains highly volatile. Stay with us for live updates. App users can follow coverage here.",
-      "published": "2026-04-09T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167271"
     }
   ]
 }
