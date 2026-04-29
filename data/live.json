@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-29T12:00:11.438Z",
+  "fetchedAt": "2026-04-29T14:28:12.473Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167400",
@@ -18,6 +18,14 @@
       "published": "2026-04-28T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167392",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167402",
+      "source": "UN News — Peace and security",
+      "title": "Over half of South Sudan’s population faces acute hunger crisis",
+      "summary": "Conflict and displacement are intensifying South Sudan’s hunger crisis, with&amp;nbsp;7.8 million people facing high levels of acute food insecurity while 2.2 million children are suffering from acute malnutrition, according to&amp;nbsp;a joint statement&amp;nbsp;on Tuesday from UN agencies.",
+      "published": "2026-04-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167402"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167390",
