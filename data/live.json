@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-29T21:35:43.525Z",
+  "fetchedAt": "2026-04-29T22:36:55.374Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167403",
@@ -9,6 +9,24 @@
       "published": "2026-04-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167403",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167409",
+      "source": "UN News — Peace and security",
+      "title": "2015 nuclear deal ‘no basis’ for any new agreement with Iran",
+      "summary": "The 2015 nuclear accord with Iran cannot be the starting point for a new agreement with the country, the head of the International Atomic Energy Agency (IAEA) said on Wednesday in New York.&amp;nbsp;",
+      "published": "2026-04-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167409",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167408",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Europe warming twice as fast, acute hunger in Lebanon, peacekeepers deployed in Congo",
+      "summary": "New data shows record heatwaves from the Mediterranean to the Arctic last year, with glaciers shrinking and snow cover declining, according to the UN World Meteorological Organization (WMO).&amp;nbsp;",
+      "published": "2026-04-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167408",
+      "country": "lebanon"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167400",
@@ -266,22 +284,6 @@
       "summary": "Tensions have escalated in the Strait of Hormuz amid renewed security incidents, including reported attacks on vessels and a US interception of an Iranian cargo ship. It&#039;s unclear if more talks will take place in the coming day between Washington and Tehran in Islamabad. In Lebanon, a 10-day ceasefire with Israel continues to hold, with thousands returning to the south despite widespread destruction. A UN peacekeeper was also killed over the weekend – likely from Hezbollah fire.&amp;nbsp; Stay with us for live updates. App users can follow coverage here.",
       "published": "2026-04-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167333"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167339",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: AI diagnostics, humanitarian deal for DR Congo, rights abuse allegations in Belarus, Ukraine children bear heaviest burden",
-      "summary": "New data shows that nearly&amp;nbsp;three in four countries in Europe now use Artificial Intelligence in their health services to make a diagnosis.",
-      "published": "2026-04-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167339"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167338",
-      "source": "UN News — Peace and security",
-      "title": "SECURITY COUNCIL LIVE: Emergency briefing on Ukraine amid escalating Russian attacks",
-      "summary": "The Security Council meets in emergency session at 3pm to address the escalating conflict in Ukraine. The open briefing follows a formal request from Kyiv citing a surge in Russian aerial bombardments, including devastating strikes on the city of Dnipro. Ukraine has reported that between late March and mid-April, more than 5,000 drones and missiles were launched, killing dozens of civilians and injuring hundreds more. Follow full meetings coverage below and UN News app users can follow here.",
-      "published": "2026-04-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167338"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167332",
