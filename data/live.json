@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-04-30T21:29:58.688Z",
+  "fetchedAt": "2026-04-30T22:27:55.898Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167418",
+      "source": "UN News — Middle East",
+      "title": "Lebanon strikes deepen crisis as hunger rises and conditions worsen in Gaza",
+      "summary": "At least nine people were reported to have been killed in southern Lebanon on Thursday, as ongoing hostilities continue to exact a heavy toll on civilians and drive a worsening humanitarian crisis marked by rising hunger and strained public services.",
+      "published": "2026-04-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167418"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167411",
       "source": "UN News — Middle East",
@@ -16,14 +24,6 @@
       "summary": "In South Sudan, the UN aid coordination office [OCHA] reported on Thursday that conflict and flooding continue to drive displacement and food insecurity higher throughout the country.",
       "published": "2026-04-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167419"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167418",
-      "source": "UN News — Peace and security",
-      "title": "Lebanon strikes deepen crisis as hunger rises and conditions worsen in Gaza",
-      "summary": "At least nine people were reported to have been killed in southern Lebanon on Thursday, as ongoing hostilities continue to exact a heavy toll on civilians and drive a worsening humanitarian crisis marked by rising hunger and strained public services.",
-      "published": "2026-04-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167418"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167415",
@@ -402,14 +402,6 @@
       "published": "2026-04-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167292",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167289",
-      "source": "UN News — Middle East",
-      "title": "‘Clock is ticking’: Hormuz disruption raises fears of global food crisis",
-      "summary": "The clock is ticking for global food systems as disruptions in the Strait of Hormuz threaten to choke off the flow of fuel and crucial fertilizers needed for the next planting season – also raising the risk of higher food prices and a new wave of inflation.&amp;nbsp;",
-      "published": "2026-04-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167289"
     }
   ]
 }
