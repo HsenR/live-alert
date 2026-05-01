@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-01T21:33:32.654Z",
+  "fetchedAt": "2026-05-01T22:31:20.748Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167422",
@@ -16,6 +16,23 @@
       "summary": "The strain on food, fuel and aid systems worldwide continues as the Middle East crisis deepens. Rising oil prices, supply disruptions and mounting transport costs are affecting humanitarian operations and access to essential goods far beyond the region. Stay with us this Friday for live updates.",
       "published": "2026-05-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167421"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167428",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Aung San Suu Kyi released from prison, Israel’s new death penalty, Cambodia convictions, healthcare inequalities in South America",
+      "summary": "Former Myanmar State Counsellor Aung San Suu Kyi has been transferred from prison to house arrest, with her sentence reduced under a prisoner amnesty linked to a Buddhist holiday.&amp;nbsp;",
+      "published": "2026-05-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167428",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167426",
+      "source": "UN News — Peace and security",
+      "title": "Nuclear fears resurface among younger generations amid global tensions",
+      "summary": "The threat of nuclear Armageddon, a constant worry for many who grew up during the tense decades of the Cold War, is becoming a cause for concern for a growing number of young people.",
+      "published": "2026-05-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167426"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167418",
@@ -249,14 +266,6 @@
       "published": "2026-04-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167373",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167362",
-      "source": "UN News — Peace and security",
-      "title": "SECURITY COUNCIL LIVE: Update on Haiti as humanitarian crisis continues alongside gang violence",
-      "summary": "The Security Council is addressing the deepening crisis in Haiti on Thursday, centered on the Secretary-General’s latest report which highlights a security landscape of both intensified enforcement and rising civilian risk. While operations including by the UN-backed&amp;nbsp;Gang Suppression Force (GSF) between December and February resulted in the deaths of 1,343 suspected gang members, the humanitarian cost remains staggering. The UN Special Representative told ambassadors elections are the “only legitimate path” back to political stability, while his counterpart with the GSF said its succe",
-      "published": "2026-04-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167362"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167358",
