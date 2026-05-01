@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-01T11:20:46.913Z",
+  "fetchedAt": "2026-05-01T12:10:25.393Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167421",
+      "source": "UN News — Peace and security",
+      "title": "MIDDLE EAST LIVE 1 May: Strain on food, fuel and aid systems continues",
+      "summary": "Strain on food, fuel and aid systems continues as the global impacts of the Middle East crisis deepen. Rising oil prices, supply disruptions and mounting transport costs are affecting humanitarian operations and access to essential goods far beyond the region. Stay with us for live updates.",
+      "published": "2026-05-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167421"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167418",
       "source": "UN News — Middle East",
@@ -258,14 +266,6 @@
       "published": "2026-04-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167354",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167357",
-      "source": "UN News — Peace and security",
-      "title": "Libya: UN mission chief laments lack of progress towards national renewal",
-      "summary": "Libya’s political leaders continue to lag in implementing a roadmap that leads to national elections and unified institutions, the UN Special Representative for the country told the Security Council on Wednesday.",
-      "published": "2026-04-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167357"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167345",
