@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-02T15:02:54.946Z",
+  "fetchedAt": "2026-05-02T15:58:33.997Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167422",
@@ -21,7 +21,7 @@
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167428",
       "source": "UN News — Peace and security",
       "title": "World News in Brief: Aung San Suu Kyi released from prison, Israel’s new death penalty, Cambodia convictions, healthcare inequalities in South America",
-      "summary": "Former Myanmar State Counsellor Aung San Suu Kyi has been transferred from prison to house arrest, with her sentence reduced under a prisoner amnesty linked to a Buddhist holiday.&amp;nbsp;",
+      "summary": "Myanmar State Counsellor Aung San Suu Kyi has been transferred from prison to house arrest, with her sentence reduced under a prisoner amnesty linked to a Buddhist holiday.&amp;nbsp;",
       "published": "2026-05-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167428",
       "country": "israel"
