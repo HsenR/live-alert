@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-03T22:32:59.626Z",
+  "fetchedAt": "2026-05-03T23:25:54.018Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167423",
@@ -57,6 +57,14 @@
       "summary": "The escalating crisis in the Strait of Hormuz could push tens of millions into poverty, trigger a surge in global hunger and even tip the world towards recession, the UN Secretary-General warned on Thursday.",
       "published": "2026-04-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167411"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167417",
+      "source": "UN News — Peace and security",
+      "title": "LIVE: 2026 World Press Freedom Day",
+      "summary": "Media freedom is not a given and its absence frequently leaves communities and vulnerable individuals in danger. To mark World Press Freedom Day, we’ll be hearing from war correspondents and reporters who face major obstacles trying to do their job. The aim is to get a better understanding about what press freedom means in practice and why it is worth defending. Thanks for joining us.&amp;nbsp;",
+      "published": "2026-04-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167417"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167419",
