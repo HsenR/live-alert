@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-04T22:43:38.234Z",
+  "fetchedAt": "2026-05-04T23:34:50.377Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167438",
+      "source": "UN News — Middle East",
+      "title": "UN winds down Türkiye-Syria aid route, after more than 65,000 lifesaving journeys",
+      "summary": "The UN has formally concluded its cross-border humanitarian operations from Türkiye into Syria, marking the end of an 11-year mission that served as one of the most complex supply chains in the organization’s history.&amp;nbsp;",
+      "published": "2026-05-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167438"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167437",
       "source": "UN News — Middle East",
@@ -408,14 +416,6 @@
       "summary": "Across the Middle East, tensions remain high with Israeli military operations continuing in Lebanon following direct talks between the two governments in Washington on Tuesday. More than 2,000 Lebanese have been reported killed since early March. Uncertainty also continues over the crucial Strait of Hormuz crisis. Stay with us for live updates on developments on the ground, humanitarian impacts and diplomatic efforts. App users can follow coverage here.",
       "published": "2026-04-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167302"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167300",
-      "source": "UN News — Middle East",
-      "title": "Yemenis are ‘hanging by a thread’ top aid official warns Security Council",
-      "summary": "Yemen must not be drawn into the escalating conflict in the Middle East, the Security Council heard on Tuesday, stressing the need for de-escalation, political progress and urgent humanitarian funding for beleaguered civilians battered by years of grinding war.&amp;nbsp;",
-      "published": "2026-04-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167300"
     }
   ]
 }
