@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-05-04T12:55:07.858Z",
+  "fetchedAt": "2026-05-04T14:59:39.453Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167432",
+      "source": "UN News — Middle East",
+      "title": "Uncertainty continues over safety in the Strait of Hormuz",
+      "summary": "Amid claims and counter-claims of strikes and confrontations in the crucial Strait of Hormuz between Iran and the United States, UN maritime officials continue to urge vessels to exercise “maximum caution”.",
+      "published": "2026-05-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167432",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167417",
       "source": "UN News — Peace and security",
@@ -409,14 +418,6 @@
       "published": "2026-04-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167299",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167291",
-      "source": "UN News — Middle East",
-      "title": "‘Now is the moment to invest’: Syria needs global backing, says UN expert",
-      "summary": "Syria has made “remarkable progress” on transitional justice within the past year, raising hopes for accountability and recovery after more than a decade of civil conflict.",
-      "published": "2026-04-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167291"
     }
   ]
 }
