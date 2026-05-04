@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-04T19:53:22.238Z",
+  "fetchedAt": "2026-05-04T20:55:08.684Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167432",
@@ -9,6 +9,14 @@
       "published": "2026-05-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167432",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167437",
+      "source": "UN News — Peace and security",
+      "title": "Middle East: Fighting and displacement in Lebanon; call for ‘sustained access’ in Gaza",
+      "summary": "Lebanon’s fragile ceasefire is being tested by renewed violence and rising humanitarian needs amid continuing civilians displacement, services under pressure and aid cuts.",
+      "published": "2026-05-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167437"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167417",
