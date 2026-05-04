@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-04T21:49:20.693Z",
+  "fetchedAt": "2026-05-04T22:43:38.234Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167437",
+      "source": "UN News — Middle East",
+      "title": "Middle East: Fighting and displacement in Lebanon; call for ‘sustained access’ in Gaza",
+      "summary": "Lebanon’s fragile ceasefire is being tested by renewed violence and rising humanitarian needs amid continuing civilians displacement, services under pressure and aid cuts.",
+      "published": "2026-05-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167437"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167432",
       "source": "UN News — Middle East",
@@ -11,12 +19,12 @@
       "country": "iran"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167437",
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167439",
       "source": "UN News — Peace and security",
-      "title": "Middle East: Fighting and displacement in Lebanon; call for ‘sustained access’ in Gaza",
-      "summary": "Lebanon’s fragile ceasefire is being tested by renewed violence and rising humanitarian needs amid continuing civilians displacement, services under pressure and aid cuts.",
+      "title": "Global rise of cyberattacks exposes limits of technical solutions",
+      "summary": "The internet reaches into every corner of the world and is vital to everything from health systems and financial markets to public services and election organising. This intense global interconnectedness clearly comes with great benefits, but a cybercrime epidemic is putting millions of lives at risk.",
       "published": "2026-05-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167437"
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167439"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167417",
@@ -408,15 +416,6 @@
       "summary": "Yemen must not be drawn into the escalating conflict in the Middle East, the Security Council heard on Tuesday, stressing the need for de-escalation, political progress and urgent humanitarian funding for beleaguered civilians battered by years of grinding war.&amp;nbsp;",
       "published": "2026-04-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167300"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167299",
-      "source": "UN News — Middle East",
-      "title": "‘Time for diplomacy over escalation’ in Middle East war: Guterres",
-      "summary": "As the war in the Middle East continues, the United Nations Secretary-General issued a passionate call for “serious negotiations” between the US and Iran to resume, warning that respect for international law “is being trampled” underfoot.&amp;nbsp;",
-      "published": "2026-04-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167299",
-      "country": "iran"
     }
   ]
 }
