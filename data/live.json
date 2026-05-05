@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-05-05T12:54:59.811Z",
+  "fetchedAt": "2026-05-05T16:20:56.966Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167442",
+      "source": "UN News — Middle East",
+      "title": "In Lebanon, the same fears and dangers persist despite ceasefire: UNHCR",
+      "summary": "Death and destruction have continued unabated in Lebanon while communities are still unable to return to their homes despite a ceasefire that began on 17 April, humanitarians said on Tuesday.",
+      "published": "2026-05-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167442",
+      "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167441",
+      "source": "UN News — Peace and security",
+      "title": "UN warns of worsening human rights crisis in Mali after deadly attacks",
+      "summary": "The human rights situation in Mali is rapidly deteriorating following coordinated attacks by armed groups across the country, with civilians killed, displaced and cut off from food and aid, UN rights office OHCHR said on Tuesday.",
+      "published": "2026-05-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167441"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167438",
       "source": "UN News — Middle East",
@@ -266,22 +283,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167375"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167380",
-      "source": "UN News — Peace and security",
-      "title": "Rising nuclear risks put global security pact to the test at UN Headquarters",
-      "summary": "At a moment of mounting nuclear danger and deepening global mistrust, governments from nearly every country have convened at United Nations Headquarters to confront a central question: will the world’s main barrier against the spread of nuclear weapons still hold?",
-      "published": "2026-04-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167380"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167379",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Airliner safety warning, drought in Somalia, solar boosts farming in Ethiopia",
-      "summary": "The head of the UN’s civil aviation agency, ICAO, has called for immediate global action to protect commercial flights from escalating military threats, including missiles, drones, and GPS signal jamming.",
-      "published": "2026-04-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167379"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167367",
       "source": "UN News — Middle East",
       "title": "Devastation at every turn greets UN aid mission to south Lebanon",
@@ -408,14 +409,6 @@
       "summary": "War in Lebanon continues amid the fragile US-Iran ceasefire amid hopes for direct talks between Israel and Beirut. Meanwhile, the UN General Assembly is debating the China-Russia Security Council veto on the crucial Strait of Hormuz crisis last month, with assembly president Annalena Baerbock saying debate must move “to action”, on stabilising the Middle East. Stay with us for live updates below and live Meetings Coverage on the veto meeting is here. App users can follow our live coverage here.",
       "published": "2026-04-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167311"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167302",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 15 April: Civilian dangers intensify as Israel expands Lebanon evacuation orders",
-      "summary": "Across the Middle East, tensions remain high with Israeli military operations continuing in Lebanon following direct talks between the two governments in Washington on Tuesday. More than 2,000 Lebanese have been reported killed since early March. Uncertainty also continues over the crucial Strait of Hormuz crisis. Stay with us for live updates on developments on the ground, humanitarian impacts and diplomatic efforts. App users can follow coverage here.",
-      "published": "2026-04-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167302"
     }
   ]
 }
