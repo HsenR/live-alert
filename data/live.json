@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-05-06T15:31:06.564Z",
+  "fetchedAt": "2026-05-06T17:09:30.621Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167450",
+      "source": "UN News — Middle East",
+      "title": "Gaza flotilla: Aid delivery ‘not a crime’, UN rights office tells Israel",
+      "summary": "The UN human rights office on Wednesday called on Israel to immediately release two members of the Global Sumud Flotilla detained in international waters, warning that solidarity with Palestinians and attempts to deliver humanitarian aid to Gaza “is not a crime.”",
+      "published": "2026-05-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167450",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167442",
       "source": "UN News — Middle East",
@@ -402,14 +411,6 @@
       "summary": "A 10-day ceasefire between Israel and Lebanon came into effect at midnight in Beirut, offering a pause in hostilities after weeks of fighting. The UN Secretary-General has welcomed the agreement and urged all parties to respect it, expressing hope it could open the way for further negotiations. He also welcomed Iran’s announcement that the Strait of Hormuz will remain open to commercial vessels for the remainder of the ceasefire, calling it a step in the right direction. Stay with us for live updates. App users can follow coverage here.",
       "published": "2026-04-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167318"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167311",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 16 April: UN meets over China-Russia Hormuz crisis veto as humanitarian crisis continues in Lebanon",
-      "summary": "War in Lebanon continues amid the fragile US-Iran ceasefire amid hopes for direct talks between Israel and Beirut. Meanwhile, the UN General Assembly is debating the China-Russia Security Council veto on the crucial Strait of Hormuz crisis last month, with assembly president Annalena Baerbock saying debate must move “to action”, on stabilising the Middle East. Stay with us for live updates below and live Meetings Coverage on the veto meeting is here. App users can follow our live coverage here.",
-      "published": "2026-04-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167311"
     }
   ]
 }
