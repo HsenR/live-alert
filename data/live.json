@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-07T20:36:10.834Z",
+  "fetchedAt": "2026-05-07T21:34:21.646Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167460",
+      "source": "UN News — Middle East",
+      "title": "Lebanon: Fresh strike on Beirut suburbs ‘a very alarming development’",
+      "summary": "An Israeli airstrike overnight on the southern suburbs of the Lebanese capital Beirut has sparked a new wave of displacement among civilians already impacted by months of conflict, the United Nations said on Thursday.",
+      "published": "2026-05-07T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167460"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167453",
       "source": "UN News — Middle East",
@@ -393,15 +401,6 @@
       "summary": "Since the Middle East war started on 28 February, several sites of major cultural significance have come under attack in Israel, Iran and Lebanon. Ensuring their protection is the task of the UN agency for education, science and culture, UNESCO.&amp;nbsp;",
       "published": "2026-04-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167326"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167319",
-      "source": "UN News — Middle East",
-      "title": "More than 38,000 women and girls killed in Gaza war, UN gender equality agency reports",
-      "summary": "The war in Gaza has inflicted a far higher toll on women and girls than in previous conflicts in the Palestinian enclave, with more than 38,000 killed by Israeli air bombardment and land military operations since Hamas-led terror attacks in Israel sparked the war in October 2023, UN Women said on Friday.",
-      "published": "2026-04-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167319",
-      "country": "israel"
     }
   ]
 }
