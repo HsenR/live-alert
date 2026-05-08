@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-08T14:13:26.266Z",
+  "fetchedAt": "2026-05-08T15:50:54.157Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167467",
+      "source": "UN News — Peace and security",
+      "title": "Lebanon war leaves families foraging for food despite ceasefire",
+      "summary": "The fragile ceasefire in Lebanon hasn’t prevented “ongoing killing and displacement”, with villages in the south of the country rendered completely unrecognizable after Israeli strikes, aid teams reported on Friday.",
+      "published": "2026-05-08T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167467"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167460",
       "source": "UN News — Middle East",
@@ -8,6 +16,15 @@
       "summary": "An Israeli airstrike overnight on the southern suburbs of the Lebanese capital Beirut has sparked a new wave of displacement among civilians already impacted by months of conflict, the United Nations said on Thursday.",
       "published": "2026-05-07T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167460"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167464",
+      "source": "UN News — Peace and security",
+      "title": "Bahrain and US float Security Council resolution on the Strait of Hormuz",
+      "summary": "Bahrain and the United States have circulated a draft Security Council resolution calling for Iran to cease attacks in the Strait of Hormuz, their ambassadors outlined to journalists at UN Headquarters in New York on Thursday.",
+      "published": "2026-05-07T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167464",
+      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167453",
@@ -266,22 +283,6 @@
       "summary": "The United Nations has condemned two recent drone attacks in Sudan, one of which left seven dead, Spokesperson Stéphane Dujarric said on Monday during his regular media briefing in New York.",
       "published": "2026-04-27T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167388"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167387",
-      "source": "UN News — Peace and security",
-      "title": "As warheads proliferate, decades old nuclear weapons treaty must evolve, warns UN chief",
-      "summary": "With top diplomats gathered at UN Headquarters to review the 1970 Treaty on the Non-Proliferation of Nuclear Weapons (NPT), the UN Secretary-General warned that it must evolve to survive the age of AI and other new technologies.",
-      "published": "2026-04-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167387"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167385",
-      "source": "UN News — Peace and security",
-      "title": "Central Sahel: Millions of children in humanitarian need, UNICEF official warns",
-      "summary": "Nearly 7.5 million children across the Central Sahel region in Africa are in urgent need of humanitarian assistance – “an emergency that remains too far from the attention of the international community,” a senior official with the UN child rights agency UNICEF has said.&amp;nbsp;",
-      "published": "2026-04-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167385"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167376",
