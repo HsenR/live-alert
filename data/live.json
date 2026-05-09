@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-09T17:08:43.734Z",
+  "fetchedAt": "2026-05-09T18:01:11.831Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167448",
+      "source": "UN News — Peace and security",
+      "title": "Nuclear energy in the Middle East: A realistic choice or a risk?",
+      "summary": "As global electricity demand grows, so does the popularity of nuclear energy. In the Middle East, several countries are evaluating or advancing nuclear power projects, balancing weighty issues such as regional security, climatic conditions and international cooperation.",
+      "published": "2026-05-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167448"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167467",
       "source": "UN News — Middle East",
@@ -259,14 +267,6 @@
       "summary": "Conflict and displacement are intensifying South Sudan’s hunger crisis, with&amp;nbsp;7.8 million people facing high levels of acute food insecurity while 2.2 million children are suffering from acute malnutrition, according to&amp;nbsp;a joint statement&amp;nbsp;on Tuesday from UN agencies.",
       "published": "2026-04-28T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167402"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167390",
-      "source": "UN News — Peace and security",
-      "title": "Darfur: Two decades on, a new generation of children faces &#039;horrific violence&#039;",
-      "summary": "Twenty years after the conflict in Darfur first sparked global outrage, children in the region are once again trapped in a catastrophic cycle of violence, hunger, and displacement – but this time, the world is failing to take notice.",
-      "published": "2026-04-28T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167390"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167389",
