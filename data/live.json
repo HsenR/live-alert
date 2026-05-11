@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-05-11T10:55:46.155Z",
+  "fetchedAt": "2026-05-11T13:36:00.328Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167478",
+      "source": "UN News — Middle East",
+      "title": "Strait of Hormuz de-escalation is urgent, says UN chief",
+      "summary": "As the Strait of Hormuz crisis deepens and tensions between Iran and the United States remain unresolved, oil prices rose again early Monday, prompting the UN Secretary-General to call for a peaceful resolution and warn of the widening fallout across Africa and beyond.",
+      "published": "2026-05-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167478",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167448",
       "source": "UN News — Peace and security",
@@ -385,15 +394,6 @@
       "published": "2026-04-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167332",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167331",
-      "source": "UN News — Middle East",
-      "title": "UNICEF ‘outraged’ by killing of Gaza water truck drivers, urges investigation",
-      "summary": "The UN Children’s Fund (UNICEF) has raised alarm over the killing of two contracted workers delivering clean water to families in the Gaza Strip.",
-      "published": "2026-04-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167331",
-      "country": "israel"
     }
   ]
 }
