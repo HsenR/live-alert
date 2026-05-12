@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-12T21:59:12.670Z",
+  "fetchedAt": "2026-05-12T22:58:51.594Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167488",
@@ -9,6 +9,22 @@
       "published": "2026-05-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167488",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167495",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Conflict drives hunger in DR Congo, mass corporal punishment in Afghanistan, Earth’s sand is running out",
+      "summary": "More than 26.5 million people in the Democratic Republic of the Congo are facing acute hunger, according to a new analysis from UN-backed food security experts published Tuesday.",
+      "published": "2026-05-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167495"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167494",
+      "source": "UN News — Peace and security",
+      "title": "Chad’s refugee crisis overwhelms maternity care in east, UN agency warns",
+      "summary": "Many women in eastern Chad are being forced to give birth in overcrowded clinics with limited medicine, minimal equipment and severe shortages of anesthesia, as a worsening humanitarian crisis overwhelms the country’s fragile healthcare system, the UN reproductive health agency, UNFPA, warned on Tuesday.",
+      "published": "2026-05-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167494"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167483",
@@ -257,24 +273,6 @@
       "published": "2026-04-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167403",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167409",
-      "source": "UN News — Peace and security",
-      "title": "2015 nuclear deal ‘no basis’ for any new agreement with Iran",
-      "summary": "The 2015 nuclear accord with Iran cannot be the starting point for a new agreement with the country, the head of the International Atomic Energy Agency (IAEA) said on Wednesday in New York.&amp;nbsp;",
-      "published": "2026-04-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167409",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167408",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Europe warming twice as fast, acute hunger in Lebanon, peacekeepers deployed in Congo",
-      "summary": "New data shows record heatwaves from the Mediterranean to the Arctic last year, with glaciers shrinking and snow cover declining, according to the UN World Meteorological Organization (WMO).&amp;nbsp;",
-      "published": "2026-04-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167408",
-      "country": "lebanon"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167400",
