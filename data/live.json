@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-13T21:13:01.051Z",
+  "fetchedAt": "2026-05-13T22:37:30.584Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167499",
+      "source": "UN News — Middle East",
+      "title": "Funding shortfalls force deep cuts to Syria food assistance: WFP",
+      "summary": "Millions of Syrians are at growing risk of hunger after severe funding shortages forced the UN World Food Programme (WFP) to halve emergency food assistance, cutting support for hundreds of thousands of vulnerable people across the country.",
+      "published": "2026-05-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167499"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167496",
       "source": "UN News — Middle East",
@@ -260,8 +268,8 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167415",
       "source": "UN News — Peace and security",
-      "title": "DPRK Korea: Continued militarisation a ‘serious concern’, political affairs chief warns Security Council",
-      "summary": "The continued pursuit of nuclear weapons and ballistic missile development by The Democratic People’s Republic of Korea remain “a matter of serious concern,” the UN’s political affairs chief told the Security Council on Thursday.&amp;nbsp;",
+      "title": "DPR Korea: Continued militarisation a ‘serious concern’, political affairs chief warns Security Council",
+      "summary": "The continued pursuit of nuclear weapons and ballistic missile development by the Democratic People’s Republic of Korea remain “a matter of serious concern,” the UN’s political affairs chief told the Security Council on Thursday.&amp;nbsp;",
       "published": "2026-04-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167415"
     },
@@ -375,14 +383,6 @@
       "published": "2026-04-21T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167345",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167340",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 21 April: Talks unclear; Hormuz tensions continue",
-      "summary": "Uncertainty surrounds possible US-Iran talks in Pakistan, with no confirmation yet that they will go ahead. At the same time, tensions persist in the Strait of Hormuz, raising concerns over maritime security, while the humanitarian crisis in Lebanon continues despite the ceasefire. Stay with us for live updates. App users can follow coverage here.",
-      "published": "2026-04-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167340"
     }
   ]
 }
