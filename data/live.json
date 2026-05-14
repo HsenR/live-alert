@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-14T22:34:04.620Z",
+  "fetchedAt": "2026-05-14T23:33:44.187Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167506",
@@ -9,6 +9,14 @@
       "published": "2026-05-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167506",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167514",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba",
+      "summary": "Nearly six million people in Somalia – almost a third of the population analysed – are projected to face acute hunger between April and June, with 1.9 million expected to experience emergency levels, UN-backed food security experts warned on Thursday.",
+      "published": "2026-05-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167514"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167511",
@@ -282,14 +290,6 @@
       "published": "2026-05-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167428",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167426",
-      "source": "UN News — Peace and security",
-      "title": "Nuclear fears resurface among younger generations amid global tensions",
-      "summary": "The threat of nuclear Armageddon, a constant worry for many who grew up during the tense decades of the Cold War, is becoming a cause for concern for a growing number of young people.",
-      "published": "2026-05-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167426"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167418",
