@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-14T14:39:52.007Z",
+  "fetchedAt": "2026-05-14T16:31:15.292Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167506",
@@ -9,6 +9,22 @@
       "published": "2026-05-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167506",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167509",
+      "source": "UN News — Peace and security",
+      "title": "Russian attacks on Ukrainian civilians are a clear violation of humanitarian law, says senior UN official",
+      "summary": "The UN Humanitarian Coordinator in Ukraine, Bernadette Castel-Hollingsworth, has reacted strongly to Russian military strikes on a civilian area of Kyiv on Thursday.&amp;nbsp;",
+      "published": "2026-05-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167509"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167507",
+      "source": "UN News — Peace and security",
+      "title": "‘Stop’: Sandy Walker uses art to confront the legacy of Hiroshima",
+      "summary": "Eighty years after the atomic bombing of Hiroshima, artist Sandy Walker believes art still has the power to cut through abstraction and confront people with the human reality of nuclear violence. Inspired by the writings of Hiroshima survivor Tamiki Hara, Walker’s work seeks to transform historical catastrophe into intimate acts of memory, grief and attention.&amp;nbsp;",
+      "published": "2026-05-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167507"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167499",
@@ -282,14 +298,6 @@
       "summary": "The escalating crisis in the Strait of Hormuz could push tens of millions into poverty, trigger a surge in global hunger and even tip the world towards recession, the UN Secretary-General warned on Thursday.",
       "published": "2026-04-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167411"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167419",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Displacement in South Sudan, fraud centres in the Philippines, new migration patterns in Latin America",
-      "summary": "In South Sudan, the UN aid coordination office [OCHA] reported on Thursday that conflict and flooding continue to drive displacement and food insecurity higher throughout the country.",
-      "published": "2026-04-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167419"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167403",
