@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-05-14T12:14:17.574Z",
+  "fetchedAt": "2026-05-14T14:39:52.007Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167506",
+      "source": "UN News — Middle East",
+      "title": "Gaza reconstruction envisages building ‘islands’ out of rubble",
+      "summary": "A feasibility study is underway to examine whether Gaza’s war debris could be recycled to reclaim coastal land and build artificial islands, as part of reconstruction.",
+      "published": "2026-05-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167506",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167499",
       "source": "UN News — Middle East",
@@ -383,15 +392,6 @@
       "published": "2026-04-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167354",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167345",
-      "source": "UN News — Middle East",
-      "title": "Economic collapse pushes highly educated Gazans into the ‘survival economy’",
-      "summary": "Young Palestinians in Gaza with university-level educations are setting aside dreams of putting their hard-won skills into practice and doing whatever they can to survive.&amp;nbsp;",
-      "published": "2026-04-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167345",
-      "country": "israel"
     }
   ]
 }
