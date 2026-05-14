@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-14T10:32:37.502Z",
+  "fetchedAt": "2026-05-14T12:14:17.574Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167499",
@@ -16,6 +16,23 @@
       "summary": "The UN Interim Force in Lebanon (UNIFIL) said on Wednesday that escalating drone activity and nearby explosions involving suspected Hezbollah drones and Israeli forces are endangering its personnel and threatening already fragile stability in southern Lebanon.",
       "published": "2026-05-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167496"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167503",
+      "source": "UN News — Peace and security",
+      "title": "In Addis Ababa, Guterres urges reforms to give Africa stronger global voice",
+      "summary": "Africa’s rising influence is being constrained by outdated global institutions, unfair borrowing costs and cascading global crises, UN Secretary‑General António Guterres warned in Addis Ababa, as the United Nations and African Union reaffirmed their strategic partnership.",
+      "published": "2026-05-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167503"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167502",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine",
+      "summary": "Mounting waste and limited access to sanitation sites are deepening health risks for families across Gaza, as humanitarian workers warn that overcrowded dumping areas and worsening living conditions threaten vulnerable communities.",
+      "published": "2026-05-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167502",
+      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167488",
@@ -264,14 +281,6 @@
       "summary": "In South Sudan, the UN aid coordination office [OCHA] reported on Thursday that conflict and flooding continue to drive displacement and food insecurity higher throughout the country.",
       "published": "2026-04-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167419"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167415",
-      "source": "UN News — Peace and security",
-      "title": "DPR Korea: Continued militarisation a ‘serious concern’, political affairs chief warns Security Council",
-      "summary": "The continued pursuit of nuclear weapons and ballistic missile development by the Democratic People’s Republic of Korea remain “a matter of serious concern,” the UN’s political affairs chief told the Security Council on Thursday.&amp;nbsp;",
-      "published": "2026-04-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167415"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167403",
