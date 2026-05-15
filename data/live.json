@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-15T22:34:23.875Z",
+  "fetchedAt": "2026-05-15T23:33:50.683Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167521",
@@ -25,6 +25,14 @@
       "summary": "The UN Security Council meets Friday morning in New York to discuss the evolving situation in Syria, as the country navigates a fragile transition after years of conflict and the fall of the Assad regime. Deputy Special Envoy Claudio Cordone and UN relief chief Tom Fletcher are expected to brief members on political and humanitarian developments. Follow our live coverage for updates from the chamber as they happen.",
       "published": "2026-05-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167518"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167525",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: UN relief vehicle struck in Ukraine, emergency airdrops in South Sudan, backlash against LGBTIQ+ rights",
+      "summary": "The Secretary-General is alarmed that a clearly marked United Nations vehicle was struck twice in Kherson city in Ukraine on 14 May, his spokesperson said in a statement.",
+      "published": "2026-05-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167525"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167516",
