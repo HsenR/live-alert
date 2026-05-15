@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-15T12:21:27.149Z",
+  "fetchedAt": "2026-05-15T14:42:27.302Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167516",
+      "source": "UN News — Peace and security",
+      "title": "Somalia at ‘real risk of famine’ as Middle East war fallout continues",
+      "summary": "At least six million people in Somalia are going days without enough food, UN aid teams warned on Friday, highlighting that nearly two million of this number are young children “at high risk&amp;nbsp;of illness or death”.",
+      "published": "2026-05-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167516"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167511",
       "source": "UN News — Middle East",
@@ -30,7 +38,7 @@
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167509",
       "source": "UN News — Peace and security",
       "title": "Russian attacks on Ukrainian civilians are a clear violation of humanitarian law, says senior UN official",
-      "summary": "The UN Humanitarian Coordinator in Ukraine, Bernadette Castel-Hollingsworth, has reacted strongly to Russian military strikes on a civilian area of Kyiv on Thursday.&amp;nbsp;",
+      "summary": "The UN Humanitarian Coordinator a.i. in Ukraine, Bernadette Castel-Hollingsworth, has reacted strongly to Russian military strikes on a civilian area of Kyiv on Thursday.&amp;nbsp;",
       "published": "2026-05-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167509"
     },
@@ -281,15 +289,6 @@
       "summary": "The strain on food, fuel and aid systems worldwide continues as the Middle East crisis deepens. Rising oil prices, supply disruptions and mounting transport costs are affecting humanitarian operations and access to essential goods far beyond the region. Stay with us this Friday for live updates.",
       "published": "2026-05-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167421"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167428",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Aung San Suu Kyi released from prison, Israel’s new death penalty, Cambodia convictions, healthcare inequalities in South America",
-      "summary": "Myanmar State Counsellor Aung San Suu Kyi has been transferred from prison to house arrest, with her sentence reduced under a prisoner amnesty linked to a Buddhist holiday.&amp;nbsp;",
-      "published": "2026-05-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167428",
-      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167418",
