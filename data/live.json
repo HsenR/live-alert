@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-14T23:33:44.187Z",
+  "fetchedAt": "2026-05-15T01:27:58.642Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167511",
+      "source": "UN News — Middle East",
+      "title": "Yemen parties agree under UN mediation to release 1,600 detainees",
+      "summary": "More than 1,600 conflict-related detainees in Yemen will be released under a UN-brokered agreement reached after months of negotiations in Jordan, marking the largest prisoner release deal since the country’s civil war began and offering a rare sign of progress in stalled peace efforts.",
+      "published": "2026-05-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167511"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167506",
       "source": "UN News — Middle East",
@@ -17,14 +25,6 @@
       "summary": "Nearly six million people in Somalia – almost a third of the population analysed – are projected to face acute hunger between April and June, with 1.9 million expected to experience emergency levels, UN-backed food security experts warned on Thursday.",
       "published": "2026-05-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167514"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167511",
-      "source": "UN News — Peace and security",
-      "title": "Yemen parties agree under UN mediation to release 1,600 detainees",
-      "summary": "More than 1,600 conflict-related detainees in Yemen will be released under a UN-brokered agreement reached after months of negotiations in Jordan, marking the largest prisoner release deal since the country’s civil war began and offering a rare sign of progress in stalled peace efforts.",
-      "published": "2026-05-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167511"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167509",
@@ -399,15 +399,6 @@
       "summary": "The Security Council is meeting now at a critical juncture for Syria’s fragile transition. While the Iran-US ceasefire has temporarily eased regional spillover from Lebanon and elsewhere, conditions remain volatile in Syria. The reported US military withdrawal now completed, marks a milestone, yet the chamber faces a country grappling with deep internal fissures and external pressures. Follow full meetings coverage below and UN News app users should click here.&amp;nbsp;",
       "published": "2026-04-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167358"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167354",
-      "source": "UN News — Middle East",
-      "title": "Ceasefire extension offers diplomatic opening, but tensions persist in Strait of Hormuz",
-      "summary": "The United States’ decision to extend a fragile ceasefire with Iran has kept a narrow window open for diplomacy, but fresh security incidents in the Strait of Hormuz on Wednesday underscore the volatility of the situation and the risks to global shipping and regional stability.",
-      "published": "2026-04-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167354",
-      "country": "iran"
     }
   ]
 }
