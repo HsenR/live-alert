@@ -1,10 +1,27 @@
 {
-  "fetchedAt": "2026-05-15T16:24:00.637Z",
+  "fetchedAt": "2026-05-15T17:56:37.510Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167521",
+      "source": "UN News — Middle East",
+      "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
+      "summary": "Civilians across Gaza, the West Bank and Lebanon continue to face mounting hardship as conflict, displacement and ongoing military operations deepen humanitarian needs and strain already limited aid efforts, according to the latest updates from UN agencies.",
+      "published": "2026-05-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167521"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167519",
+      "source": "UN News — Middle East",
+      "title": "LIVE UPDATES: UN committee commemorates the 78th anniversary of the Nakba",
+      "summary": "The Committee on the Exercise of the Inalienable Rights of the Palestinian People meets Friday at the UN Headquarters to commemorate the 78th anniversary of the Nakba. Senior UN officials, including General Assembly President Annalena Baerbock and Assistant Secretary-General Khaled Khiari, are expected to address the meeting. The event will also feature testimonies from Palestinian families and a tribute to historian of Palestine and the Nakba, Walid Khalidi. Follow our live updates from the meeting as it happens.",
+      "published": "2026-05-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167519",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167518",
       "source": "UN News — Middle East",
-      "title": "LIVE: Security Council meets on Syria transition and humanitarian crisis",
+      "title": "Security Council meets on Syria transition and humanitarian crisis",
       "summary": "The UN Security Council meets Friday morning in New York to discuss the evolving situation in Syria, as the country navigates a fragile transition after years of conflict and the fall of the Assad regime. Deputy Special Envoy Claudio Cordone and UN relief chief Tom Fletcher are expected to brief members on political and humanitarian developments. Follow our live coverage for updates from the chamber as they happen.",
       "published": "2026-05-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167518"
@@ -267,22 +284,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167439"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167417",
-      "source": "UN News — Peace and security",
-      "title": "LIVE: 2026 World Press Freedom Day",
-      "summary": "Media freedom is not a given and its absence frequently leaves communities and vulnerable individuals in danger. To mark World Press Freedom Day, we’ll be hearing from UN agencies, along with war correspondents and reporters who face major obstacles trying to do their job. The aim is to get a better understanding about what press freedom means in practice and why it is worth defending. &amp;nbsp;",
-      "published": "2026-05-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167417"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167423",
-      "source": "UN News — Peace and security",
-      "title": "Global demining work strained by rising conflicts and shrinking aid",
-      "summary": "Demining experts from around the world have been sharing their collective shock at the widespread and growing threat from unexploded ordnance, the new head of the UN Mine Action Service (UNMAS) said this week.&amp;nbsp;",
-      "published": "2026-05-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167423"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167422",
       "source": "UN News — Middle East",
       "title": "Middle East crisis puts aid, food, fuel further out of reach for millions already struggling – UN agencies",
@@ -381,23 +382,6 @@
       "published": "2026-04-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167367",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167365",
-      "source": "UN News — Middle East",
-      "title": "Despite ceasefire, Hormuz tensions continue to throttle supply chains worldwide",
-      "summary": "A temporary ceasefire between the United States and Iran has been extended, offering an opening for diplomacy – but persistent tensions in the Strait of Hormuz are compounding trade disruptions and intensifying pressure on humanitarian operations and vulnerable communities far beyond the Gulf.",
-      "published": "2026-04-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167365",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167364",
-      "source": "UN News — Middle East",
-      "title": "Middle East war: After oil and gas, concerns grow over minerals crunch",
-      "summary": "The shipping crisis in the Strait of Hormuz caused by war in the Middle East has exposed a new threat: a looming shortage of strategic minerals that drive economies all over the world – and a race by countries to obtain them.",
-      "published": "2026-04-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167364"
     }
   ]
 }
