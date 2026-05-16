@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-16T13:56:46.974Z",
+  "fetchedAt": "2026-05-16T14:47:56.649Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167521",
@@ -25,6 +25,14 @@
       "summary": "The UN Security Council meets Friday morning in New York to discuss the evolving situation in Syria, as the country navigates a fragile transition after years of conflict and the fall of the Assad regime. Deputy Special Envoy Claudio Cordone and UN relief chief Tom Fletcher are expected to brief members on political and humanitarian developments. Follow our live coverage for updates from the chamber as they happen.",
       "published": "2026-05-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167518"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167528",
+      "source": "UN News — Peace and security",
+      "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
+      "summary": "Nearly 20 million people across Sudan are facing acute hunger and more than 800,000 children risk severe malnutrition this year, UN agencies warned on Friday, as civil war, mass displacement and collapsing food and health systems deepen one of the world’s worst humanitarian crises and push parts of the country closer to famine.",
+      "published": "2026-05-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167528"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167525",
@@ -282,14 +290,6 @@
       "published": "2026-05-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167432",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167439",
-      "source": "UN News — Peace and security",
-      "title": "Global rise of cyberattacks exposes limits of technical solutions",
-      "summary": "The internet reaches into every corner of the world and is vital to everything from health systems and financial markets to public services and election organising. This intense global interconnectedness clearly comes with great benefits, but a cybercrime epidemic is putting millions of lives at risk.",
-      "published": "2026-05-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167439"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167422",
