@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-18T16:15:26.930Z",
+  "fetchedAt": "2026-05-18T18:15:39.604Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167534",
+      "source": "UN News — Peace and security",
+      "title": "Ebola outbreak follows hunger and displacement crisis in DR Congo",
+      "summary": "A day after the World Health Organization (WHO)&amp;nbsp;declared the new Ebola outbreak in eastern Democratic Republic of the Congo an international emergency, top global disease transmission experts stressed that the chances of another global pandemic similar to the 2019 coronavirus emergency are increasing all the time.",
+      "published": "2026-05-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167534"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167501",
       "source": "UN News — Peace and security",
