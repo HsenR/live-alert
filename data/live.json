@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-18T09:32:49.328Z",
+  "fetchedAt": "2026-05-18T12:54:03.083Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167501",
+      "source": "UN News — Peace and security",
+      "title": "Nuclear terror threat ‘has never been so high’",
+      "summary": "The widespread availability of new technology, such as militarised drones and artificial intelligence, means that the current threat of nuclear terrorism is higher than it has ever been.",
+      "published": "2026-05-17T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167501"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167521",
       "source": "UN News — Middle East",
@@ -257,14 +265,6 @@
       "published": "2026-05-05T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167447",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167441",
-      "source": "UN News — Peace and security",
-      "title": "UN warns of worsening human rights crisis in Mali after deadly attacks",
-      "summary": "The human rights situation in Mali is rapidly deteriorating following coordinated attacks by armed groups across the country, with civilians killed, displaced and cut off from food and aid, UN rights office OHCHR said on Tuesday.",
-      "published": "2026-05-05T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167441"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167438",
