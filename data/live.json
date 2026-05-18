@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-05-18T18:15:39.604Z",
+  "fetchedAt": "2026-05-18T20:07:47.589Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167538",
+      "source": "UN News — Middle East",
+      "title": "Palestine: Killings, destruction and settler encroachment continues",
+      "summary": "The ceasefire between Israel and Hamas has reduced the scale of violence in the Gaza Strip but killings and destruction continue, while forced displacement in the occupied West Bank has reached a rate “unseen in decades”, a senior official with the UN human rights office, OHCHR, said on Monday in Geneva.",
+      "published": "2026-05-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167538",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167534",
       "source": "UN News — Peace and security",
@@ -266,15 +275,6 @@
       "country": "lebanon"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167447",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Gulf tensions rise, Gaza health needs ‘staggering’, skills gap threat",
-      "summary": "The UN has expressed deep concern over escalating security incidents in the Gulf, warning that recent attacks risk undermining efforts to maintain regional stability.",
-      "published": "2026-05-05T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167447",
-      "country": "israel"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167438",
       "source": "UN News — Middle East",
       "title": "UN winds down Türkiye-Syria aid route, after more than 65,000 lifesaving journeys",
@@ -389,15 +389,6 @@
       "summary": "The United States has announced that the Israel-Lebanon ceasefire will be extended by three weeks following talks in Washington, offering a potential pause in hostilities. Meanwhile, humanitarian concerns are growing over shortages in Iran and Gaza, while another UN peacekeeper has died after coming under fire. Stay with us for live updates.",
       "published": "2026-04-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167375"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167367",
-      "source": "UN News — Middle East",
-      "title": "Devastation at every turn greets UN aid mission to south Lebanon",
-      "summary": "A UNICEF relief mission reached a large hospital in the southern Lebanese town of Tebnine on Thursday, only to find massive destruction and staggering needs.",
-      "published": "2026-04-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167367",
-      "country": "lebanon"
     }
   ]
 }
