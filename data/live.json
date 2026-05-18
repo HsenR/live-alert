@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-18T21:22:54.120Z",
+  "fetchedAt": "2026-05-18T22:29:34.807Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167540",
+      "source": "UN News — Middle East",
+      "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
+      "summary": "The head of the UN atomic watchdog on Monday underscored the need to safeguard nuclear security in wartime, a day after a drone strike near a nuclear power plant in the United Arab Emirates (UAE).&amp;nbsp;",
+      "published": "2026-05-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167540"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167538",
       "source": "UN News — Middle East",
@@ -9,6 +17,14 @@
       "published": "2026-05-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167538",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167541",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa",
+      "summary": "Civilians, including humanitarians, continue to face great danger across war-torn Ukraine amid ongoing hostilities, according to the UN humanitarian relief coordination office there, OCHA.",
+      "published": "2026-05-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167541"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167534",
@@ -258,14 +274,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167454",
-      "source": "UN News — Peace and security",
-      "title": "More than 70 civilians killed in Ukraine in less than a week",
-      "summary": "At least 70 civilians have been killed and more than 500 injured across Ukraine since the start of May, UN human rights monitors said on Wednesday, as waves of attacks hit cities across the country and humanitarian workers struggled to reach communities near the frontline.",
-      "published": "2026-05-06T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167454"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167442",
       "source": "UN News — Middle East",
       "title": "In Lebanon, the same fears and dangers persist despite ceasefire: UNHCR",
@@ -381,14 +389,6 @@
       "summary": "Desperate and dangerous conditions in Gaza continue to hamper recovery efforts for the wartorn enclave&#039;s people, the UN health agency said on Friday, while demining experts warned that they’ve “barely scratched the surface” in assessing the level of contamination of unexploded ordnance.",
       "published": "2026-04-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167376"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167375",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 24 April: Israel-Lebanon ceasefire extended as humanitarian concerns persist",
-      "summary": "The United States has announced that the Israel-Lebanon ceasefire will be extended by three weeks following talks in Washington, offering a potential pause in hostilities. Meanwhile, humanitarian concerns are growing over shortages in Iran and Gaza, while another UN peacekeeper has died after coming under fire. Stay with us for live updates.",
-      "published": "2026-04-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167375"
     }
   ]
 }
