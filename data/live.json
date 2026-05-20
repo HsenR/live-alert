@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-05-20T21:21:31.839Z",
+  "fetchedAt": "2026-05-20T22:47:53.684Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167560",
+      "source": "UN News — Middle East",
+      "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
+      "summary": "UN Secretary-General António Guterres on Wednesday strongly condemned Israel’s decision to establish military facilities at a seized UNRWA compound in occupied East Jerusalem, calling the move “wholly unacceptable”.",
+      "published": "2026-05-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167560",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167556",
       "source": "UN News — Middle East",
@@ -8,6 +17,22 @@
       "summary": "Before heading to strike sites in war-torn Lebanon, rescue workers and paramedics often say goodbye to one another – a ritual captured in widely shared videos reflecting the growing dangers faced by aid workers since hostilities between Hezbollah and Israel erupted on 2 March.",
       "published": "2026-05-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167556"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167562",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
+      "summary": "The Representative of the UN refugee agency, UNHCR, in Ukraine has strongly condemned the deadly and destructive Russian missile and drone strikes in Dnipro on Tuesday night.&amp;nbsp;",
+      "published": "2026-05-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167562"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167559",
+      "source": "UN News — Peace and security",
+      "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
+      "summary": "Around 30,000 people have had to flee their homes in the Haitian capital Port-au-Prince and surrounding areas following a new wave of violent attacks and atrocities perpetrated by armed gangs over the past ten days.",
+      "published": "2026-05-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167559"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167555",
@@ -240,22 +265,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167495",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Conflict drives hunger in DR Congo, mass corporal punishment in Afghanistan, Earth’s sand is running out",
-      "summary": "More than 26.5 million people in the Democratic Republic of the Congo are facing acute hunger, according to a new analysis from UN-backed food security experts published Tuesday.",
-      "published": "2026-05-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167495"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167494",
-      "source": "UN News — Peace and security",
-      "title": "Chad’s refugee crisis overwhelms maternity care in east, UN agency warns",
-      "summary": "Many women in eastern Chad are being forced to give birth in overcrowded clinics with limited medicine, minimal equipment and severe shortages of anesthesia, as a worsening humanitarian crisis overwhelms the country’s fragile healthcare system, the UN reproductive health agency, UNFPA, warned on Tuesday.",
-      "published": "2026-05-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167494"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167483",
       "source": "UN News — Middle East",
       "title": "Middle East: Deadly weekend in Lebanon, continued violence in Gaza",
@@ -397,14 +406,6 @@
       "published": "2026-04-28T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167392",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167389",
-      "source": "UN News — Middle East",
-      "title": "Afghanistan risks losing 25,000 women teachers and health workers",
-      "summary": "Restrictions on girls’ education and women’s employment in Afghanistan could leave the country with a deficit of over 25,000 female teachers and health workers by 2030, the UN Children’s Fund (UNICEF) warned on Tuesday.&amp;nbsp;",
-      "published": "2026-04-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167389"
     }
   ]
 }
