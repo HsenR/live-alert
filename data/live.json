@@ -1,11 +1,27 @@
 {
-  "fetchedAt": "2026-05-20T17:29:07.551Z",
+  "fetchedAt": "2026-05-20T19:38:06.185Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167556",
+      "source": "UN News — Middle East",
+      "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
+      "summary": "Before heading to strike sites in war-torn Lebanon, rescue workers and paramedics often say goodbye to one another – a ritual captured in widely shared videos reflecting the growing dangers faced by aid workers since hostilities between Hezbollah and Israel erupted on 2 March.",
+      "published": "2026-05-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167556"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167555",
+      "source": "UN News — Peace and security",
+      "title": "Security Council reform ‘is absolutely essential’: Guterres",
+      "summary": "The UN Secretary-General on Wednesday underscored the need to effectively re-open the Strait of Hormuz and expand UN Security Council membership to curb the impunity of veto-wielding “superpowers”.",
+      "published": "2026-05-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167555"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167554",
       "source": "UN News — Peace and security",
       "title": "Security Council LIVE: Civilians in conflict under spotlight amid rising global toll",
-      "summary": "The Security Council meets today in New York for its annual open debate on the protection of civilians in armed conflict amid mounting concern over rising civilian casualties, attacks on humanitarian workers and widespread destruction of homes and critical infrastructure in wars around the world. Senior UN and Red Cross officials will brief members, calling for stronger respect for international humanitarian law.",
+      "summary": "The Security Council is meeting in New York for its annual open debate on the protection of civilians in armed conflict amid mounting concern over rising civilian casualties, attacks on humanitarian workers and widespread destruction of homes and critical infrastructure in wars around the world. The UN&#039;s top humanitarian for crisis response told ambassadors one civilian was killed every 14 minutes last year. Follow live below from our Meetings Coverage team. &amp;nbsp;",
       "published": "2026-05-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167554"
     },
@@ -257,14 +273,6 @@
       "country": "iran"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167479",
-      "source": "UN News — Peace and security",
-      "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
-      "summary": "Drones caused more than 80 per cent of civilian deaths in Sudan’s war during the first four months of 2026, killing at least 880 people, the UN human rights chief said on Monday, warning that escalating drone warfare could push the conflict into an even deadlier phase.&amp;nbsp;",
-      "published": "2026-05-11T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167479"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167467",
       "source": "UN News — Middle East",
       "title": "Lebanon war leaves families foraging for food despite ceasefire",
@@ -397,14 +405,6 @@
       "summary": "Restrictions on girls’ education and women’s employment in Afghanistan could leave the country with a deficit of over 25,000 female teachers and health workers by 2030, the UN Children’s Fund (UNICEF) warned on Tuesday.&amp;nbsp;",
       "published": "2026-04-27T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167389"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167384",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 27 April: Everyone’s paying the price for Hormuz closure, Guterres warns Security Council",
-      "summary": "The recently extended ceasefire between Israel and Lebanon remains under strain as violence continues, with civilian deaths and injuries reported in Israeli strikes over the weekend. Meanwhile, the Security Council is debating maritime security with the UN chief calling on nations restricting ship movement through the Strait of Hormuz to “let the global economy breathe.” Follow in-depth meeting coverage here. Stay with us for live updates.",
-      "published": "2026-04-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167384"
     }
   ]
 }
