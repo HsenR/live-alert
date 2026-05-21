@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-05-21T13:39:38.194Z",
+  "fetchedAt": "2026-05-21T16:27:31.496Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167563",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
+      "summary": "The Security Council meets top of the hour in New York to debate stalled progress in Gaza as the fragile ceasefire limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs. UN envoy Ramiz Alakbarov is due to brief alongside the US-led Board of Peace representative to Gaza Nickolay Mladenov. Discussions are likely to focus on who governs Gaza and how with no disarmament in sight, together with efforts to support recovery.",
+      "published": "2026-05-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167563",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167560",
       "source": "UN News — Middle East",
@@ -397,15 +406,6 @@
       "published": "2026-04-28T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167400",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167392",
-      "source": "UN News — Middle East",
-      "title": "SECURITY COUNCIL LIVE: Gaza ceasefire is ‘increasingly fragile’, UN warns",
-      "summary": "The Security Council turns again to the Middle East crisis in New York on Tuesday, with debate focusing on the fragile Gaza ceasefire, a worsening humanitarian crisis there and efforts to advance a US-backed peace plan.UN senior political affairs official Khaled Khiari warned of increasingly dire conditions in Gaza and the West Bank, while former UK Prime Minister and US-led Board of Peace member, Tony Blair, said the council needs to mobilise funds for recovery at this “pivotal juncture”. You can follow all the UN&#039;s meetings coverage here but follow live and in-depth updates below.&amp;n",
-      "published": "2026-04-28T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167392",
-      "country": "israel"
     }
   ]
 }
