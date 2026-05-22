@@ -1,6 +1,24 @@
 {
-  "fetchedAt": "2026-05-22T13:43:28.083Z",
+  "fetchedAt": "2026-05-22T16:08:22.234Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167572",
+      "source": "UN News — Middle East",
+      "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
+      "summary": "Dire conditions in Gaza marked by continuing violence, rodent infestations and the spread of infectious disease is being made worse by blockages of essential medical supplies, UN agencies warned on Friday.",
+      "published": "2026-05-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167572",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167568",
+      "source": "UN News — Middle East",
+      "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
+      "summary": "As Gaza’s fragile ceasefire frays and humanitarian conditions deteriorate, a senior UN envoy warned the Security Council on Thursday that delays in implementing the Council-backed transition plan for the enclave will only increase suffering and undermine recovery.",
+      "published": "2026-05-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167563",
       "source": "UN News — Middle East",
@@ -11,13 +29,12 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167568",
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167570",
       "source": "UN News — Peace and security",
-      "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
-      "summary": "As Gaza’s fragile ceasefire frays and humanitarian conditions deteriorate, a senior UN envoy warned the Security Council on Thursday that delays in implementing the Council-backed transition plan for the enclave will only increase suffering and undermine recovery.",
+      "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
+      "summary": "As gangs continue to “terrorise” communities in Haiti, children are the ones paying the highest price, the UN Special Representative for Children and Armed Conflict warned on Thursday.",
       "published": "2026-05-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
-      "country": "israel"
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167570"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167560",
@@ -257,14 +274,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167496"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167503",
-      "source": "UN News — Peace and security",
-      "title": "In Addis Ababa, Guterres urges reforms to give Africa stronger global voice",
-      "summary": "Africa’s rising influence is being constrained by outdated global institutions, unfair borrowing costs and cascading global crises, UN Secretary‑General António Guterres warned in Addis Ababa, as the United Nations and African Union reaffirmed their strategic partnership.",
-      "published": "2026-05-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167503"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167488",
       "source": "UN News — Middle East",
       "title": "Children shot, stabbed and pepper-sprayed in occupied West Bank",
@@ -388,24 +397,6 @@
       "summary": "The escalating crisis in the Strait of Hormuz could push tens of millions into poverty, trigger a surge in global hunger and even tip the world towards recession, the UN Secretary-General warned on Thursday.",
       "published": "2026-04-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167411"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167403",
-      "source": "UN News — Middle East",
-      "title": "UN rights chief warns of escalating crackdown in Iran amid conflict",
-      "summary": "The UN’s top human rights official warned on Wednesday that Iranians’ rights are being eroded in “harsh and brutal ways,” citing a surge in executions, mass arrests and alleged abuses amid a widening crackdown on dissent during the ongoing conflict.",
-      "published": "2026-04-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167403",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167400",
-      "source": "UN News — Middle East",
-      "title": "From Hormuz to Lebanon, crisis reverberates through trade routes, upending humanitarian networks",
-      "summary": "Disruptions in the Strait of Hormuz continue to send shockwaves through global food systems, the UN Food and Agriculture Organization has warned, as a widening crisis across the Middle East continues to strain humanitarian operations and deepen instability.",
-      "published": "2026-04-28T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167400",
-      "country": "lebanon"
     }
   ]
 }
