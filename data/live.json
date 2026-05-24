@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-05-24T15:19:04.660Z",
+  "fetchedAt": "2026-05-24T16:30:39.029Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167580",
+      "source": "UN News — Peace and security",
+      "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
+      "summary": "After four weeks of negotiations at UN Headquarters in New York, the 11th&amp;nbsp;Review Conference&amp;nbsp;of the nuclear Non-Proliferation Treaty (NPT) ended on Friday without consensus on a final declaration.",
+      "published": "2026-05-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167580"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167569",
+      "source": "UN News — Peace and security",
+      "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
+      "summary": "On 23 February 2022, in her home city of Kharkiv, Dr Inna Soldatenko finished work, collected her daughter from school, cooked dinner and prepared a lecture for her students. The next morning, she awoke to explosions.",
+      "published": "2026-05-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167569"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167572",
       "source": "UN News — Middle East",
@@ -248,14 +264,6 @@
       "published": "2026-05-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167506",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167514",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba",
-      "summary": "Nearly six million people in Somalia – almost a third of the population analysed – are projected to face acute hunger between April and June, with 1.9 million expected to experience emergency levels, UN-backed food security experts warned on Thursday.",
-      "published": "2026-05-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167514"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167499",
