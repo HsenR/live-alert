@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-05-26T16:13:42.376Z",
+  "fetchedAt": "2026-05-26T18:36:40.875Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167586",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
+      "summary": "The World Food Programme (WFP) has deplored a Russian attack on a warehouse in Dnipro, Ukraine that destroyed more than $1 million in food aid destined for thousands in frontline areas.",
+      "published": "2026-05-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167586"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167585",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Founding principles of the UN facing ‘profound strain’, Guterres warns",
+      "summary": "The Security Council is meeting for a high-level debate on strengthening the UN-centred international system amid mounting pressure on multilateralism and deepening geopolitical divisions. Discussions are expected to focus on defending the UN Charter, reforming global governance and restoring confidence in the Security Council’s ability to respond to international crises.",
+      "published": "2026-05-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167585"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167574",
       "source": "UN News — Middle East",
