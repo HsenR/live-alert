@@ -1,11 +1,27 @@
 {
-  "fetchedAt": "2026-05-26T18:36:40.875Z",
+  "fetchedAt": "2026-05-26T20:33:09.868Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167590",
+      "source": "UN News — Middle East",
+      "title": "Middle East update: Airstrikes and evacuation orders in Lebanon, aid restrictions in Gaza",
+      "summary": "Intensified Israeli airstrikes overnight in Lebanon forced people to again flee their homes, while humanitarians in the Gaza Strip report continued restrictions in bringing aid into the enclave, the United Nations said on Tuesday.",
+      "published": "2026-05-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167590"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167589",
+      "source": "UN News — Peace and security",
+      "title": "Wars and geopolitical divisions constitute ‘dangerous erosion’ of world order, warns UN chief",
+      "summary": "The UN Charter is facing one of its gravest tests in decades, Secretary-General António Guterres told the Security Council on Tuesday, warning that wars, arms races, climate shocks and the erosion of international law are placing intense pressure on the multilateral system established to prevent a third world war.",
+      "published": "2026-05-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167589"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167586",
       "source": "UN News — Peace and security",
       "title": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
-      "summary": "The World Food Programme (WFP) has deplored a Russian attack on a warehouse in Dnipro, Ukraine that destroyed more than $1 million in food aid destined for thousands in frontline areas.",
+      "summary": "The World Food Programme (WFP) has deplored a Russian attack on a warehouse in Dnipro, Ukraine that destroyed “a significant quantity” of food aid destined for thousands in frontline areas.",
       "published": "2026-05-26T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167586"
     },
@@ -414,14 +430,6 @@
       "summary": "The strain on food, fuel and aid systems worldwide continues as the Middle East crisis deepens. Rising oil prices, supply disruptions and mounting transport costs are affecting humanitarian operations and access to essential goods far beyond the region. Stay with us this Friday for live updates.",
       "published": "2026-05-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167421"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/04/1167418",
-      "source": "UN News — Middle East",
-      "title": "Lebanon strikes deepen crisis as hunger rises and conditions worsen in Gaza",
-      "summary": "At least nine people were reported to have been killed in southern Lebanon on Thursday, as ongoing hostilities continue to exact a heavy toll on civilians and drive a worsening humanitarian crisis marked by rising hunger and strained public services.",
-      "published": "2026-04-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167418"
     }
   ]
 }
