@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-05-28T16:45:08.734Z",
+  "fetchedAt": "2026-05-28T19:22:33.561Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167597",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
+      "summary": "The UN Security Council meets top of the hour on Ukraine, with Secretary-General António Guterres set to brief, following what Kyiv describes as the most devastating attack on its capital to date. In the early hours of 23-24 May, Russia launched a massive barrage of missiles and drones against multiple Ukrainian cities. Moscow has since threatened further sustained strikes. Sharp divisions among Council members are expected, with European nations demanding an immediate ceasefire while Russia insists its strikes target only military infrastructure.",
+      "published": "2026-05-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167597"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167590",
       "source": "UN News — Middle East",
@@ -280,14 +288,6 @@
       "summary": "The UN Security Council meets Friday morning in New York to discuss the evolving situation in Syria, as the country navigates a fragile transition after years of conflict and the fall of the Assad regime. Deputy Special Envoy Claudio Cordone and UN relief chief Tom Fletcher are expected to brief members on political and humanitarian developments. Follow our live coverage for updates from the chamber as they happen.",
       "published": "2026-05-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167518"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167528",
-      "source": "UN News — Peace and security",
-      "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
-      "summary": "Nearly 20 million people across Sudan are facing acute hunger and more than 800,000 children risk severe malnutrition this year, UN agencies warned on Friday, as civil war, mass displacement and collapsing food and health systems deepen one of the world’s worst humanitarian crises and push parts of the country closer to famine.",
-      "published": "2026-05-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167528"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167511",
