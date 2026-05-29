@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-05-29T02:58:55.495Z",
+  "fetchedAt": "2026-05-29T06:53:42.639Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167599",
+      "source": "UN News — Peace and security",
+      "title": "UN warns Ukraine war risks spiralling ‘out of control’",
+      "summary": "The United Nations on Thursday warned of a dangerous escalation in the war in Ukraine after a wave of large-scale Russian strikes and threats of further attacks, with Secretary-General António Guterres saying “the death spiral must stop.”",
+      "published": "2026-05-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167599"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167598",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN chief, Internal displacement in Haiti, warning to France over prison overcrowding",
+      "summary": "The UN has expressed deep concern over escalating hostilities in Lebanon following intensified Israeli airstrikes in southern Beirut and across southern parts of the country.",
+      "published": "2026-05-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167598"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167597",
       "source": "UN News — Peace and security",
@@ -247,22 +263,6 @@
       "summary": "Civilians, including humanitarians, continue to face great danger across war-torn Ukraine amid ongoing hostilities, according to the UN humanitarian relief coordination office there, OCHA.",
       "published": "2026-05-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167541"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167534",
-      "source": "UN News — Peace and security",
-      "title": "Ebola outbreak follows hunger and displacement crisis in DR Congo",
-      "summary": "A day after the World Health Organization (WHO)&amp;nbsp;declared the new Ebola outbreak in eastern Democratic Republic of the Congo an international emergency, top global disease transmission experts stressed that the chances of another global pandemic similar to the 2019 coronavirus emergency are increasing all the time.",
-      "published": "2026-05-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167534"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167501",
-      "source": "UN News — Peace and security",
-      "title": "Nuclear terror threat ‘has never been so high’",
-      "summary": "The widespread availability of new technology, such as militarised drones and artificial intelligence, means that the current threat of nuclear terrorism is higher than it has ever been.",
-      "published": "2026-05-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167501"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167521",
