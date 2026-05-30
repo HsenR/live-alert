@@ -1,6 +1,33 @@
 {
-  "fetchedAt": "2026-05-30T02:49:01.626Z",
+  "fetchedAt": "2026-05-30T06:11:43.968Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167610",
+      "source": "UN News — Middle East",
+      "title": "Gaza: 26 killed over Eid holiday, UN rights investigators report",
+      "summary": "At least 26 Palestinians were killed in the Gaza Strip since Tuesday – the eve of one of the most important holidays in Islam – the UN human rights office, OHCHR, reported on Friday.",
+      "published": "2026-05-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167610",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167604",
+      "source": "UN News — Middle East",
+      "title": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
+      "summary": "The dire conditions in the Gaza Strip are trapping children “in an endless cycle of suffering” and their heartbroken parents can only look on, an official with the UN child rights agency UNICEF said on Friday in a fresh appeal for greater humanitarian access to support families in the war-ravaged enclave.&amp;nbsp;",
+      "published": "2026-05-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167604",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167609",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan updates",
+      "summary": "The UN Secretary-General has expressed alarm after a drone struck a residential building in the Romanian city of Galați overnight into Friday, reportedly injuring two people.",
+      "published": "2026-05-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167609",
+      "country": "lebanon"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167603",
       "source": "UN News — Peace and security",
@@ -273,14 +300,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167541",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa",
-      "summary": "Civilians, including humanitarians, continue to face great danger across war-torn Ukraine amid ongoing hostilities, according to the UN humanitarian relief coordination office there, OCHA.",
-      "published": "2026-05-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167541"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167521",
       "source": "UN News — Middle East",
       "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
@@ -430,22 +449,6 @@
       "published": "2026-05-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167432",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167422",
-      "source": "UN News — Middle East",
-      "title": "Middle East crisis puts aid, food, fuel further out of reach for millions already struggling – UN agencies",
-      "summary": "As the Middle East crisis continues the humanitarian fallout is worsening, with aid route disruptions and food and fuel price hikes wrecking the lives and the rights of the most vulnerable people worldwide, UN agencies warned on Friday.",
-      "published": "2026-05-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167422"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167421",
-      "source": "UN News — Middle East",
-      "title": "MIDDLE EAST LIVE 1 May: Strain on food, fuel and aid systems continues",
-      "summary": "The strain on food, fuel and aid systems worldwide continues as the Middle East crisis deepens. Rising oil prices, supply disruptions and mounting transport costs are affecting humanitarian operations and access to essential goods far beyond the region. Stay with us this Friday for live updates.",
-      "published": "2026-05-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167421"
     }
   ]
 }
