@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-05-30T18:46:32.949Z",
+  "fetchedAt": "2026-05-30T19:59:47.828Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167606",
+      "source": "UN News — Middle East",
+      "title": "Borrowed boots, borrowed joy: Football thrives in Gaza camps",
+      "summary": "Matches organised by a former professional player are providing a brief respite from the harsh reality of life for the thousands living in overcrowded tents, schools or damaged buildings in the shattered Occupied Palestinian Territory of Gaza.",
+      "published": "2026-05-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167606",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167610",
       "source": "UN News — Middle East",
@@ -440,15 +449,6 @@
       "summary": "Lebanon’s fragile ceasefire is being tested by renewed violence and rising humanitarian needs amid continuing civilians displacement, services under pressure and aid cuts.",
       "published": "2026-05-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167437"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167432",
-      "source": "UN News — Middle East",
-      "title": "Uncertainty continues over safety in the Strait of Hormuz",
-      "summary": "Amid claims and counter-claims of strikes and confrontations in the crucial Strait of Hormuz between Iran and the United States, UN maritime officials continue to urge vessels to exercise “maximum caution”.",
-      "published": "2026-05-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167432",
-      "country": "iran"
     }
   ]
 }
