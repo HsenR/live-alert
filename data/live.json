@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-01T12:20:18.007Z",
+  "fetchedAt": "2026-06-01T18:19:49.551Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167613",
+      "source": "UN News — Peace and security",
+      "title": "DR Congo Ebola outbreak: Nurses discharged after full recovery",
+      "summary": "Four nurses who fell ill with Ebola&amp;nbsp;in the eastern Democratic Republic of the Congo (DRC) have been discharged from hospital after recovering from the often-fatal illness that sparked an international health alert.&amp;nbsp;",
+      "published": "2026-06-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167613"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167606",
       "source": "UN News — Middle East",
@@ -282,14 +290,6 @@
       "summary": "The war in Ukraine, now well into its fifth year, “is becoming deadlier by the day”, a senior UN official warned in a briefing to the Security Council on Tuesday.&amp;nbsp;",
       "published": "2026-05-19T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167546"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167542",
-      "source": "UN News — Peace and security",
-      "title": "DRC Ebola outbreak: hundreds of suspected cases, no vaccine",
-      "summary": "A fast-spreading Ebola outbreak in the Democratic Republic of the Congo (DRC) has health workers rushing to stop transmission while the roll out of any potential vaccine is months away, the UN World Health Organization (WHO) said on Tuesday.&amp;nbsp;",
-      "published": "2026-05-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167542"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167540",
