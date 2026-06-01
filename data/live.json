@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-06-01T18:19:49.551Z",
+  "fetchedAt": "2026-06-01T21:45:51.008Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167615",
+      "source": "UN News — Middle East",
+      "title": "Lebanon: Families flee Beirut as Israel threatens renewed strikes on Hezbollah",
+      "summary": "As hostilities escalate in Lebanon despite a recent ceasefire extension, the United Nations continues to push for peace and support displaced civilians by providing food, protection and other assistance.",
+      "published": "2026-06-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167615"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167616",
+      "source": "UN News — Peace and security",
+      "title": "From Libyan deserts to 3D-printed guns: The weapons that never go away",
+      "summary": "Years after conflicts fade from the headlines, the weapons used to fight them often continue to circulate – crossing borders, fuelling crime and undermining an often-fragile peace. Now, ghost guns, 3D-printed firearms and increasingly sophisticated trafficking networks are creating new challenges for governments worldwide.",
+      "published": "2026-06-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167616"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167613",
       "source": "UN News — Peace and security",
@@ -275,23 +291,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167550"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167548",
-      "source": "UN News — Peace and security",
-      "title": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks",
-      "summary": "The fragile ceasefire between the United States and Iran may have eased fears of a wider regional war, but persistent instability around the Strait of Hormuz continues to disrupt global trade, drive up energy costs and fuel a growing jobs and cost-of-living crisis.",
-      "published": "2026-05-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167548",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167546",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine war ‘becoming deadlier by the day’, Security Council hears",
-      "summary": "The war in Ukraine, now well into its fifth year, “is becoming deadlier by the day”, a senior UN official warned in a briefing to the Security Council on Tuesday.&amp;nbsp;",
-      "published": "2026-05-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167546"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167540",
       "source": "UN News — Middle East",
       "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
@@ -441,14 +440,6 @@
       "summary": "The UN has formally concluded its cross-border humanitarian operations from Türkiye into Syria, marking the end of an 11-year mission that served as one of the most complex supply chains in the organization’s history.&amp;nbsp;",
       "published": "2026-05-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167438"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167437",
-      "source": "UN News — Middle East",
-      "title": "Middle East: Fighting and displacement in Lebanon; call for ‘sustained access’ in Gaza",
-      "summary": "Lebanon’s fragile ceasefire is being tested by renewed violence and rising humanitarian needs amid continuing civilians displacement, services under pressure and aid cuts.",
-      "published": "2026-05-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167437"
     }
   ]
 }
