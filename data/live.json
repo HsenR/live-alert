@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-01T21:45:51.008Z",
+  "fetchedAt": "2026-06-01T23:19:22.436Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167618",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pall over Iran-US negotiations",
+      "summary": "The Security Council meets late on Monday at France’s request, as concern grows over escalating violence in Lebanon between Israel and Hezbollah amid warnings of Israeli strikes on Beirut’s southern suburbs, and confusion over the status of US-Iran peace talks linked to the faltering ceasefires. Follow live here from New York.&amp;nbsp;",
+      "published": "2026-06-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167618"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167615",
       "source": "UN News — Middle East",
@@ -432,14 +440,6 @@
       "published": "2026-05-05T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167442",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167438",
-      "source": "UN News — Middle East",
-      "title": "UN winds down Türkiye-Syria aid route, after more than 65,000 lifesaving journeys",
-      "summary": "The UN has formally concluded its cross-border humanitarian operations from Türkiye into Syria, marking the end of an 11-year mission that served as one of the most complex supply chains in the organization’s history.&amp;nbsp;",
-      "published": "2026-05-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167438"
     }
   ]
 }
