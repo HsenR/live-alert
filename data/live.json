@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-01T23:19:22.436Z",
+  "fetchedAt": "2026-06-02T01:41:27.730Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167618",
@@ -16,6 +16,14 @@
       "summary": "As hostilities escalate in Lebanon despite a recent ceasefire extension, the United Nations continues to push for peace and support displaced civilians by providing food, protection and other assistance.",
       "published": "2026-06-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167615"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167619",
+      "source": "UN News — Peace and security",
+      "title": "UN stresses the need for de-escalation in Ukraine war as attacks rise",
+      "summary": "The United Nations continues to warn against the dangerous escalation in the war in Ukraine, a senior official told the Security Council on Monday, underlining the need for restraint and dialogue.&amp;nbsp;",
+      "published": "2026-06-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167619"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167616",
@@ -281,14 +289,6 @@
       "summary": "The Security Council is meeting in New York for its annual open debate on the protection of civilians in armed conflict amid mounting concern over rising civilian casualties, attacks on humanitarian workers and widespread destruction of homes and critical infrastructure in wars around the world. The UN&#039;s top humanitarian for crisis response told ambassadors one civilian was killed every 14 minutes last year. Follow live below from our Meetings Coverage team. &amp;nbsp;",
       "published": "2026-05-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167554"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167553",
-      "source": "UN News — Peace and security",
-      "title": "Ebola risk is high inside DR Congo but it’s no pandemic emergency: WHO",
-      "summary": "The deadly Ebola outbreak in Democratic Republic of the Congo (DRC) and Uganda does not represent a global pandemic emergency, although the risk is high at a regional and national level, the UN health agency chief said on Wednesday.",
-      "published": "2026-05-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167553"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167550",
