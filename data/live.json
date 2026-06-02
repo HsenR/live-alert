@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-06-02T10:59:13.235Z",
+  "fetchedAt": "2026-06-02T14:51:13.948Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167621",
+      "source": "UN News — Middle East",
+      "title": "Lebanon hospital strikes impact most vulnerable patients, warns WHO",
+      "summary": "The UN health agency in Lebanon is verifying reports of strikes on a hospital in the southern city of Tyre on Monday, amid a concerning rise in attacks on healthcare in the country.",
+      "published": "2026-06-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167621",
+      "country": "lebanon"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167618",
       "source": "UN News — Middle East",
@@ -283,14 +292,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167555"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167554",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Civilians in conflict under spotlight amid rising global toll",
-      "summary": "The Security Council is meeting in New York for its annual open debate on the protection of civilians in armed conflict amid mounting concern over rising civilian casualties, attacks on humanitarian workers and widespread destruction of homes and critical infrastructure in wars around the world. The UN&#039;s top humanitarian for crisis response told ambassadors one civilian was killed every 14 minutes last year. Follow live below from our Meetings Coverage team. &amp;nbsp;",
-      "published": "2026-05-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167554"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167550",
       "source": "UN News — Middle East",
       "title": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
@@ -431,15 +432,6 @@
       "published": "2026-05-06T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167450",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167442",
-      "source": "UN News — Middle East",
-      "title": "In Lebanon, the same fears and dangers persist despite ceasefire: UNHCR",
-      "summary": "Death and destruction have continued unabated in Lebanon while communities are still unable to return to their homes despite a ceasefire that began on 17 April, humanitarians said on Tuesday.",
-      "published": "2026-05-05T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167442",
-      "country": "lebanon"
     }
   ]
 }
