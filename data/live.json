@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-06-03T11:30:26.198Z",
+  "fetchedAt": "2026-06-03T16:03:36.218Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167628",
+      "source": "UN News — Middle East",
+      "title": "‘Women and girls cannot wait’: Lebanon’s crisis is putting lives at risk",
+      "summary": "Women and girls in Lebanon are paying an increasingly devastating price as violence and displacement continue despite a ceasefire, the UN reproductive health agency (UNFPA) warned on Tuesday.",
+      "published": "2026-06-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167628",
+      "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167625",
+      "source": "UN News — Middle East",
+      "title": "UN mission reports rising tensions along the Blue Line in Lebanon",
+      "summary": "Monday’s hastily convened meeting of the UN Security Council at the request of France in response to&amp;nbsp;escalating violence in Lebanon between Israeli forces and Hezbollah militants has underlined deepening international concern as the conflict intensifies,&amp;nbsp;despite ongoing US mediation efforts.",
+      "published": "2026-06-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167625"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167621",
       "source": "UN News — Middle East",
@@ -284,14 +301,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167562"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167559",
-      "source": "UN News — Peace and security",
-      "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
-      "summary": "Around 30,000 people have had to flee their homes in the Haitian capital Port-au-Prince and surrounding areas following a new wave of violent attacks and atrocities perpetrated by armed gangs over the past ten days.",
-      "published": "2026-05-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167559"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167550",
       "source": "UN News — Middle East",
       "title": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
@@ -415,23 +424,6 @@
       "summary": "An Israeli airstrike overnight on the southern suburbs of the Lebanese capital Beirut has sparked a new wave of displacement among civilians already impacted by months of conflict, the United Nations said on Thursday.",
       "published": "2026-05-07T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167460"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167453",
-      "source": "UN News — Middle East",
-      "title": "Security Council holds closed-door talks following attacks on United Arab Emirates",
-      "summary": "As the crisis in the Strait of Hormuz continues, the United Nations reiterates its commitment to support efforts towards peace, UN Spokesperson Stéphane Dujarric said on Wednesday during his media briefing from New York.",
-      "published": "2026-05-06T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167453"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167450",
-      "source": "UN News — Middle East",
-      "title": "Gaza flotilla: Aid delivery ‘not a crime’, UN rights office tells Israel",
-      "summary": "The UN human rights office on Wednesday called on Israel to immediately release two members of the Global Sumud Flotilla detained in international waters, warning that solidarity with Palestinians and attempts to deliver humanitarian aid to Gaza “is not a crime.”",
-      "published": "2026-05-06T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167450",
-      "country": "israel"
     }
   ]
 }
