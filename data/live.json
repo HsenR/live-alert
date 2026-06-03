@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-06-03T16:03:36.218Z",
+  "fetchedAt": "2026-06-03T19:56:03.998Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167631",
+      "source": "UN News — Middle East",
+      "title": "Gaza’s public servants systematically targeted in Israeli strikes",
+      "summary": "Months since Gaza’s nominal ceasefire began, Palestinians continue to be killed and maimed in drone and airstrikes, including the enclave’s police force which is crucial to peace and reconstruction efforts, the UN human rights office (OHCHR) said on Wednesday.",
+      "published": "2026-06-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167631",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167628",
       "source": "UN News — Middle East",
@@ -416,14 +425,6 @@
       "summary": "The fragile ceasefire in Lebanon hasn’t prevented “ongoing killing and displacement”, with villages in the south of the country rendered completely unrecognizable after Israeli strikes, aid teams reported on Friday.",
       "published": "2026-05-08T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167467"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167460",
-      "source": "UN News — Middle East",
-      "title": "Lebanon: Fresh strike on Beirut suburbs ‘a very alarming development’",
-      "summary": "An Israeli airstrike overnight on the southern suburbs of the Lebanese capital Beirut has sparked a new wave of displacement among civilians already impacted by months of conflict, the United Nations said on Thursday.",
-      "published": "2026-05-07T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167460"
     }
   ]
 }
