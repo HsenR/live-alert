@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-03T19:56:03.998Z",
+  "fetchedAt": "2026-06-03T22:22:16.630Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167631",
@@ -9,6 +9,30 @@
       "published": "2026-06-03T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167631",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167641",
+      "source": "UN News — Peace and security",
+      "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war",
+      "summary": "Children in Ukraine have been profoundly impacted by years of war, sheltering in underground schools – or forced to study online – and living with the psychological strain of constant air raid sirens that could spell death for them and their families.",
+      "published": "2026-06-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167641"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167639",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: UN urges restraint as Gulf tensions rise, fear and uncertainty in Lebanon, hunger grows in the Sahel",
+      "summary": "UN Secretary-General António Guterres expressed alarm on Tuesday over reported overnight exchanges of fire between the United States and Iran, as well as reports that Iran targeted Kuwait and Bahrain.",
+      "published": "2026-06-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167639"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167636",
+      "source": "UN News — Peace and security",
+      "title": "Kyrgyzstan wins seat on UN Security Council for first time ever",
+      "summary": "A closely watched Security Council election delivered a mix of continuity and change on Wednesday, as Austria, Portugal, Trinidad and Tobago, Zimbabwe – and first-time member Kyrgyzstan, secured seats around the iconic horseshoe table.",
+      "published": "2026-06-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167636"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167628",
@@ -300,14 +324,6 @@
       "summary": "Before heading to strike sites in war-torn Lebanon, rescue workers and paramedics often say goodbye to one another – a ritual captured in widely shared videos reflecting the growing dangers faced by aid workers since hostilities between Hezbollah and Israel erupted on 2 March.",
       "published": "2026-05-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167556"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167562",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
-      "summary": "The Representative of the UN refugee agency, UNHCR, in Ukraine has strongly condemned the deadly and destructive Russian missile and drone strikes in Dnipro on Tuesday night.&amp;nbsp;",
-      "published": "2026-05-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167562"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167550",
