@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-05T10:38:04.773Z",
+  "fetchedAt": "2026-06-05T13:40:09.960Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167659",
+      "source": "UN News — Middle East",
+      "title": "Lebanon crisis: needs soar as UN launches new funding appeal",
+      "summary": "The UN in Lebanon appealed for an additional $331.5 million on Friday to help 1.4 million people in crisis as already massive needs continue to grow, three months since deadly violence erupted between Hezbollah fighters and Israel.",
+      "published": "2026-06-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167659"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167653",
       "source": "UN News — Middle East",
@@ -291,14 +299,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167583"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167580",
-      "source": "UN News — Peace and security",
-      "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
-      "summary": "After four weeks of negotiations at UN Headquarters in New York, the 11th&amp;nbsp;Review Conference&amp;nbsp;of the nuclear Non-Proliferation Treaty (NPT) ended on Friday without consensus on a final declaration.",
-      "published": "2026-05-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167580"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167572",
       "source": "UN News — Middle East",
       "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
@@ -416,14 +416,6 @@
       "summary": "Millions of Syrians are at growing risk of hunger after severe funding shortages forced the UN World Food Programme (WFP) to halve emergency food assistance, cutting support for hundreds of thousands of vulnerable people across the country.",
       "published": "2026-05-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167499"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167496",
-      "source": "UN News — Middle East",
-      "title": "Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
-      "summary": "The UN Interim Force in Lebanon (UNIFIL) said on Wednesday that escalating drone activity and nearby explosions involving suspected Hezbollah drones and Israeli forces are endangering its personnel and threatening already fragile stability in southern Lebanon.",
-      "published": "2026-05-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167496"
     }
   ]
 }
