@@ -1,13 +1,21 @@
 {
-  "fetchedAt": "2026-06-05T16:15:55.270Z",
+  "fetchedAt": "2026-06-05T18:17:33.432Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167659",
       "source": "UN News — Middle East",
-      "title": "Lebanon crisis: needs soar as UN launches new funding appeal",
+      "title": "Lebanon crisis: Needs soar as UN launches new funding appeal",
       "summary": "The UN in Lebanon appealed for an additional $331.5 million on Friday to help 1.4 million people in crisis as already massive needs continue to grow, three months since deadly violence erupted between Hezbollah fighters and Israeli forces.",
       "published": "2026-06-05T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167659"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167661",
+      "source": "UN News — Peace and security",
+      "title": "Haiti: Harrowing needs must be met with long-term engagement",
+      "summary": "Escalating gang violence across Haiti has pushed displacement to record levels, deepening an already severe humanitarian crisis and leaving nearly 1.5 million people without a stable place to live, according to new figures released Friday by the UN migration agency, IOM.",
+      "published": "2026-06-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167661"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167653",
@@ -289,14 +297,6 @@
       "published": "2026-05-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167574",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167583",
-      "source": "UN News — Peace and security",
-      "title": "Massive Russian strike on Kyiv: ‘I hope my friends are alive’",
-      "summary": "The overnight Russian attack on Ukraine, which centred on the capital, Kyiv, reportedly involved some 90 missiles, including a powerful hypersonic ballistic missile and 60 drones. The senior UN official in the country called for an end to civilian harm.",
-      "published": "2026-05-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167583"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167572",
