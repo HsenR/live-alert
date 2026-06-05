@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-05T06:51:50.935Z",
+  "fetchedAt": "2026-06-05T10:38:04.773Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167653",
@@ -33,6 +33,14 @@
       "published": "2026-06-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167645",
       "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167656",
+      "source": "UN News — Peace and security",
+      "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
+      "summary": "From a police station in Germany to the UN Mission in South Sudan, Stephanie Königs has been talking to UN News about her journey to becoming a peacekeeper – and the importance of trust and empathy in the field.&amp;nbsp;",
+      "published": "2026-06-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167656"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167655",
@@ -289,14 +297,6 @@
       "summary": "After four weeks of negotiations at UN Headquarters in New York, the 11th&amp;nbsp;Review Conference&amp;nbsp;of the nuclear Non-Proliferation Treaty (NPT) ended on Friday without consensus on a final declaration.",
       "published": "2026-05-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167580"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167569",
-      "source": "UN News — Peace and security",
-      "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
-      "summary": "On 23 February 2022, in her home city of Kharkiv, Dr Inna Soldatenko finished work, collected her daughter from school, cooked dinner and prepared a lecture for her students. The next morning, she awoke to explosions.",
-      "published": "2026-05-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167569"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167572",
