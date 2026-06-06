@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-06T12:59:55.142Z",
+  "fetchedAt": "2026-06-06T14:40:38.256Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167648",
+      "source": "UN News — Middle East",
+      "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
+      "summary": "When US and Israeli forces launched strikes on Iran on 28 February, triggering one of the most serious geopolitical crises in years, the Strait of Hormuz – a narrow channel just 34 kilometres wide at its narrowest point – became a global flashpoint overnight.",
+      "published": "2026-06-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167648"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167659",
       "source": "UN News — Middle East",
@@ -408,14 +416,6 @@
       "published": "2026-05-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167506",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167499",
-      "source": "UN News — Middle East",
-      "title": "Funding shortfalls force deep cuts to Syria food assistance: WFP",
-      "summary": "Millions of Syrians are at growing risk of hunger after severe funding shortages forced the UN World Food Programme (WFP) to halve emergency food assistance, cutting support for hundreds of thousands of vulnerable people across the country.",
-      "published": "2026-05-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167499"
     }
   ]
 }
