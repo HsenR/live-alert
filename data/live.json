@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-06T14:40:38.256Z",
+  "fetchedAt": "2026-06-06T15:54:39.849Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167648",
@@ -16,6 +16,22 @@
       "summary": "The UN in Lebanon appealed for an additional $331.5 million on Friday to help 1.4 million people in crisis as already massive needs continue to grow, three months since deadly violence erupted between Hezbollah fighters and Israeli forces.",
       "published": "2026-06-05T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167659"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167668",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global hunger",
+      "summary": "Months of fighting and insecurity have forced hundreds of thousands of people to flee their homes in South Sudan’s eastern Jonglei State, triggering “one of the most severe conflict-related displacement emergencies in recent years”, the UN refugee agency (UNHCR) said on Friday.&amp;nbsp;",
+      "published": "2026-06-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167668"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167665",
+      "source": "UN News — Peace and security",
+      "title": "‘The true cost of peace’: UN honours fallen peacekeepers as dangers mount",
+      "summary": "The United Nations paused on Friday to pay tribute to the more than 4,500 peacekeepers who lost their lives in the line of duty over the past 78 years.&amp;nbsp;",
+      "published": "2026-06-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167665"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167661",
@@ -272,30 +288,6 @@
       "summary": "The United Nations is raising alarm over continued drone attacks in Sudan’s Darfur region after multiple strikes reportedly killed civilians and intensified fears for communities already trapped by the brutal conflict between rival militaries.",
       "published": "2026-05-26T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167591"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167589",
-      "source": "UN News — Peace and security",
-      "title": "Wars and geopolitical divisions constitute ‘dangerous erosion’ of world order, warns UN chief",
-      "summary": "The UN Charter is facing one of its gravest tests in decades, Secretary-General António Guterres told the Security Council on Tuesday, warning that wars, arms races, climate shocks and the erosion of international law are placing intense pressure on the multilateral system established to prevent a third world war.",
-      "published": "2026-05-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167589"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167586",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
-      "summary": "The World Food Programme (WFP) has deplored a Russian attack on a warehouse in Dnipro, Ukraine that destroyed “a significant quantity” of food aid destined for thousands in frontline areas.",
-      "published": "2026-05-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167586"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167585",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Founding principles of the UN facing ‘profound strain’, Guterres warns",
-      "summary": "The Security Council is meeting for a high-level debate on strengthening the UN-centred international system amid mounting pressure on multilateralism and deepening geopolitical divisions. Discussions are expected to focus on defending the UN Charter, reforming global governance and restoring confidence in the Security Council’s ability to respond to international crises.",
-      "published": "2026-05-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167585"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167574",
