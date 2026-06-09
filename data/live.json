@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-06-09T16:45:45.034Z",
+  "fetchedAt": "2026-06-09T19:04:47.166Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167682",
+      "source": "UN News — Middle East",
+      "title": "Palestinians face systematic abuse by Israeli settlers and Hamas alike: Independent investigators",
+      "summary": "Palestinian civilians are trapped between escalating settler violence in the occupied West Bank and fear-based Hamas rule in the Gaza Strip, investigators appointed by the UN Human Rights Council said on Tuesday in a new report.",
+      "published": "2026-06-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167682",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167680",
       "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Members discuss Central Africa and fight against LRA",
-      "summary": "The Security Council meets this morning to discuss the situation in Central Africa, including efforts to combat the Lord’s Resistance Army (LRA), one of the region’s longest-running security threats. Ambassadors are expected to hear an update on the work of the UN Regional Office for Central Africa (UNOCA) and the implementation of a regional strategy aimed at improving civilian protection, humanitarian access and cross-border cooperation.",
+      "title": "Security Council LIVE: Central Africa in the spotlight, including outlawed Lord&#039;s Resistance Army",
+      "summary": "The Security Council meets this morning to discuss the situation in Central Africa, including efforts to combat the so-called Lord’s Resistance Army (LRA), one of the region’s longest-running security threats, responsible for over 100,000 deaths, the UN estimates. Ambassadors have been briefed by the regional office (UNOCA) and its strategy for improving civilian protection, humanitarian access and cross-border cooperation.",
       "published": "2026-06-09T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167680"
     },
@@ -399,15 +408,6 @@
       "summary": "More than 1,600 conflict-related detainees in Yemen will be released under a UN-brokered agreement reached after months of negotiations in Jordan, marking the largest prisoner release deal since the country’s civil war began and offering a rare sign of progress in stalled peace efforts.",
       "published": "2026-05-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167511"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167506",
-      "source": "UN News — Middle East",
-      "title": "Gaza reconstruction envisages building ‘islands’ out of rubble",
-      "summary": "A feasibility study is underway to examine whether Gaza’s war debris could be recycled to reclaim coastal land and build artificial islands, as part of reconstruction.",
-      "published": "2026-05-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167506",
-      "country": "israel"
     }
   ]
 }
