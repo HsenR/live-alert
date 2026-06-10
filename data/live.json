@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-10T14:48:42.209Z",
+  "fetchedAt": "2026-06-10T17:46:55.495Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167689",
@@ -291,22 +291,6 @@
       "published": "2026-05-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167609",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167603",
-      "source": "UN News — Peace and security",
-      "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
-      "summary": "Nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year – more than double the previous year&#039;s figure – as rape, sexual slavery and abduction were deployed as weapons of war across Africa, the Middle East, Europe and the Caribbean.",
-      "published": "2026-05-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167603"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167601",
-      "source": "UN News — Peace and security",
-      "title": "UN honours blue helmets and calls for renewed investment in peace",
-      "summary": "Peacekeepers are serving in a dangerous era of mounting global tensions and tight resources. UN chief António Guterres is now calling for greater political backing and reliable financial support for ‘blue helmets’ who put themselves in harm’s way.",
-      "published": "2026-05-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167601"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167590",
