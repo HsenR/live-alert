@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-06-11T18:28:34.962Z",
+  "fetchedAt": "2026-06-11T20:41:55.620Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167699",
+      "source": "UN News — Middle East",
+      "title": "‘Grave concern’ after dozens of women arrested in Afghanistan for dress violations",
+      "summary": "Gender equality agency&amp;nbsp;UN Women is “gravely concerned” by the arrest of at least 30 women in Herat city last weekend in Afghanistan for allegedly violating dress requirements imposed by Taliban authorities.&amp;nbsp;&amp;nbsp;",
+      "published": "2026-06-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167699"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167697",
+      "source": "UN News — Middle East",
+      "title": "Three seafarers killed in Hormuz strike as UN warns of widening fallout",
+      "summary": "Three seafarers were killed in an attack on an oil tanker near the Strait of Hormuz on Wednesday, as renewed hostilities in one of the world’s most critical shipping corridors once again heightened concern over food security, fuel prices and broken global supply chains.",
+      "published": "2026-06-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167697"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167689",
       "source": "UN News — Middle East",
@@ -284,15 +300,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167609",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan updates",
-      "summary": "The UN Secretary-General has expressed alarm after a drone struck a residential building in the Romanian city of Galați overnight into Friday, reportedly injuring two people.",
-      "published": "2026-05-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167609",
-      "country": "lebanon"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167590",
       "source": "UN News — Middle East",
       "title": "Middle East update: Airstrikes and evacuation orders in Lebanon, aid restrictions in Gaza",
@@ -376,23 +383,6 @@
       "summary": "The ceasefire between Israel and Hamas has reduced the scale of violence in the Gaza Strip but killings and destruction continue, while forced displacement in the occupied West Bank has reached a rate “unseen in decades”, a senior official with the UN human rights office, OHCHR, said on Monday in Geneva.",
       "published": "2026-05-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167538",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167521",
-      "source": "UN News — Middle East",
-      "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
-      "summary": "Civilians across Gaza, the West Bank and Lebanon continue to face mounting hardship as conflict, displacement and ongoing military operations deepen humanitarian needs and strain already limited aid efforts, according to the latest updates from UN agencies.",
-      "published": "2026-05-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167521"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167519",
-      "source": "UN News — Middle East",
-      "title": "LIVE UPDATES: UN committee commemorates the 78th anniversary of the Nakba",
-      "summary": "The Committee on the Exercise of the Inalienable Rights of the Palestinian People meets Friday at the UN Headquarters to commemorate the 78th anniversary of the Nakba. Senior UN officials, including General Assembly President Annalena Baerbock and Assistant Secretary-General Khaled Khiari, are expected to address the meeting. The event will also feature testimonies from Palestinian families and a tribute to historian of Palestine and the Nakba, Walid Khalidi. Follow our live updates from the meeting as it happens.",
-      "published": "2026-05-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167519",
       "country": "israel"
     }
   ]
