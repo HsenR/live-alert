@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-11T22:26:28.966Z",
+  "fetchedAt": "2026-06-11T23:57:45.833Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167699",
@@ -16,6 +16,14 @@
       "summary": "Three Indian seafarers were killed in an attack on an oil tanker near the Strait of Hormuz on Wednesday, as renewed hostilities in one of the world’s most critical shipping corridors once again heightened concern over food security, fuel prices and broken global supply chains.",
       "published": "2026-06-11T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167697"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167701",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Turk condemns Northern Ireland riots, jobs at risk over animal disease spread, heatwaves spark public health crisis in Europe",
+      "summary": "Violence spread across Belfast following a shocking knife attack allegedly carried out by a Sudanese asylum seeker on Monday, triggering a wave of anti-immigration unrest. The victim suffered significant injuries to his face and back.",
+      "published": "2026-06-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167701"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167700",
