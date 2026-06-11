@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-11T20:41:55.620Z",
+  "fetchedAt": "2026-06-11T22:26:28.966Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167699",
@@ -13,9 +13,17 @@
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167697",
       "source": "UN News — Middle East",
       "title": "Three seafarers killed in Hormuz strike as UN warns of widening fallout",
-      "summary": "Three seafarers were killed in an attack on an oil tanker near the Strait of Hormuz on Wednesday, as renewed hostilities in one of the world’s most critical shipping corridors once again heightened concern over food security, fuel prices and broken global supply chains.",
+      "summary": "Three Indian seafarers were killed in an attack on an oil tanker near the Strait of Hormuz on Wednesday, as renewed hostilities in one of the world’s most critical shipping corridors once again heightened concern over food security, fuel prices and broken global supply chains.",
       "published": "2026-06-11T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167697"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167700",
+      "source": "UN News — Peace and security",
+      "title": "Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed",
+      "summary": "Hate speech is a grave and growing threat to peace and security, Secretary-General António Guterres warned on Thursday, calling for urgent action to break a cycle that can lead to genocide and other atrocity crimes.",
+      "published": "2026-06-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167700"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167689",
@@ -263,14 +271,6 @@
       "summary": "Years after conflicts fade from the headlines, the weapons used to fight them often continue to circulate – crossing borders, fuelling crime and undermining an often-fragile peace. Now, ghost guns, 3D-printed firearms and increasingly sophisticated trafficking networks are creating new challenges for governments worldwide.",
       "published": "2026-06-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167616"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167613",
-      "source": "UN News — Peace and security",
-      "title": "DR Congo Ebola outbreak: Nurses discharged after full recovery",
-      "summary": "Four nurses who fell ill with Ebola&amp;nbsp;in the eastern Democratic Republic of the Congo (DRC) have been discharged from hospital after recovering from the often-fatal illness that sparked an international health alert.&amp;nbsp;",
-      "published": "2026-06-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167613"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167606",
