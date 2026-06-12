@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-12T14:13:52.341Z",
+  "fetchedAt": "2026-06-12T17:14:17.301Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167707",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine civilian casualty toll in May highest in four years, UN monitors say",
+      "summary": "More civilians were killed and injured in Ukraine in May than in any other month in the past four years, UN investigators said on Friday in their latest update.",
+      "published": "2026-06-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167707"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167699",
       "source": "UN News — Middle East",
@@ -271,14 +279,6 @@
       "summary": "The United Nations continues to warn against the dangerous escalation in the war in Ukraine, a senior official told the Security Council on Monday, underlining the need for restraint and dialogue.&amp;nbsp;",
       "published": "2026-06-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167619"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167616",
-      "source": "UN News — Peace and security",
-      "title": "From Libyan deserts to 3D-printed guns: The weapons that never go away",
-      "summary": "Years after conflicts fade from the headlines, the weapons used to fight them often continue to circulate – crossing borders, fuelling crime and undermining an often-fragile peace. Now, ghost guns, 3D-printed firearms and increasingly sophisticated trafficking networks are creating new challenges for governments worldwide.",
-      "published": "2026-06-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167616"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167606",
