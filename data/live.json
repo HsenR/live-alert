@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-13T04:46:13.384Z",
+  "fetchedAt": "2026-06-13T08:14:12.733Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167708",
+      "source": "UN News — Middle East",
+      "title": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll as funding falls",
+      "summary": "Yemen remains gripped by one of the world’s worst humanitarian crises, with 22 million – out of a population of 35 million – requiring assistance. Women and girls account for half of those in need, and two-thirds of them are of childbearing age, placing reproductive health at the heart of the emergency.",
+      "published": "2026-06-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167708"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167714",
       "source": "UN News — Middle East",
@@ -17,6 +25,14 @@
       "published": "2026-06-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167713",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167715",
+      "source": "UN News — Peace and security",
+      "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
+      "summary": "The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remaining work of the international tribunals for Rwanda and the former Yugoslavia, as members debated how to preserve its legacy while bringing its mandate to an orderly close.",
+      "published": "2026-06-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167715"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167712",
@@ -274,14 +290,6 @@
       "country": "lebanon"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167622",
-      "source": "UN News — Peace and security",
-      "title": "UN deplores another wave of Russian attacks across Ukraine",
-      "summary": "Overnight attacks in three key cities in Ukraine have left several civilians dead, scores more injured, and homes, hospitals and shops destroyed or damaged, the UN Humanitarian Coordinator in the country said on Tuesday.&amp;nbsp;",
-      "published": "2026-06-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167622"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167618",
       "source": "UN News — Middle East",
       "title": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pall over Iran-US negotiations",
@@ -384,14 +392,6 @@
       "summary": "Before heading to strike sites in war-torn Lebanon, rescue workers and paramedics often say goodbye to one another – a ritual captured in widely shared videos reflecting the growing dangers faced by aid workers since hostilities between Hezbollah and Israel erupted on 2 March.",
       "published": "2026-05-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167556"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167550",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
-      "summary": "The UN Security Council is meeting in emergency session in New York to discuss the situation in the Middle East following reports of a drone strike near the Barakah Nuclear Power Plant in the United Arab Emirates. IAEA Director General Rafael Mariano Grossi briefed members as concerns grow over nuclear safety and security in the region. Follow our live coverage below for updates and for coverage of all key meetings at UN Headquarters, go here.",
-      "published": "2026-05-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167550"
     }
   ]
 }
