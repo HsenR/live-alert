@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-13T22:16:05.170Z",
+  "fetchedAt": "2026-06-13T23:36:13.974Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167684",
+      "source": "UN News — Middle East",
+      "title": "Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children",
+      "summary": "The odyssey begins in Indonesia and ends, 15,000 kilometres later, in Kabul, the capital of Afghanistan. Along the way, critical food aid destined for young Afghan students crosses nine countries, over land and sea, skirting geopolitical unrest and conflict zones.",
+      "published": "2026-06-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167684"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167708",
       "source": "UN News — Middle East",
@@ -384,14 +392,6 @@
       "published": "2026-05-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167560",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167556",
-      "source": "UN News — Middle East",
-      "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
-      "summary": "Before heading to strike sites in war-torn Lebanon, rescue workers and paramedics often say goodbye to one another – a ritual captured in widely shared videos reflecting the growing dangers faced by aid workers since hostilities between Hezbollah and Israel erupted on 2 March.",
-      "published": "2026-05-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167556"
     }
   ]
 }
