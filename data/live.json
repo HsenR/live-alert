@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-13T00:04:36.944Z",
+  "fetchedAt": "2026-06-13T04:46:13.384Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167714",
@@ -17,6 +17,14 @@
       "published": "2026-06-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167713",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167712",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: State-supported safe houses in Haiti, EU pact strengthens refugee protection, demand for ‘critical minerals’ intensifies",
+      "summary": "Haiti has opened its first State-supported safe house for survivors of sexual violence with support from the UN, marking a significant step in responding to the growing crisis affecting women and girls.",
+      "published": "2026-06-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167712"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167707",
@@ -288,14 +296,6 @@
       "summary": "As hostilities escalate in Lebanon despite a recent ceasefire extension, the United Nations continues to push for peace and support displaced civilians by providing food, protection and other assistance.",
       "published": "2026-06-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167615"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167619",
-      "source": "UN News — Peace and security",
-      "title": "UN stresses the need for de-escalation in Ukraine war as attacks rise",
-      "summary": "The United Nations continues to warn against the dangerous escalation in the war in Ukraine, a senior official told the Security Council on Monday, underlining the need for restraint and dialogue.&amp;nbsp;",
-      "published": "2026-06-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167619"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167606",
