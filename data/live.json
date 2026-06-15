@@ -1,6 +1,24 @@
 {
-  "fetchedAt": "2026-06-15T08:44:20.170Z",
+  "fetchedAt": "2026-06-15T14:47:47.268Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167717",
+      "source": "UN News — Middle East",
+      "title": "While world waits for details on Iran-US accord, UN calls for Hormuz aid corridor",
+      "summary": "As representatives of Iran and the United States reportedly prepared to sign a new peace agreement at the end of the week, the UN on Monday stressed the urgent need to open an aid corridor to transit the choked-off Strait of Hormuz and prevent a global hunger crisis.",
+      "published": "2026-06-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167716",
+      "source": "UN News — Middle East",
+      "title": "Guterres welcomes US-Iran peace deal as ‘critical step’ toward ending conflict",
+      "summary": "UN Secretary General António Guterres welcomed on Sunday a new peace deal between the United States and Iran, calling it a “critical step” toward ending the conflict.",
+      "published": "2026-06-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167716",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167705",
       "source": "UN News — Peace and security",
@@ -381,24 +399,6 @@
       "summary": "As Gaza’s fragile ceasefire frays and humanitarian conditions deteriorate, a senior UN envoy warned the Security Council on Thursday that delays in implementing the Council-backed transition plan for the enclave will only increase suffering and undermine recovery.",
       "published": "2026-05-21T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167563",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
-      "summary": "The Security Council is discussing the stalled progress in Gaza as the fragile ceasefire there limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs. Discussions are likely to focus on who governs Gaza, and how - with no disarmament in sight, together with efforts to support recovery.",
-      "published": "2026-05-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167563",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167560",
-      "source": "UN News — Middle East",
-      "title": "Guterres condemns Israeli move to militarise seized compound in occupied East Jerusalem",
-      "summary": "UN Secretary-General António Guterres on Wednesday strongly condemned Israel’s decision to establish military facilities at a seized UNRWA compound in occupied East Jerusalem, calling the move “wholly unacceptable”.",
-      "published": "2026-05-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167560",
       "country": "israel"
     }
   ]
