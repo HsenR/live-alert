@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T14:47:47.268Z",
+  "fetchedAt": "2026-06-15T18:57:57.063Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167717",
@@ -9,6 +9,14 @@
       "published": "2026-06-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167718",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: Latest Russian attack kills civilians, damages cultural landmark",
+      "summary": "Several civilians were killed and dozens more were injured in the latest wave of overnight attacks in Ukraine that targeted the capital Kyiv, the city of Kharkiv and the country’s history and cultural heritage, the United Nations said on Monday.",
+      "published": "2026-06-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167718"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167716",
@@ -288,14 +296,6 @@
       "summary": "UN Secretary-General António Guterres expressed alarm on Tuesday over reported overnight exchanges of fire between the United States and Iran, as well as reports that Iran targeted Kuwait and Bahrain.",
       "published": "2026-06-03T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167639"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167636",
-      "source": "UN News — Peace and security",
-      "title": "Kyrgyzstan wins seat on UN Security Council for first time ever",
-      "summary": "A closely watched Security Council election delivered a mix of continuity and change on Wednesday, as Austria, Portugal, Trinidad and Tobago, Zimbabwe – and first-time member Kyrgyzstan, secured seats around the iconic horseshoe table.",
-      "published": "2026-06-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167636"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167628",
