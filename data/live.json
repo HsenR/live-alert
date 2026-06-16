@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-06-16T12:27:53.389Z",
+  "fetchedAt": "2026-06-16T17:29:26.238Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167728",
+      "source": "UN News — Middle East",
+      "title": "UN officials call for urgent action in Yemen to push peace, reduce hunger",
+      "summary": "Top UN officials called for bolstered efforts to stave off rising hunger and foster a path towards permanent peace in Yemen as they briefed the Security Council Tuesday morning.",
+      "published": "2026-06-16T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167728"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167725",
+      "source": "UN News — Peace and security",
+      "title": "‘Some question if Ebola is real’: how trust is central in fighting DRC outbreak",
+      "summary": "In Ebola-stricken Democratic Republic of the Congo (DRC), winning the race against the disease requires earning the community’s trust first and foremost, humanitarians said on Tuesday.",
+      "published": "2026-06-16T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167725"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167717",
       "source": "UN News — Middle East",
@@ -9,6 +25,14 @@
       "published": "2026-06-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167724",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Risky return home in Lebanon, displacement in Gaza, emergency funding for Somalia",
+      "summary": "Despite the agreement announced on Sunday between the United States and Iran, displaced people in Lebanon continue to face difficulties in returning to their communities, the UN Office for the Coordination of Humanitarian Affairs (OCHA) has reported.&amp;nbsp;",
+      "published": "2026-06-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167724"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167718",
@@ -282,22 +306,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167641",
-      "source": "UN News — Peace and security",
-      "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war",
-      "summary": "Children in Ukraine have been profoundly impacted by years of war, sheltering in underground schools – or forced to study online – and living with the psychological strain of constant air raid sirens that could spell death for them and their families.",
-      "published": "2026-06-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167641"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167639",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: UN urges restraint as Gulf tensions rise, fear and uncertainty in Lebanon, hunger grows in the Sahel",
-      "summary": "UN Secretary-General António Guterres expressed alarm on Tuesday over reported overnight exchanges of fire between the United States and Iran, as well as reports that Iran targeted Kuwait and Bahrain.",
-      "published": "2026-06-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167639"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167628",
       "source": "UN News — Middle East",
       "title": "‘Women and girls cannot wait’: Lebanon’s crisis is putting lives at risk",
@@ -390,15 +398,6 @@
       "summary": "Dire conditions in Gaza marked by continuing violence, rodent infestations and the spread of infectious disease are being made worse by blockages of essential medical supplies, UN agencies warned on Friday.",
       "published": "2026-05-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167572",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167568",
-      "source": "UN News — Middle East",
-      "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
-      "summary": "As Gaza’s fragile ceasefire frays and humanitarian conditions deteriorate, a senior UN envoy warned the Security Council on Thursday that delays in implementing the Council-backed transition plan for the enclave will only increase suffering and undermine recovery.",
-      "published": "2026-05-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
       "country": "israel"
     }
   ]
