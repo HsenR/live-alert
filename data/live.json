@@ -1,19 +1,27 @@
 {
-  "fetchedAt": "2026-06-17T20:28:25.445Z",
+  "fetchedAt": "2026-06-17T22:19:05.804Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167736",
-      "source": "UN News — Peace and security",
+      "source": "UN News — Middle East",
       "title": "Lebanon: 12 children killed, maimed daily despite truce between Hezbollah and Israel",
       "summary": "More than 100 days of war reveals a shattering snapshot of life for civilians in Lebanon amid Israeli strikes and forced displacement, the UN Children’s Fund (UNICEF) reported on Wednesday.",
       "published": "2026-06-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167736"
     },
     {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167742",
+      "source": "UN News — Peace and security",
+      "title": "Worsening hunger could push millions closer to famine in 13 global hotspots",
+      "summary": "Millions of people across some of the world’s most vulnerable regions are expected to face worsening hunger in the months ahead, as conflict, economic pressures and shrinking aid budgets exacerbate long-running crises.",
+      "published": "2026-06-17T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167742"
+    },
+    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167735",
       "source": "UN News — Peace and security",
       "title": "Security Council LIVE: Open debate on women, peace and security",
-      "summary": "The UN Security Council has been meeting in New York for its annual open debate on women, peace and security, in line with a 25-year-old resolution on the issue. The Secretary-General’s most recent report shows that in 2024, women made up only seven percent of negotiators on average worldwide, and nearly nine out of 10 negotiation tracks included no women negotiators at all. Follow live coverage below, and for daily coverage, check out our full meetings coverage here.",
+      "summary": "The UN Security Council has been meeting in New York for its annual open debate on women, peace and security, in line with a 25-year-old resolution. The Secretary-General’s most recent report on the issue shows that in 2024, women made up only seven percent of negotiators on average worldwide, and nearly nine out of 10 negotiation tracks included no women negotiators at all. Follow live coverage below, and for daily coverage, check out our full meetings coverage here.",
       "published": "2026-06-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167735"
     },
@@ -305,14 +313,6 @@
       "country": "lebanon"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167656",
-      "source": "UN News — Peace and security",
-      "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
-      "summary": "From a police station in Germany to the UN Mission in South Sudan, Stephanie Königs has been talking to UN News about her journey to becoming a peacekeeper – and the importance of trust and empathy in the field.&amp;nbsp;",
-      "published": "2026-06-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167656"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167631",
       "source": "UN News — Middle East",
       "title": "Gaza’s public servants systematically targeted in Israeli strikes",
@@ -405,15 +405,6 @@
       "summary": "In front of a simple tent in Gaza that offers no protection from the cold or the heat, in a crowded camp where tents lack privacy and basic services, Umm Ahmad&amp;nbsp;sat down to speak to UN News about her life in Gaza before the war and what it has become now.&amp;nbsp;",
       "published": "2026-05-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167574",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167572",
-      "source": "UN News — Middle East",
-      "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
-      "summary": "Dire conditions in Gaza marked by continuing violence, rodent infestations and the spread of infectious disease are being made worse by blockages of essential medical supplies, UN agencies warned on Friday.",
-      "published": "2026-05-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167572",
       "country": "israel"
     }
   ]
