@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-17T15:23:09.671Z",
+  "fetchedAt": "2026-06-17T18:00:43.857Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167735",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Open debate on women, peace and security",
+      "summary": "The UN Security Council has been meeting in New York for its annual open debate on women, peace and security, in line with a 25-year-old resolution on the issue. The Secretary-General’s most recent report shows that in 2024, women made up only seven percent of negotiators on average worldwide, and nearly nine out of 10 negotiation tracks included no women negotiators at all. Follow live coverage below, and for daily coverage, check out our full meetings coverage here.",
+      "published": "2026-06-17T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167735"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167728",
       "source": "UN News — Middle East",
