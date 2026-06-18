@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-18T17:38:16.541Z",
+  "fetchedAt": "2026-06-18T19:52:54.644Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167748",
@@ -9,6 +9,23 @@
       "published": "2026-06-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167748",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167750",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
+      "summary": "The Security Council meets at 3pm in New York for an open briefing on Gaza, convened at the request of its 10 elected members amid concern that the territory&#039;s humanitarian crisis is being overshadowed by wider regional developments. The meeting takes place under a ceasefire that has existed in name since October 2025 – but under &amp;nbsp;nearly 1,000 Palestinians have been killed, 2.1 million people remain displaced, and humanitarians warn that funding shortfalls and Israeli restrictions are pushing relief operations to the brink. Follow live below and wider Meetings Coverage can be fou",
+      "published": "2026-06-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167752",
+      "source": "UN News — Peace and security",
+      "title": "‘Stop this madness’: Rights chief warns of impending atrocities as militia closes in on El Obeid, Sudan",
+      "summary": "The UN’s top human rights official has issued an urgent warning that an imminent offensive against El Obeid, the capital of Sudan’s North Kordofan state, carries the risk of serious international crimes and threatens to deepen an already catastrophic humanitarian crisis.",
+      "published": "2026-06-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167752"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167736",
@@ -38,7 +55,7 @@
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167735",
       "source": "UN News — Peace and security",
       "title": "Security Council LIVE: Open debate on women, peace and security",
-      "summary": "The UN Security Council has been meeting in New York for its annual open debate on women, peace and security, in line with a 25-year-old resolution. The Secretary-General’s most recent report on the issue shows that in 2024, women made up only seven percent of negotiators on average worldwide, and nearly nine out of 10 negotiation tracks included no women negotiators at all. Follow live coverage below, and for daily coverage, check out our full meetings coverage here.",
+      "summary": "The UN Security Council met in New York Wednesday for its annual open debate on women, peace and security, in line with a 25-year-old resolution. The Secretary-General’s most recent report on the issue shows that in 2024, women made up only seven percent of negotiators on average worldwide, and nearly nine out of 10 negotiation tracks included no women negotiators at all. Follow live coverage below, and for daily coverage, check out our full meetings coverage here.",
       "published": "2026-06-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167735"
     },
@@ -271,22 +288,6 @@
       "summary": "The UN in Lebanon appealed for an additional $331.5 million on Friday to help 1.4 million people in crisis as already massive needs continue to grow, three months since deadly violence erupted between Hezbollah fighters and Israeli forces.",
       "published": "2026-06-05T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167659"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167668",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global hunger",
-      "summary": "Months of fighting and insecurity have forced hundreds of thousands of people to flee their homes in South Sudan’s eastern Jonglei State, triggering “one of the most severe conflict-related displacement emergencies in recent years”, the UN refugee agency (UNHCR) said on Friday.&amp;nbsp;",
-      "published": "2026-06-05T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167668"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167665",
-      "source": "UN News — Peace and security",
-      "title": "‘The true cost of peace’: UN honours fallen peacekeepers as dangers mount",
-      "summary": "The United Nations paused on Friday to pay tribute to the more than 4,500 peacekeepers who lost their lives in the line of duty over the past 78 years.&amp;nbsp;",
-      "published": "2026-06-05T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167665"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167653",
