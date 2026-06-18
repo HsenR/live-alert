@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-18T21:54:05.774Z",
+  "fetchedAt": "2026-06-18T23:26:06.763Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167748",
@@ -11,10 +11,26 @@
       "country": "iran"
     },
     {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167758",
+      "source": "UN News — Peace and security",
+      "title": "UN upholds freedom of movement for peacekeepers in Lebanon",
+      "summary": "The United Nations has again called for freedom of movement for its peacekeepers in Lebanon who continue to closely monitor developments in the south of the country, including in the wake of the recent provisional agreement signed by the United States and Iran.",
+      "published": "2026-06-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167758"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167757",
+      "source": "UN News — Peace and security",
+      "title": "Libya&#039;s political process regains momentum, but window for action is narrowing, UN envoy warns",
+      "summary": "Libya has been mired in political dysfunction since the collapse of Muammar Gaddafi’s regime in 2011, which shattered State institutions and triggered recurring struggles over legitimacy and power.&amp;nbsp;",
+      "published": "2026-06-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167757"
+    },
+    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167750",
       "source": "UN News — Peace and security",
       "title": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
-      "summary": "The Security Council is in session for an open briefing on Gaza, convened at the request of its 10 elected members amid concern that the territory&#039;s humanitarian crisis is being overshadowed by wider regional developments. The meeting takes place under a ceasefire that has existed in name since October 2025 – but under &amp;nbsp;nearly 1,000 Palestinians have been killed, 2.1 million people remain displaced. Relief chief Tom Fletcher told ambassadors that “fragile gains” since the truce are “the bare minimum of what Palestinians need.” Follow live below and wider Meetings Coverage can be ",
+      "summary": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory&#039;s humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told ambassadors that “fragile gains” since the truce are “the bare minimum of what Palestinians need.” Follow live below and wider Meetings Coverage can be found here.",
       "published": "2026-06-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
       "country": "israel"
@@ -264,14 +280,6 @@
       "summary": "The Security Council met on Monday amid a sharp escalation in hostilities across Ukraine, where UN officials warned that the war has reached its deadliest point since Russia’s full-scale invasion in 2022. Briefing members, Rosemary DiCarlo, Under-Secretary-General for political affairs, said recent months had seen some of the most extensive aerial attacks of the conflict, while the humanitarian toll on civilians continued to mount on both sides of the front line.",
       "published": "2026-06-08T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167674"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167666",
-      "source": "UN News — Peace and security",
-      "title": "From firefights to football matches: Life on a UN peacekeeping frontline",
-      "summary": "Night has fallen over the town of Zémio, in the east of the Central African Republic. In a few hours, the December 2025 presidential election is due to take place, but the rebels of the “Azande Ani Kpi Gbe” (AAKG) militia have launched an offensive to seize the city and derail the polls.",
-      "published": "2026-06-07T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167666"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167648",
