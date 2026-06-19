@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-06-19T11:43:56.116Z",
+  "fetchedAt": "2026-06-19T14:27:56.857Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167758",
+      "source": "UN News — Middle East",
+      "title": "UN upholds freedom of movement for peacekeepers in Lebanon",
+      "summary": "The United Nations has again called for freedom of movement for its peacekeepers in Lebanon who continue to closely monitor developments in the south of the country, including in the wake of the recent provisional agreement signed by the United States and Iran.",
+      "published": "2026-06-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167758"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167750",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
+      "summary": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory&#039;s humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told ambassadors that “fragile gains” since the truce are “the bare minimum of what Palestinians need.” Follow live below and wider Meetings Coverage can be found here.",
+      "published": "2026-06-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167748",
       "source": "UN News — Middle East",
@@ -11,29 +28,12 @@
       "country": "iran"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167758",
-      "source": "UN News — Peace and security",
-      "title": "UN upholds freedom of movement for peacekeepers in Lebanon",
-      "summary": "The United Nations has again called for freedom of movement for its peacekeepers in Lebanon who continue to closely monitor developments in the south of the country, including in the wake of the recent provisional agreement signed by the United States and Iran.",
-      "published": "2026-06-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167758"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167757",
       "source": "UN News — Peace and security",
       "title": "Libya&#039;s political process regains momentum, but window for action is narrowing, UN envoy warns",
       "summary": "Libya has been mired in political dysfunction since the collapse of Muammar Gaddafi’s regime in 2011, which shattered State institutions and triggered recurring struggles over legitimacy and power.&amp;nbsp;",
       "published": "2026-06-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167757"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167750",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
-      "summary": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory&#039;s humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told ambassadors that “fragile gains” since the truce are “the bare minimum of what Palestinians need.” Follow live below and wider Meetings Coverage can be found here.",
-      "published": "2026-06-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
-      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167752",
@@ -398,23 +398,6 @@
       "published": "2026-05-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167610",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167604",
-      "source": "UN News — Middle East",
-      "title": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
-      "summary": "The dire conditions in the Gaza Strip are trapping children “in an endless cycle of suffering” and their heartbroken parents can only look on, an official with the UN child rights agency UNICEF said on Friday in a fresh appeal for greater humanitarian access to support families in the war-ravaged enclave.&amp;nbsp;",
-      "published": "2026-05-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167604",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167590",
-      "source": "UN News — Middle East",
-      "title": "Middle East update: Airstrikes and evacuation orders in Lebanon, aid restrictions in Gaza",
-      "summary": "Intensified Israeli airstrikes overnight in Lebanon forced people to again flee their homes, while humanitarians in the Gaza Strip report continued restrictions in bringing aid into the enclave, the United Nations said on Tuesday.",
-      "published": "2026-05-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167590"
     }
   ]
 }
