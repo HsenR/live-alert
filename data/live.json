@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-19T20:11:21.279Z",
+  "fetchedAt": "2026-06-19T21:19:17.857Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167768",
@@ -46,7 +46,7 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167757",
       "source": "UN News — Peace and security",
-      "title": "Libya&#039;s political process regains momentum, but window for action is narrowing, UN envoy warns",
+      "title": "Libya’s political process regains momentum, but window for action is narrowing, UN envoy warns",
       "summary": "Libya has been mired in political dysfunction since the collapse of Muammar Gaddafi’s regime in 2011, which shattered State institutions and triggered recurring struggles over legitimacy and power.&amp;nbsp;",
       "published": "2026-06-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167757"
@@ -280,14 +280,6 @@
       "summary": "The Security Council meets this morning to discuss the situation in Central Africa, including efforts to combat the so-called Lord’s Resistance Army (LRA), one of the region’s longest-running security threats, responsible for over 100,000 deaths, the UN estimates. Ambassadors have been briefed by the regional office (UNOCA) and its strategy for improving civilian protection, humanitarian access and cross-border cooperation.",
       "published": "2026-06-09T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167680"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167677",
-      "source": "UN News — Peace and security",
-      "title": "Afghanistan faces ‘lost generation of talent and potential,’ Security Council hears",
-      "summary": "As the Security Council met on Afghanistan, senior officials and civil society representatives delivered a clear warning Monday: despite relative security under the Taliban, worsening humanitarian conditions, restrictions on women and growing economic pressures are creating a fragile and uncertain future.&amp;nbsp;",
-      "published": "2026-06-08T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167677"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167648",
