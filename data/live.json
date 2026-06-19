@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-19T14:27:56.857Z",
+  "fetchedAt": "2026-06-19T16:55:55.684Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167760",
+      "source": "UN News — Middle East",
+      "title": "Gaza: Sneeze and you might get shot, warns UNICEF in alert on child killings",
+      "summary": "After another deadly night of clashes in Lebanon, aid agencies issued a new alert for Gaza, where 265 Palestinian children have been killed since a ceasefire was announced in October 2025.",
+      "published": "2026-06-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167760"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167758",
       "source": "UN News — Middle East",
@@ -13,7 +21,7 @@
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167750",
       "source": "UN News — Middle East",
       "title": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
-      "summary": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory&#039;s humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told ambassadors that “fragile gains” since the truce are “the bare minimum of what Palestinians need.” Follow live below and wider Meetings Coverage can be found here.",
+      "summary": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory&#039;s humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told ambassadors that “fragile gains” since the truce are “the bare minimum of what Palestinians need.” Full coverage here, and wider Meetings Coverage can be found here.",
       "published": "2026-06-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
       "country": "israel"
@@ -274,14 +282,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167677"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167674",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening",
-      "summary": "The Security Council met on Monday amid a sharp escalation in hostilities across Ukraine, where UN officials warned that the war has reached its deadliest point since Russia’s full-scale invasion in 2022. Briefing members, Rosemary DiCarlo, Under-Secretary-General for political affairs, said recent months had seen some of the most extensive aerial attacks of the conflict, while the humanitarian toll on civilians continued to mount on both sides of the front line.",
-      "published": "2026-06-08T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167674"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167648",
       "source": "UN News — Middle East",
       "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
@@ -388,15 +388,6 @@
       "summary": "Matches organised by a former professional player are providing a brief respite from the harsh reality of life for the thousands living in overcrowded tents, schools or damaged buildings in the shattered Occupied Palestinian Territory of Gaza.",
       "published": "2026-05-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167606",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/05/1167610",
-      "source": "UN News — Middle East",
-      "title": "Gaza: 26 killed over Eid holiday, UN rights investigators report",
-      "summary": "At least 26 Palestinians were killed in the Gaza Strip since Tuesday – the eve of one of the most important holidays in Islam – the UN human rights office, OHCHR, reported on Friday.",
-      "published": "2026-05-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167610",
       "country": "israel"
     }
   ]
