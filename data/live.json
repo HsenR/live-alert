@@ -1,6 +1,30 @@
 {
-  "fetchedAt": "2026-06-22T13:15:09.799Z",
+  "fetchedAt": "2026-06-22T17:49:43.703Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167779",
+      "source": "UN News — Peace and security",
+      "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
+      "summary": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
+      "published": "2026-06-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167779"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167774",
+      "source": "UN News — Peace and security",
+      "title": "Afghanistan in crisis: Drought, malnutrition and a worsening humanitarian situation",
+      "summary": "Imagine being one of a family of nine and sitting down to a meal of potato peelings and other scraps, boiled up into a soup. This is the harsh reality for many of Afghanistan’s most vulnerable families, forced on them by climate change and drought, widespread malnutrition and increasing restrictions on women, since the Taliban overran Kabul in 2021.",
+      "published": "2026-06-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167774"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167764",
+      "source": "UN News — Peace and security",
+      "title": "Conflicts command headlines…protecting peace, less so: The UN Peacebuilding Fund explained",
+      "summary": "Wars regularly make headlines. Preventing them rarely does.",
+      "published": "2026-06-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167764"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167773",
       "source": "UN News — Peace and security",
