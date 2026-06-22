@@ -1,6 +1,30 @@
 {
-  "fetchedAt": "2026-06-22T20:27:11.056Z",
+  "fetchedAt": "2026-06-22T22:19:51.062Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167782",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
+      "summary": "Pope Leo called on the international community to renew its commitment to tackling hunger and malnutrition, describing access to adequate food as a “fundamental human right” during a visit to the World Food Programme (WFP) headquarters in Rome on Monday.",
+      "published": "2026-06-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167782"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167781",
+      "source": "UN News — Peace and security",
+      "title": "Sudan: Drone attacks endanger civilians and shut down critical services in El Obeid",
+      "summary": "Escalating violence in and around the Sudanese city of El Obeid is putting civilians at increased risk and disrupting essential services, the UN aid coordination office OCHA said on Monday.&amp;nbsp;",
+      "published": "2026-06-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167781"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167775",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Warnings of ‘dangerous cycle of escalation’ in Ukraine",
+      "summary": "The Security Council is holding an open meeting on Ukraine on Monday afternoon, with warnings of a “dangerous cycle of escalation” amid drone and missile attacks in briefings by Mohamed Khaled Khiari, Assistant Secretary-General at the Departments of Political and Peacebuilding Affairs and Peace Operations, and Edem Wosornu, crisis response director at the UN Office for the Coordination of Humanitarian Affairs, OCHA.",
+      "published": "2026-06-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167775"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167779",
       "source": "UN News — Peace and security",
@@ -239,14 +263,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167712"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167707",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine civilian casualty toll in May highest in four years, UN monitors say",
-      "summary": "More civilians were killed and injured in Ukraine in May than in any other month in the past four years, UN investigators said on Friday in their latest update.",
-      "published": "2026-06-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167707"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167699",
       "source": "UN News — Middle East",
       "title": "‘Grave concern’ after dozens of women arrested in Afghanistan for dress violations",
@@ -261,22 +277,6 @@
       "summary": "Three Indian seafarers were killed in an attack on an oil tanker near the Strait of Hormuz on Wednesday, as renewed hostilities in one of the world’s most critical shipping corridors once again heightened concern over food security, fuel prices and broken global supply chains.",
       "published": "2026-06-11T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167697"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167701",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Turk condemns Northern Ireland riots, jobs at risk over animal disease spread, heatwaves spark public health crisis in Europe",
-      "summary": "Violence spread across Belfast following a shocking knife attack allegedly carried out by a Sudanese asylum seeker on Monday, triggering a wave of anti-immigration unrest. The victim suffered significant injuries to his face and back.",
-      "published": "2026-06-11T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167701"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167700",
-      "source": "UN News — Peace and security",
-      "title": "Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed",
-      "summary": "Hate speech is a grave and growing threat to peace and security, Secretary-General António Guterres warned on Thursday, calling for urgent action to break a cycle that can lead to genocide and other atrocity crimes.",
-      "published": "2026-06-11T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167700"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167689",
