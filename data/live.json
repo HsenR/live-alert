@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-23T22:59:31.079Z",
+  "fetchedAt": "2026-06-23T23:54:57.033Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167790",
@@ -9,6 +9,22 @@
       "published": "2026-06-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167790",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167793",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: UN launches Hormuz evacuation plan, UNICEF youth champion killed in Gaza, Lebanon ceasefire ‘largely holding’",
+      "summary": "The International Maritime Organization (IMO) will begin implementing an evacuation plan for more than 11,000 seafarers stranded in the Strait of Hormuz, the UN agency announced on Tuesday.",
+      "published": "2026-06-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167793"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167791",
+      "source": "UN News — Peace and security",
+      "title": "Central African Republic peace gains must be preserved: UN envoy",
+      "summary": "The Central African Republic (CAR) “has made remarkable and tangible progress towards lasting peace and security” in recent years, but security remains fragile in border areas, including with war-torn Sudan, UN Special Representative Valentine Rugwabiza told the Security Council on Tuesday.&amp;nbsp;",
+      "published": "2026-06-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167791"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167789",
@@ -262,14 +278,6 @@
       "published": "2026-06-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167713",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167715",
-      "source": "UN News — Peace and security",
-      "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
-      "summary": "The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remaining work of the international tribunals for Rwanda and the former Yugoslavia, as members debated how to preserve its legacy while bringing its mandate to an orderly close.",
-      "published": "2026-06-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167715"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167699",
