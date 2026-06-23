@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-23T05:55:42.101Z",
+  "fetchedAt": "2026-06-23T08:54:07.867Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167779",
+      "source": "UN News — Middle East",
+      "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
+      "summary": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
+      "published": "2026-06-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167779"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167782",
       "source": "UN News — Peace and security",
@@ -24,14 +32,6 @@
       "summary": "Deadly drone and missile attacks in Ukraine over the weekend represented a “dangerous cycle of escalation” in Russia’s full-scale four-year-old war, the Security Council heard on Monday from Mohamed Khaled Khiari, Assistant Secretary-General in the Departments of Political and Peacebuilding Affairs and Peace Operations, while Edem Wosornu, crisis response director at the UN relief office, OCHA, warned that “the choices made here can mean the difference between lives saved or lives lost.”",
       "published": "2026-06-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167775"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167779",
-      "source": "UN News — Peace and security",
-      "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
-      "summary": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
-      "published": "2026-06-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167779"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167774",
@@ -396,14 +396,6 @@
       "summary": "The Security Council meets late on Monday at France’s request, as concern grows over escalating violence in Lebanon between Israel and Hezbollah amid warnings of Israeli strikes on Beirut’s southern suburbs, and confusion over the status of US-Iran peace talks linked to the faltering ceasefires. Follow live here from New York.&amp;nbsp;",
       "published": "2026-06-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167618"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167615",
-      "source": "UN News — Middle East",
-      "title": "Lebanon: Families flee Beirut as Israel threatens renewed strikes on Hezbollah",
-      "summary": "As hostilities escalate in Lebanon despite a recent ceasefire extension, the United Nations continues to push for peace and support displaced civilians by providing food, protection and other assistance.",
-      "published": "2026-06-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167615"
     }
   ]
 }
