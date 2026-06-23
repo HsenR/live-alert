@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-06-23T20:30:04.462Z",
+  "fetchedAt": "2026-06-23T21:56:35.097Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167790",
+      "source": "UN News — Middle East",
+      "title": "Israel continues to commit genocide, atrocity crimes by deliberately targeting Palestinian children, UN independent commission finds",
+      "summary": "Israeli authorities and security forces have deliberately targeted Palestinian children, resulting in genocide and atrocity crimes in the Gaza Strip and war crimes in the West Bank, a UN independent commission of inquiry said in its latest report released on Tuesday.",
+      "published": "2026-06-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167790",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167789",
       "source": "UN News — Peace and security",
@@ -388,14 +397,6 @@
       "published": "2026-06-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167621",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167618",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pall over Iran-US negotiations",
-      "summary": "The Security Council meets late on Monday at France’s request, as concern grows over escalating violence in Lebanon between Israel and Hezbollah amid warnings of Israeli strikes on Beirut’s southern suburbs, and confusion over the status of US-Iran peace talks linked to the faltering ceasefires. Follow live here from New York.&amp;nbsp;",
-      "published": "2026-06-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167618"
     }
   ]
 }
