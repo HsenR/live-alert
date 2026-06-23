@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-06-23T18:27:28.586Z",
+  "fetchedAt": "2026-06-23T20:30:04.462Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167789",
+      "source": "UN News — Peace and security",
+      "title": "New Security Council resolution upholds accountability for attacks against peacekeepers",
+      "summary": "The United Nations Security Council unanimously adopted a resolution on Tuesday that calls for accountability for crimes committed against UN peacekeepers.",
+      "published": "2026-06-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167789"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167779",
       "source": "UN News — Middle East",
@@ -253,14 +261,6 @@
       "summary": "The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remaining work of the international tribunals for Rwanda and the former Yugoslavia, as members debated how to preserve its legacy while bringing its mandate to an orderly close.",
       "published": "2026-06-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167715"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167712",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: State-supported safe houses in Haiti, EU pact strengthens refugee protection, demand for ‘critical minerals’ intensifies",
-      "summary": "Haiti has opened its first State-supported safe house for survivors of sexual violence with support from the UN, marking a significant step in responding to the growing crisis affecting women and girls.",
-      "published": "2026-06-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167712"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167699",
