@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-06-24T13:51:05.165Z",
+  "fetchedAt": "2026-06-24T16:04:34.775Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167794",
+      "source": "UN News — Middle East",
+      "title": "Stranded Hormuz seafarers begin mass evacuation operation",
+      "summary": "As the UN International Maritime Organization (IMO) released more details of its plan to evacuate more than 11,000 seafarers stranded in the Strait of Hormuz, one mariner caught up in the emergency has described the ever-present fear of coming under attack.",
+      "published": "2026-06-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167794"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167795",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Open debate on children and armed conflict",
+      "summary": "The UN Security Council is meeting on Thursday for an open debate on strengthening protections for children caught in armed conflict. The Secretary-General&#039;s latest report reveals that in 2025, soldiers and Government forces were responsible for more grave violations against children in armed conflict than non-State armed groups, marking a first in 30 years of UN monitoring. &amp;nbsp;The report verified 38,558 grave violations such as killing, recruitment and abduction, affecting 24,174&amp;nbsp;children, many of whom suffered&amp;nbsp;multiple&amp;nbsp;violations.",
+      "published": "2026-06-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167795"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167790",
       "source": "UN News — Middle East",
@@ -239,14 +255,6 @@
       "country": "iran"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167705",
-      "source": "UN News — Peace and security",
-      "title": "Refugee turned peacemaker: The young woman leader transforming communities in the Central African Republic",
-      "summary": "In the heart of the Central African Republic (CAR), a nation long marked by conflict, Nina Mireille Yankinon stands as a symbol of resilience, leadership, and hope, dedicating her life to helping communities torn apart by war.&amp;nbsp;",
-      "published": "2026-06-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167705"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167684",
       "source": "UN News — Middle East",
       "title": "Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children",
@@ -396,15 +404,6 @@
       "summary": "Monday’s hastily convened meeting of the UN Security Council at the request of France in response to&amp;nbsp;escalating violence in Lebanon between Israeli forces and Hezbollah militants has underlined deepening international concern as the conflict intensifies,&amp;nbsp;despite ongoing US mediation efforts.",
       "published": "2026-06-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167625"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167621",
-      "source": "UN News — Middle East",
-      "title": "Lebanon hospital strikes impact most vulnerable patients, warns WHO",
-      "summary": "The UN health agency in Lebanon is verifying reports of strikes on a hospital in the southern city of Tyre on Monday, amid a concerning rise in attacks on healthcare in the country.",
-      "published": "2026-06-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167621",
-      "country": "lebanon"
     }
   ]
 }
