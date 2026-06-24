@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-24T20:02:57.535Z",
+  "fetchedAt": "2026-06-24T21:42:14.396Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167794",
@@ -8,6 +8,14 @@
       "summary": "As the UN International Maritime Organization (IMO) released more details of its plan to evacuate more than 11,000 seafarers stranded in the Strait of Hormuz, one mariner caught up in the emergency has described the ever-present fear of coming under attack.",
       "published": "2026-06-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167794"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167803",
+      "source": "UN News — Peace and security",
+      "title": "Young peacebuilders: Funding matters, but so do trust and partnerships",
+      "summary": "Young people working on promoting peace in some of the world’s most fragile and polarized places say financial support remains essential, but money alone will not sustain their efforts to organize youth to participate in peacebuilding.",
+      "published": "2026-06-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167803"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167795",
