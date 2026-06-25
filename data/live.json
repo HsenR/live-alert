@@ -1,6 +1,30 @@
 {
-  "fetchedAt": "2026-06-25T20:26:12.869Z",
+  "fetchedAt": "2026-06-25T21:57:39.229Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167810",
+      "source": "UN News — Peace and security",
+      "title": "UN envoy warns of growing risks in El Obeid as Sudan conflict drags on",
+      "summary": "The United Nations Secretary-General’s Personal Envoy for Sudan voiced alarm on Wednesday over escalating violence in and around the city of El Obeid, warning that further military escalation could put thousands of civilians at risk and deepen Sudan’s already devastating humanitarian crisis.",
+      "published": "2026-06-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167810"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167800",
+      "source": "UN News — Peace and security",
+      "title": "LIVE: From conflict to stability, how the UN is supporting peacebuilding around the world",
+      "summary": "As wars persist in different parts of the world, it’s perhaps easy to lose sight of the many countries that have managed to recover from past violence, sustain peace and prevent conflict. The UN Peacebuilding Fund, which is marking its 20th year of operation in 2026, has contributed to many of these success stories. UN News app users click here.",
+      "published": "2026-06-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167800"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167809",
+      "source": "UN News — Peace and security",
+      "title": "Thousands trapped in southern Ukraine struggle to survive",
+      "summary": "Thousands of civilians trapped in frontline communities in southern Ukraine are facing a deepening humanitarian crisis as access to food, medical care and evacuation routes continues to shrink, the UN Human Rights Monitoring Mission in the country, HMRRU, warned on Wednesday.",
+      "published": "2026-06-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167809"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167794",
       "source": "UN News — Middle East",
@@ -230,14 +254,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167732"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167725",
-      "source": "UN News — Peace and security",
-      "title": "‘Some question if Ebola is real’: How trust is central in fighting DRC outbreak",
-      "summary": "In Ebola-stricken Democratic Republic of the Congo (DRC), winning the race against the disease requires earning the community’s trust first and foremost, humanitarians said on Tuesday.",
-      "published": "2026-06-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167725"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167717",
       "source": "UN News — Middle East",
       "title": "While world waits for details on Iran-US accord, UN calls for Hormuz aid corridor",
@@ -245,14 +261,6 @@
       "published": "2026-06-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167724",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Risky return home in Lebanon, displacement in Gaza, emergency funding for Somalia",
-      "summary": "Despite the agreement announced on Sunday between the United States and Iran, displaced people in Lebanon continue to face difficulties in returning to their communities, the UN Office for the Coordination of Humanitarian Affairs (OCHA) has reported.&amp;nbsp;",
-      "published": "2026-06-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167724"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167716",
