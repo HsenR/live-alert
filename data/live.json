@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-26T08:23:51.901Z",
+  "fetchedAt": "2026-06-26T11:19:06.072Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167813",
-      "source": "UN News — Peace and security",
+      "source": "UN News — Middle East",
       "title": "Security Council extends critical stabilisation force in Syria",
       "summary": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
       "published": "2026-06-25T12:00:00.000Z",
@@ -11,7 +11,7 @@
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167811",
-      "source": "UN News — Peace and security",
+      "source": "UN News — Middle East",
       "title": "From Lebanon to the Strait of Hormuz, a Middle East hanging on fragile peace talks",
       "summary": "Since Tuesday, United Nations peacekeepers have detected no airstrikes or new missile fire in southern Lebanon. The lull remains fragile, however, as Israeli drones continue to fly over the area and military operations continue on the ground.",
       "published": "2026-06-25T12:00:00.000Z",
@@ -404,23 +404,6 @@
       "published": "2026-06-03T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167631",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167628",
-      "source": "UN News — Middle East",
-      "title": "‘Women and girls cannot wait’: Lebanon’s crisis is putting lives at risk",
-      "summary": "Women and girls in Lebanon are paying an increasingly devastating price as violence and displacement continue despite a ceasefire, the UN reproductive health agency (UNFPA) warned on Tuesday.",
-      "published": "2026-06-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167628",
-      "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167625",
-      "source": "UN News — Middle East",
-      "title": "UN mission reports rising tensions along the Blue Line in Lebanon",
-      "summary": "Monday’s hastily convened meeting of the UN Security Council at the request of France in response to&amp;nbsp;escalating violence in Lebanon between Israeli forces and Hezbollah militants has underlined deepening international concern as the conflict intensifies,&amp;nbsp;despite ongoing US mediation efforts.",
-      "published": "2026-06-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167625"
     }
   ]
 }
