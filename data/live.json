@@ -1,6 +1,31 @@
 {
-  "fetchedAt": "2026-06-27T04:30:06.822Z",
+  "fetchedAt": "2026-06-27T07:34:54.480Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167824",
+      "source": "UN News — Peace and security",
+      "title": "UN envoy urges parties to ‘stay the course’ towards peace in eastern DR Congo",
+      "summary": "The new head of the UN mission in the Democratic Republic of the Congo (DRC) has urged parties to the peace processes for the volatile eastern region to maintain momentum and fully implement their commitments.",
+      "published": "2026-06-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167824"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167821",
+      "source": "UN News — Peace and security",
+      "title": "Sudan: Window is closing to prevent wider escalation in El Obeid",
+      "summary": "A senior United Nations official warned on Friday that the opportunity to prevent a major escalation in the Sudanese city of El Obeid is “rapidly narrowing” as fighting intensifies in and around the North Kordofan state capital.",
+      "published": "2026-06-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167821"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167818",
+      "source": "UN News — Peace and security",
+      "title": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
+      "summary": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
+      "published": "2026-06-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167818",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167813",
       "source": "UN News — Middle East",
@@ -102,7 +127,7 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167789",
       "source": "UN News — Peace and security",
-      "title": "New Security Council resolution upholds accountability for attacks against peacekeepers",
+      "title": "New Security Council resolution upholds accountability for attacks on peacekeepers",
       "summary": "The United Nations Security Council unanimously adopted a resolution on Tuesday that calls for accountability for crimes committed against UN peacekeepers.",
       "published": "2026-06-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167789"
@@ -228,22 +253,6 @@
       "summary": "More than 100 days of war reveals a shattering snapshot of life for civilians in Lebanon amid Israeli strikes and forced displacement, the UN Children’s Fund (UNICEF) reported on Wednesday.",
       "published": "2026-06-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167736"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167747",
-      "source": "UN News — Peace and security",
-      "title": "‘Darkest chapter’: Record child violations in 2025, with national forces leading the way",
-      "summary": "For the first time, soldiers and Government forces were responsible for more grave violations against children in armed conflict than non-State armed groups – and 2025 set a grim new record for the total number of child victims.&amp;nbsp;",
-      "published": "2026-06-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167747"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167742",
-      "source": "UN News — Peace and security",
-      "title": "Worsening hunger could push millions closer to famine in 13 global hotspots",
-      "summary": "Millions of people across some of the world’s most vulnerable regions are expected to face worsening hunger in the months ahead, as conflict, economic pressures and shrinking aid budgets exacerbate long-running crises.",
-      "published": "2026-06-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167742"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167728",
