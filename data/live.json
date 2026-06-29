@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T19:18:49.995Z",
+  "fetchedAt": "2026-06-29T21:00:31.549Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167831",
@@ -18,6 +18,31 @@
       "published": "2026-06-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167830",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167835",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Afghanistan airstrikes, rights violations in DR Congo, Gaza displacement",
+      "summary": "At least 28 civilians were killed and 49 injured in airstrikes carried out in Paktya, Paktika and Kunar provinces in Afghanistan on Sunday evening, the UN Mission in the country has reported.",
+      "published": "2026-06-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167835",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167834",
+      "source": "UN News — Peace and security",
+      "title": "International cooperation critical as terrorism threat evolves",
+      "summary": "Terrorism is evolving amid global instability characterised by heightened geopolitical tensions, protracted conflicts and growing fragmentation – and the international response must also evolve to meet the challenge.&amp;nbsp;",
+      "published": "2026-06-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167834"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167833",
+      "source": "UN News — Peace and security",
+      "title": "UN details humanitarian toll of strikes on Ukrainian power industry",
+      "summary": "Missile and drone attacks killed at least a dozen civilians in Russia and Ukraine over the weekend as both countries continue to launch long-range drone strikes.",
+      "published": "2026-06-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167833"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167818",
@@ -247,14 +272,6 @@
       "published": "2026-06-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167748",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167757",
-      "source": "UN News — Peace and security",
-      "title": "Libya’s political process regains momentum, but window for action is narrowing, UN envoy warns",
-      "summary": "Libya has been mired in political dysfunction since the collapse of Muammar Gaddafi’s regime in 2011, which shattered State institutions and triggered recurring struggles over legitimacy and power.&amp;nbsp;",
-      "published": "2026-06-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167757"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167736",
