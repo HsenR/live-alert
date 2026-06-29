@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-06-29T11:27:54.523Z",
+  "fetchedAt": "2026-06-29T14:55:58.326Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167830",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory",
+      "summary": "Israeli settlement activities in occupied Palestinian territory, declared illegal under a decade-old resolution, are under the spotlight at the Security Council’s open meeting at 10am local time on Monday, with updates from the office of the UN Special Coordinator for the Middle East Peace Process and two civil society representatives. Stay tuned for live updates.",
+      "published": "2026-06-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167830",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167818",
       "source": "UN News — Middle East",
@@ -395,15 +404,6 @@
       "summary": "Across the Middle East, countries facing severe energy access challenges are turning to renewables to power essential infrastructure, from hospitals to schools and street lighting.",
       "published": "2026-06-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167651"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167645",
-      "source": "UN News — Middle East",
-      "title": "Lebanon: Another peacekeeper dies in new attack",
-      "summary": "A Serbian peacekeeper serving in Lebanon died early Thursday after mortar fire on his position near Marjayoun in the country’s southeast, the UN Interim Force in Lebanon (UNIFIL) has announced.",
-      "published": "2026-06-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167645",
-      "country": "lebanon"
     }
   ]
 }
