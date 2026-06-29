@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-06-29T17:26:21.155Z",
+  "fetchedAt": "2026-06-29T19:18:49.995Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167831",
+      "source": "UN News — Middle East",
+      "title": "Middle East conflict leaves developing countries paying the price",
+      "summary": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world&#039;s poorest countries.",
+      "published": "2026-06-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167831",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167830",
       "source": "UN News — Middle East",
@@ -9,15 +18,6 @@
       "published": "2026-06-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167830",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167831",
-      "source": "UN News — Peace and security",
-      "title": "Middle East conflict leaves developing countries paying the price",
-      "summary": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world&#039;s poorest countries.",
-      "published": "2026-06-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167831",
-      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167818",
@@ -397,14 +397,6 @@
       "summary": "Chemical weapons inspectors have uncovered a significant cache of previously undeclared chemical weapons in Syria – including rockets of the same type used in the notorious 2013 Ghouta attack – in what the UN’s top disarmament official called a “momentous discovery” for international security.",
       "published": "2026-06-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167652"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167651",
-      "source": "UN News — Middle East",
-      "title": "From the Field: In crisis-hit Middle East, renewables power daily life",
-      "summary": "Across the Middle East, countries facing severe energy access challenges are turning to renewables to power essential infrastructure, from hospitals to schools and street lighting.",
-      "published": "2026-06-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167651"
     }
   ]
 }
