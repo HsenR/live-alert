@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-02T01:55:03.551Z",
+  "fetchedAt": "2026-07-02T05:45:10.057Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167852",
@@ -9,6 +9,14 @@
       "published": "2026-07-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167852",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167856",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Risk of atrocities in Sudan, UN programme prevents climate displacement, more civilians killed in Ukraine",
+      "summary": "Drone attacks by advancing rebel fighters who are besieging El Obeid,&amp;nbsp;Sudan, continue to result in civilian casualties, putting around half a million civilians at grave risk of large-scale atrocities.",
+      "published": "2026-07-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167856"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167845",
@@ -248,14 +256,6 @@
       "summary": "Wars regularly make headlines. Preventing them rarely does.",
       "published": "2026-06-21T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167764"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167773",
-      "source": "UN News — Peace and security",
-      "title": "Sudan: Security Council warns of mass atrocity risk in El Obeid",
-      "summary": "The UN Security Council has expressed alarm over reports of substantial military reinforcements by the Rapid Support Forces (RSF) around El Obeid in Sudan, warning of the risk of a potential ground offensive on the city.",
-      "published": "2026-06-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167773"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167768",
