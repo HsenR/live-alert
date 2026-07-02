@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-02T13:13:13.896Z",
+  "fetchedAt": "2026-07-02T15:29:15.058Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167860",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Emergency meeting on Iranian attack in Bahrain",
+      "summary": "The 15-member Security Council is meeting in emergency session on Thursday morning to address the escalating tensions in the Gulf region following Iran attacks in recent days on Bahrain and Kuwait while Tehran and Washington continue to trade strikes over the Strait of Hormuz chokepoint. Stay tuned for live updates.",
+      "published": "2026-07-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167860",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167858",
       "source": "UN News — Peace and security",
@@ -250,14 +259,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167775"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167774",
-      "source": "UN News — Peace and security",
-      "title": "Afghanistan in crisis: Drought, malnutrition and a worsening humanitarian situation",
-      "summary": "Imagine being one of a family of nine and sitting down to a meal of potato peelings and other scraps, boiled up into a soup. This is the harsh reality for many of Afghanistan’s most vulnerable families, forced on them by climate change and drought, widespread malnutrition and increasing restrictions on women, since the Taliban overran Kabul in 2021.",
-      "published": "2026-06-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167774"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167768",
       "source": "UN News — Middle East",
       "title": "UN welcomes fresh Lebanon ceasefire reports as rights experts urge Iran accountability",
@@ -408,14 +409,6 @@
       "published": "2026-06-09T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167682",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167648",
-      "source": "UN News — Middle East",
-      "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
-      "summary": "When US and Israeli forces launched strikes on Iran on 28 February, triggering one of the most serious geopolitical crises in years, the Strait of Hormuz – a narrow channel just 34 kilometres wide at its narrowest point – became a global flashpoint overnight.",
-      "published": "2026-06-05T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167648"
     }
   ]
 }
