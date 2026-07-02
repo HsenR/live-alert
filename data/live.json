@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-02T11:15:43.128Z",
+  "fetchedAt": "2026-07-02T13:13:13.896Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167858",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks",
+      "summary": "Aid agencies in Ukraine on Thursday rushed to respond to a massive uptick in deadly strikes by Russia, including one of the largest attacks on Kyiv to date.",
+      "published": "2026-07-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167858"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167852",
       "source": "UN News — Middle East",
@@ -248,14 +256,6 @@
       "summary": "Imagine being one of a family of nine and sitting down to a meal of potato peelings and other scraps, boiled up into a soup. This is the harsh reality for many of Afghanistan’s most vulnerable families, forced on them by climate change and drought, widespread malnutrition and increasing restrictions on women, since the Taliban overran Kabul in 2021.",
       "published": "2026-06-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167774"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167764",
-      "source": "UN News — Peace and security",
-      "title": "Conflicts command headlines…protecting peace, less so: The UN Peacebuilding Fund explained",
-      "summary": "Wars regularly make headlines. Preventing them rarely does.",
-      "published": "2026-06-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167764"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167768",
