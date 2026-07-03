@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-07-03T15:22:29.126Z",
+  "fetchedAt": "2026-07-03T16:49:12.015Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167854",
+      "source": "UN News — Peace and security",
+      "title": "Civilian dangers multiply as drones transform Ukraine&#039;s battlefield",
+      "summary": "As drones reshape the battlefield in Ukraine, they are also creating new and increasingly complex dangers for civilians, threatening recovery efforts, agriculture and global food security long after the fighting ends.",
+      "published": "2026-07-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167854"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167871",
+      "source": "UN News — Peace and security",
+      "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
+      "summary": "The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday.",
+      "published": "2026-07-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167871"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167860",
       "source": "UN News — Middle East",
@@ -249,14 +265,6 @@
       "summary": "Escalating violence in and around the Sudanese city of El Obeid is putting civilians at increased risk and disrupting essential services, the UN aid coordination office OCHA said on Monday.&amp;nbsp;",
       "published": "2026-06-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167781"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167775",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Warnings of ‘dangerous cycle of escalation’ in Ukraine",
-      "summary": "Deadly drone and missile attacks in Ukraine over the weekend represented a “dangerous cycle of escalation” in Russia’s full-scale four-year-old war, the Security Council heard on Monday from Mohamed Khaled Khiari, Assistant Secretary-General in the Departments of Political and Peacebuilding Affairs and Peace Operations, while Edem Wosornu, crisis response director at the UN relief office, OCHA, warned that “the choices made here can mean the difference between lives saved or lives lost.”",
-      "published": "2026-06-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167775"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167768",
