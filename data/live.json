@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-07-06T16:28:33.074Z",
+  "fetchedAt": "2026-07-06T18:25:14.906Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167876",
+      "source": "UN News — Peace and security",
+      "title": "UN maritime agency seeks release of 44 detained seafarers as food runs low",
+      "summary": "The UN’s International Maritime Organization (IMO)&amp;nbsp;appealed on Monday for the urgent release of 44 seafarers held captive in Somali waters by pirates and armed robbers.",
+      "published": "2026-07-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167876"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167875",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: Latest Russian assault leaves at least 14 dead in Kyiv",
+      "summary": "Russian strikes on the Ukrainian capital Kyiv killed at least 14 civilians and injured more than 80 others overnight on Monday, according to local authorities.",
+      "published": "2026-07-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167875"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167866",
       "source": "UN News — Peace and security",
@@ -243,28 +259,12 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167791"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167789",
-      "source": "UN News — Peace and security",
-      "title": "New Security Council resolution upholds accountability for attacks on peacekeepers",
-      "summary": "The United Nations Security Council unanimously adopted a resolution on Tuesday that calls for accountability for crimes committed against UN peacekeepers.",
-      "published": "2026-06-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167789"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167779",
       "source": "UN News — Middle East",
       "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
       "summary": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
       "published": "2026-06-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167779"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167782",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
-      "summary": "Pope Leo called on the international community to renew its commitment to tackling hunger and malnutrition, describing access to adequate food as a “fundamental human right” during a visit to the World Food Programme (WFP) headquarters in Rome on Monday.",
-      "published": "2026-06-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167782"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167768",
