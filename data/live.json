@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-06T20:18:36.793Z",
+  "fetchedAt": "2026-07-06T21:51:10.312Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167880",
+      "source": "UN News — Middle East",
+      "title": "Occupied Palestinian Territory: Aid restrictions in Gaza, ‘senseless’ infant deaths in the West Bank",
+      "summary": "Ongoing restrictions and closures of border crossings continue to hamper delivery of critical supplies into the Gaza Strip, amid mounting concern for children there and in the West Bank, the United Nations said on Monday.&amp;nbsp;",
+      "published": "2026-07-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167876",
       "source": "UN News — Peace and security",
@@ -408,15 +417,6 @@
       "published": "2026-06-09T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167685",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167682",
-      "source": "UN News — Middle East",
-      "title": "Palestinians face systematic abuse by Israeli settlers and Hamas alike: Independent investigators",
-      "summary": "Palestinian civilians are trapped between escalating settler violence in the occupied West Bank and fear-based Hamas rule in the Gaza Strip, investigators appointed by the UN Human Rights Council said on Tuesday in a new report.",
-      "published": "2026-06-09T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167682",
-      "country": "israel"
     }
   ]
 }
