@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T21:54:47.738Z",
+  "fetchedAt": "2026-07-08T22:51:29.017Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167901",
@@ -86,7 +86,7 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167854",
       "source": "UN News — Peace and security",
-      "title": "Civilian dangers multiply as drones transform Ukraine&#039;s battlefield",
+      "title": "Civilian dangers multiply as drones transform Ukraine’s battlefield",
       "summary": "As drones reshape the battlefield in Ukraine, they are also creating new and increasingly complex dangers for civilians, threatening recovery efforts, agriculture and global food security long after the fighting ends.",
       "published": "2026-07-03T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167854"
