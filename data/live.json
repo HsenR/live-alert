@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-08T20:51:32.108Z",
+  "fetchedAt": "2026-07-08T21:54:47.738Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167901",
+      "source": "UN News — Middle East",
+      "title": "UN Syria inquiry presses for answers on missing detainees after wide-ranging visit",
+      "summary": "UN investigators have urged Syria’s Government to trace thousands of missing detainees and hold perpetrators to account after a week-long visit that took in bomb attacks in Damascus, prison visits in the northeast and reports of vigilante violence in Homs.",
+      "published": "2026-07-08T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167901"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167898",
       "source": "UN News — Middle East",
@@ -408,14 +416,6 @@
       "summary": "Gender equality agency&amp;nbsp;UN Women is “gravely concerned” by the arrest of at least 30 women in Herat city last weekend in Afghanistan for allegedly violating dress requirements imposed by Taliban authorities.&amp;nbsp;&amp;nbsp;",
       "published": "2026-06-11T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167699"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167697",
-      "source": "UN News — Middle East",
-      "title": "Three seafarers killed in Hormuz strike as UN warns of widening fallout",
-      "summary": "Three Indian seafarers were killed in an attack on an oil tanker near the Strait of Hormuz on Wednesday, as renewed hostilities in one of the world’s most critical shipping corridors once again heightened concern over food security, fuel prices and broken global supply chains.",
-      "published": "2026-06-11T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167697"
     }
   ]
 }
