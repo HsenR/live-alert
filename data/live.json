@@ -1,6 +1,31 @@
 {
-  "fetchedAt": "2026-07-09T14:20:23.246Z",
+  "fetchedAt": "2026-07-09T16:57:54.176Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167905",
+      "source": "UN News — Middle East",
+      "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+      "summary": "Renewed hostilities between the United States and Iran reportedly brought shipping to a near-standstill in the Strait of Hormuz on Thursday, leaving around 6,000 seafarers stranded aboard hundreds of vessels and Gulf countries on high alert for further attacks.",
+      "published": "2026-07-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167905",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167906",
+      "source": "UN News — Peace and security",
+      "title": "Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk",
+      "summary": "UN High Commissioner for Human Rights Volker Türk&amp;nbsp;urged the armed forces of the Democratic Republic of the Congo and the Rwanda-backed M23 armed group to cease hostilities as he deplored recent civilian deaths on Thursday.",
+      "published": "2026-07-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167906"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167904",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: ‘Urgent de-escalation’ needed now in Ukraine amid spike in civilian deaths",
+      "summary": "The Security Council must use every tool and diplomatic channel to reach an urgent de-escalation, Rosemary DiCarlo, chief of UN political and peacebuilding affairs, told an emergency meeting on Thursday amid escalating deadly Russian drone and missile attacks on Ukrainian civilians. Stay tuned for live updates.",
+      "published": "2026-07-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167904"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167901",
       "source": "UN News — Middle East",
@@ -21,7 +46,7 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167893",
       "source": "UN News — Middle East",
-      "title": "Grim homecoming: Devastation greets Lebanon&#039;s war-weary returnees",
+      "title": "Grim homecoming: Devastation greets Lebanon’s war-weary returnees",
       "summary": "The ceasefire deal between Beirut and Tel Aviv has led to a marked reduction in hostilities between Hezbollah and the Israeli military, sparked by the wider Iran-Israel-US war, but the situation remains uncertain for communities returning home only to find widespread destruction, UN peacekeepers said on Wednesday.",
       "published": "2026-07-08T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167893"
@@ -251,37 +276,12 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167800"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167809",
-      "source": "UN News — Peace and security",
-      "title": "Thousands trapped in southern Ukraine struggle to survive",
-      "summary": "Thousands of civilians trapped in frontline communities in southern Ukraine are facing a deepening humanitarian crisis as access to food, medical care and evacuation routes continues to shrink, the UN Human Rights Monitoring Mission in the country, HMRRU, warned on Wednesday.",
-      "published": "2026-06-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167809"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167794",
       "source": "UN News — Middle East",
       "title": "Stranded Hormuz seafarers begin mass evacuation operation",
       "summary": "As the UN International Maritime Organization (IMO) released more details of its plan to evacuate more than 11,000 seafarers stranded in the Strait of Hormuz, one mariner caught up in the emergency has described the ever-present fear of coming under attack.",
       "published": "2026-06-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167794"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167804",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Students injured in Sudan drone strike, dangerous returns in south Lebanon, celebrating women diplomats",
-      "summary": "Ongoing fighting in the Sudanese city of El Obeid continues to endanger civilians and damage infrastructure, the United Nations said on Wednesday.",
-      "published": "2026-06-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167804",
-      "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167803",
-      "source": "UN News — Peace and security",
-      "title": "Young peacebuilders: Funding matters, but so do trust and partnerships",
-      "summary": "Young people working on promoting peace in some of the world’s most fragile and polarized places say financial support remains essential, but money alone will not sustain their efforts to organize youth to participate in peacebuilding.",
-      "published": "2026-06-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167803"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167790",
@@ -408,14 +408,6 @@
       "published": "2026-06-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167713",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167699",
-      "source": "UN News — Middle East",
-      "title": "‘Grave concern’ after dozens of women arrested in Afghanistan for dress violations",
-      "summary": "Gender equality agency&amp;nbsp;UN Women is “gravely concerned” by the arrest of at least 30 women in Herat city last weekend in Afghanistan for allegedly violating dress requirements imposed by Taliban authorities.&amp;nbsp;&amp;nbsp;",
-      "published": "2026-06-11T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167699"
     }
   ]
 }
