@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-10T13:01:15.888Z",
+  "fetchedAt": "2026-07-10T15:38:26.641Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167913",
+      "source": "UN News — Peace and security",
+      "title": "New cholera outbreak alert for Sudan’s war-weary communities",
+      "summary": "In war-torn Sudan, a deadly new cholera outbreak has already claimed more than 100 lives, heightening serious concerns for vulnerable communities including in besieged El-Obeid, where daily drone attacks have continued to hamper aid access.&amp;nbsp;",
+      "published": "2026-07-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167913"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167912",
       "source": "UN News — Middle East",
@@ -23,7 +31,7 @@
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167909",
       "source": "UN News — Peace and security",
       "title": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
-      "summary": "The United Nations paused on Wednesday to remember the more than 8,000 Bosnian Muslim men and boys killed in the town of Srebrenica in July 1995, and the women and survivors left to rebuild their lives in the aftermath.",
+      "summary": "The United Nations paused on Thursday to remember the more than 8,000 Bosnian Muslim men and boys killed in the town of Srebrenica in July 1995, and the women and survivors left to rebuild their lives in the aftermath.",
       "published": "2026-07-09T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167909"
     },
@@ -275,14 +283,6 @@
       "summary": "Since Tuesday, United Nations peacekeepers have detected no airstrikes or new missile fire in southern Lebanon. The lull remains fragile, however, as Israeli drones continue to fly over the area and military operations continue on the ground.",
       "published": "2026-06-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167811"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167810",
-      "source": "UN News — Peace and security",
-      "title": "UN envoy warns of growing risks in El Obeid as Sudan conflict drags on",
-      "summary": "The United Nations Secretary-General’s Personal Envoy for Sudan voiced alarm on Wednesday over escalating violence in and around the city of El Obeid, warning that further military escalation could put thousands of civilians at risk and deepen Sudan’s already devastating humanitarian crisis.",
-      "published": "2026-06-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167810"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167794",
