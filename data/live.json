@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-10T10:47:13.708Z",
+  "fetchedAt": "2026-07-10T13:01:15.888Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167912",
+      "source": "UN News — Middle East",
+      "title": "Diplomats go virtual to witness Gaza displacement site up close",
+      "summary": "Representatives from 12 countries carried out a “virtual diplomatic field visit” to a displacement site in the Gaza Strip and heard from some of the residents about their pressing needs, the United Nations said on Thursday.&amp;nbsp;",
+      "published": "2026-07-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167912",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167905",
       "source": "UN News — Middle East",
@@ -399,15 +408,6 @@
       "summary": "The humanitarian situation in Lebanon is being pushed further into crisis as hostilities continue between Israeli forces and Hezbollah militants – and essential services and healthcare are targeted.",
       "published": "2026-06-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167714"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167713",
-      "source": "UN News — Middle East",
-      "title": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
-      "summary": "The United Nations continues to monitor developments amid conflicting reports on Friday of a possible ceasefire deal between the United States and Iran, the Spokesperson for the Secretary-General said in New York.",
-      "published": "2026-06-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167713",
-      "country": "iran"
     }
   ]
 }
