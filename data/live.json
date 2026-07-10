@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-10T15:38:26.641Z",
+  "fetchedAt": "2026-07-10T17:23:44.597Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167914",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
+      "summary": "Since the United States and Israel launched attacks on Iran in late February, there has been a “lost continuity of knowledge” on Tehran’s nuclear programme, Rosemary DiCarlo, the UN peace affairs chief, warned the Security Council on Friday as tensions mounted amid new strikes across the Middle East. Stay tuned for live updates.",
+      "published": "2026-07-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167914"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167913",
       "source": "UN News — Peace and security",
@@ -400,14 +408,6 @@
       "summary": "Yemen remains gripped by one of the world’s worst humanitarian crises, with 22 million – out of a population of 35 million – requiring assistance. Women and girls account for half of those in need, and two-thirds of them are of childbearing age, placing reproductive health at the heart of the emergency.",
       "published": "2026-06-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167708"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167714",
-      "source": "UN News — Middle East",
-      "title": "More strikes impact Lebanon hospitals as humanitarian situation deteriorates",
-      "summary": "The humanitarian situation in Lebanon is being pushed further into crisis as hostilities continue between Israeli forces and Hezbollah militants – and essential services and healthcare are targeted.",
-      "published": "2026-06-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167714"
     }
   ]
 }
