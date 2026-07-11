@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-11T18:04:12.898Z",
+  "fetchedAt": "2026-07-11T19:22:12.417Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167922",
+      "source": "UN News — Middle East",
+      "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+      "summary": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrikes.",
+      "published": "2026-07-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167914",
       "source": "UN News — Middle East",
@@ -212,7 +221,7 @@
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167831",
       "source": "UN News — Middle East",
       "title": "Middle East conflict leaves developing countries paying the price",
-      "summary": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world&#039;s poorest countries.",
+      "summary": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world's poorest countries.",
       "published": "2026-06-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167831",
       "country": "iran"
@@ -345,7 +354,7 @@
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167750",
       "source": "UN News — Middle East",
       "title": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
-      "summary": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory&#039;s humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told ambassadors that “fragile gains” since the truce are “the bare minimum of what Palestinians need.” Full coverage here, and wider Meetings Coverage can be found here.",
+      "summary": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory's humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told ambassadors that “fragile gains” since the truce are “the bare minimum of what Palestinians need.” Full coverage here, and wider Meetings Coverage can be found here.",
       "published": "2026-06-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
       "country": "israel"
@@ -400,14 +409,6 @@
       "summary": "The odyssey begins in Indonesia and ends, 15,000 kilometres later, in Kabul, the capital of Afghanistan. Along the way, critical food aid destined for young Afghan students crosses nine countries, over land and sea, skirting geopolitical unrest and conflict zones.",
       "published": "2026-06-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167684"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167708",
-      "source": "UN News — Middle East",
-      "title": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll as funding falls",
-      "summary": "Yemen remains gripped by one of the world’s worst humanitarian crises, with 22 million – out of a population of 35 million – requiring assistance. Women and girls account for half of those in need, and two-thirds of them are of childbearing age, placing reproductive health at the heart of the emergency.",
-      "published": "2026-06-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167708"
     }
   ]
 }
