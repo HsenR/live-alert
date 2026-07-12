@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-12T20:32:30.785Z",
+  "fetchedAt": "2026-07-12T21:29:21.390Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167923",
+      "source": "UN News — Middle East",
+      "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
+      "summary": "Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of a return to all‑out war, with Washington denying Tehran’s claim that it had closed the crucial Strait of Hormuz on Sunday.",
+      "published": "2026-07-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167923",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167921",
       "source": "UN News — Middle East",
@@ -9,15 +18,6 @@
       "published": "2026-07-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167923",
-      "source": "UN News — Peace and security",
-      "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
-      "summary": "Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of a return to all‑out war, with Washington denying Tehran’s claim that it had closed the crucial Strait of Hormuz on Sunday.",
-      "published": "2026-07-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167923",
-      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167922",
@@ -409,15 +409,6 @@
       "summary": "As representatives of Iran and the United States reportedly prepared to sign a new peace agreement at the end of the week, the UN on Monday stressed the urgent need to open an aid corridor to transit the choked-off Strait of Hormuz and prevent a global hunger crisis.",
       "published": "2026-06-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167716",
-      "source": "UN News — Middle East",
-      "title": "Guterres welcomes US-Iran peace deal as ‘critical step’ toward ending conflict",
-      "summary": "UN Secretary General António Guterres welcomed on Sunday a new peace deal between the United States and Iran, calling it a “critical step” toward ending the conflict.",
-      "published": "2026-06-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167716",
       "country": "iran"
     }
   ]
