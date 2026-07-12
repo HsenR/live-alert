@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-12T17:39:16.793Z",
+  "fetchedAt": "2026-07-12T18:32:26.215Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167921",
+      "source": "UN News — Middle East",
+      "title": "Reviving communities home by home in Gaza",
+      "summary": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
+      "published": "2026-07-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167922",
       "source": "UN News — Middle East",
@@ -401,14 +410,6 @@
       "published": "2026-06-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167716",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167684",
-      "source": "UN News — Middle East",
-      "title": "Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children",
-      "summary": "The odyssey begins in Indonesia and ends, 15,000 kilometres later, in Kabul, the capital of Afghanistan. Along the way, critical food aid destined for young Afghan students crosses nine countries, over land and sea, skirting geopolitical unrest and conflict zones.",
-      "published": "2026-06-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167684"
     }
   ]
 }
