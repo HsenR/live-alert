@@ -1,6 +1,24 @@
 {
-  "fetchedAt": "2026-07-13T20:03:37.660Z",
+  "fetchedAt": "2026-07-13T21:10:13.715Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167929",
+      "source": "UN News — Peace and security",
+      "title": "Strait of Hormuz: UN agencies call for diplomacy to end attacks",
+      "summary": "As both Washington and Tehran claim to control the critical commercial shipping route through the narrow Strait of Hormuz, UN agencies on Monday are calling for de-escalation amid the recent spike in strikes in the region related to the US-Iran war.",
+      "published": "2026-07-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167929",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167924",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Top UN officials call for de-escalation in Yemen",
+      "summary": "As the UN chief’s Special Envoy for Yemen, Hans Grundberg, calls for swift de-escalation following reports of Saudi Arabian airstrikes and Iranian aircraft landing in the country, the Security Council’s emergency meeting at 3pm (local time) on Monday will be briefed by top officials on the latest humanitarian and political situation. Stay tuned for live updates.",
+      "published": "2026-07-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167924",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167923",
       "source": "UN News — Middle East",
@@ -294,14 +312,6 @@
       "summary": "The new head of the UN mission in the Democratic Republic of the Congo (DRC) has urged parties to the peace processes for the volatile eastern region to maintain momentum and fully implement their commitments.",
       "published": "2026-06-26T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167824"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167821",
-      "source": "UN News — Peace and security",
-      "title": "Sudan: Window is closing to prevent wider escalation in El Obeid",
-      "summary": "A senior United Nations official warned on Friday that the opportunity to prevent a major escalation in the Sudanese city of El Obeid is “rapidly narrowing” as fighting intensifies in and around the North Kordofan state capital.",
-      "published": "2026-06-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167821"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167813",
