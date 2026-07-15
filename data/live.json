@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-15T14:25:08.952Z",
+  "fetchedAt": "2026-07-15T15:56:09.504Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167944",
+      "source": "UN News — Peace and security",
+      "title": "Looted gold and gum arabic are bankrolling Sudan&#039;s war, UN warns",
+      "summary": "Alongside gold, the little-known Sudanese commodity gum arabic&amp;nbsp;–&amp;nbsp;used in soft drinks, food, cosmetics and pharmaceuticals&amp;nbsp;–&amp;nbsp;continues to fuel the war.&amp;nbsp;",
+      "published": "2026-07-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167944"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167936",
       "source": "UN News — Middle East",
@@ -9,6 +17,14 @@
       "published": "2026-07-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167936",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167940",
+      "source": "UN News — Peace and security",
+      "title": "West Africa and the Sahel: Terrorism is changing its face",
+      "summary": "Jihadist groups are no longer content with launching attacks in West Africa and the Sahel: they administer territories, control trade routes, exploit new technologies and are gradually pushing their influence all the way to the Gulf of Guinea.&amp;nbsp;",
+      "published": "2026-07-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167940"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167933",
@@ -305,22 +321,6 @@
       "published": "2026-06-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167835",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167834",
-      "source": "UN News — Peace and security",
-      "title": "International cooperation critical as terrorism threat evolves",
-      "summary": "Terrorism is evolving amid global instability characterised by heightened geopolitical tensions, protracted conflicts and growing fragmentation – and the international response must also evolve to meet the challenge.&amp;nbsp;",
-      "published": "2026-06-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167834"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167833",
-      "source": "UN News — Peace and security",
-      "title": "UN details humanitarian toll of strikes on Ukrainian power industry",
-      "summary": "Missile and drone attacks killed at least a dozen civilians in Russia and Ukraine over the weekend as both countries continue to launch long-range drone strikes.",
-      "published": "2026-06-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167833"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167818",
