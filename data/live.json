@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T20:31:34.210Z",
+  "fetchedAt": "2026-07-16T21:41:40.048Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167961",
@@ -297,14 +297,6 @@
       "country": "iran"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167858",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks",
-      "summary": "Aid agencies in Ukraine on Thursday rushed to respond to a massive uptick in deadly strikes by Russia, including one of the largest attacks on Kyiv to date.",
-      "published": "2026-07-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167858"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167852",
       "source": "UN News — Middle East",
       "title": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
@@ -312,14 +304,6 @@
       "published": "2026-07-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167852",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167856",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Risk of atrocities in Sudan, UN programme prevents climate displacement, more civilians killed in Ukraine",
-      "summary": "Drone attacks by advancing rebel fighters who are besieging El Obeid,&amp;nbsp;Sudan, continue to result in civilian casualties, putting around half a million civilians at grave risk of large-scale atrocities.",
-      "published": "2026-07-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167856"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167845",
