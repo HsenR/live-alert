@@ -1,6 +1,24 @@
 {
-  "fetchedAt": "2026-07-16T19:31:41.512Z",
+  "fetchedAt": "2026-07-16T20:31:34.210Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167961",
+      "source": "UN News — Middle East",
+      "title": "Peacekeepers step up support as families return to south Lebanon",
+      "summary": "With violence in south Lebanon significantly decreased since mid-June, UN peacekeepers there have returned to core functions such as protecting humanitarian aid and restoring critical infrastructure as families continue to return home.",
+      "published": "2026-07-16T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167961",
+      "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167960",
+      "source": "UN News — Middle East",
+      "title": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
+      "summary": "The UN is supporting farmers in Gaza who are struggling to rebuild their smallholdings in areas devastated by the Hamas-Israel war.",
+      "published": "2026-07-16T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167949",
       "source": "UN News — Middle East",
@@ -403,23 +421,6 @@
       "summary": "After another deadly night of clashes in Lebanon, aid agencies issued a new alert for Gaza, where 265 Palestinian children have been killed since a ceasefire was announced in October 2025.",
       "published": "2026-06-19T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167760"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167758",
-      "source": "UN News — Middle East",
-      "title": "UN upholds freedom of movement for peacekeepers in Lebanon",
-      "summary": "The United Nations has again called for freedom of movement for its peacekeepers in Lebanon who continue to closely monitor developments in the south of the country, including in the wake of the recent provisional agreement signed by the United States and Iran.",
-      "published": "2026-06-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167758"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167750",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
-      "summary": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory&#039;s humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told ambassadors that “fragile gains” since the truce are “the bare minimum of what Palestinians need.” Full coverage here, and wider Meetings Coverage can be found here.",
-      "published": "2026-06-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
-      "country": "israel"
     }
   ]
 }
