@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-17T17:53:36.281Z",
+  "fetchedAt": "2026-07-17T18:46:22.392Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167970",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, increased Ebola deaths in communities, 12th anniversary of MH17",
+      "summary": "The&amp;nbsp;UN human rights chief, Volker Türk, has&amp;nbsp;appealed for calm in Pakistan-Administered Kashmir amid unrest ahead of regional elections.",
+      "published": "2026-07-17T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167970"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167967",
       "source": "UN News — Peace and security",
@@ -286,14 +294,6 @@
       "summary": "Described as “sometimes modest, sometimes historic,” UN special political missions have quietly been preventing the escalation of conflicts during the organization’s 80-year history, becoming a key instrument for maintaining peace.",
       "published": "2026-07-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167866"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167854",
-      "source": "UN News — Peace and security",
-      "title": "Civilian dangers multiply as drones transform Ukraine’s battlefield",
-      "summary": "As drones reshape the battlefield in Ukraine, they are also creating new and increasingly complex dangers for civilians, threatening recovery efforts, agriculture and global food security long after the fighting ends.",
-      "published": "2026-07-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167854"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167860",
