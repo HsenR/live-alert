@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-07-17T12:53:37.314Z",
+  "fetchedAt": "2026-07-17T14:21:47.679Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167967",
+      "source": "UN News — Peace and security",
+      "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
+      "summary": "UN humanitarians working in war-torn Sudan on Friday highlighted rapidly growing needs among the more than 100,000 displaced people now sheltering in camps in the city of El Obeid.&amp;nbsp;",
+      "published": "2026-07-17T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167967"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167965",
+      "source": "UN News — Peace and security",
+      "title": "Guterres: AI must be shaped by &#039;all of humanity&#039;, not a handful of powers",
+      "summary": "UN Secretary-General António Guterres on Friday urged governments and technology companies to work together to ensure artificial intelligence (AI) benefits all countries.",
+      "published": "2026-07-17T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167965"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167961",
       "source": "UN News — Middle East",
@@ -278,14 +294,6 @@
       "summary": "As drones reshape the battlefield in Ukraine, they are also creating new and increasingly complex dangers for civilians, threatening recovery efforts, agriculture and global food security long after the fighting ends.",
       "published": "2026-07-03T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167854"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167871",
-      "source": "UN News — Peace and security",
-      "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
-      "summary": "The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday.",
-      "published": "2026-07-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167871"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167860",
