@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-19T17:38:18.065Z",
+  "fetchedAt": "2026-07-19T18:33:51.707Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167963",
+      "source": "UN News — Peace and security",
+      "title": "Haiti: Signs of hope despite gang violence and political uncertainty",
+      "summary": "For millions of Haitians, daily life has become a struggle to stay safe, find enough food and simply move around their own neighbourhood.",
+      "published": "2026-07-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167963"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167973",
       "source": "UN News — Middle East",
@@ -287,14 +295,6 @@
       "summary": "The UN’s International Maritime Organization (IMO)&amp;nbsp;appealed on Monday for the urgent release of 44 seafarers held captive in Somali waters by pirates and armed robbers.",
       "published": "2026-07-06T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167876"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167875",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: Latest Russian assault leaves at least 14 dead in Kyiv",
-      "summary": "Russian strikes on the Ukrainian capital Kyiv killed at least 14 civilians and injured more than 80 others overnight on Monday, according to local authorities.",
-      "published": "2026-07-06T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167875"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167860",
