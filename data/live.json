@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-19T21:31:17.980Z",
+  "fetchedAt": "2026-07-19T22:31:24.542Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167975",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: UN condemns overnight attack on Kyiv",
+      "summary": "United Nations agencies have deplored a fresh Russian assault on the Ukrainian capital Kyiv which left at least one person dead and a dozen injured.",
+      "published": "2026-07-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167975"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167963",
       "source": "UN News — Peace and security",
@@ -287,14 +295,6 @@
       "published": "2026-07-06T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167876",
-      "source": "UN News — Peace and security",
-      "title": "UN maritime agency seeks release of 44 detained seafarers as food runs low",
-      "summary": "The UN’s International Maritime Organization (IMO)&amp;nbsp;appealed on Monday for the urgent release of 44 seafarers held captive in Somali waters by pirates and armed robbers.",
-      "published": "2026-07-06T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167876"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167860",
