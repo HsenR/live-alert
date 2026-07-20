@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-20T21:20:15.676Z",
+  "fetchedAt": "2026-07-20T22:26:44.191Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167979",
@@ -9,6 +9,14 @@
       "published": "2026-07-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167979",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167980",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: Deadly Russian attacks severely damage aid warehouses",
+      "summary": "Russian attacks and drone strikes killed at least two children and injured dozens more across Ukraine over recent days while severely damaging three critical aid warehouses, UN agencies reported on Monday.",
+      "published": "2026-07-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167980"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167972",
@@ -287,22 +295,6 @@
       "summary": "The ceasefire deal between Beirut and Tel Aviv has led to a marked reduction in hostilities between Hezbollah and the Israeli military, sparked by the wider Iran-Israel-US war, but the situation remains uncertain for communities returning home only to find widespread destruction, UN peacekeepers said on Wednesday.",
       "published": "2026-07-08T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167893"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167897",
-      "source": "UN News — Peace and security",
-      "title": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators",
-      "summary": "Atrocities committed by the Rapid Support Forces (RSF) militia against Sudanese civilians in El Fasher in October – including mass killings, abductions and gang rapes – bear the markers of genocide, independent UN human rights investigators&amp;nbsp;reported on Wednesday.",
-      "published": "2026-07-08T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167897"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167894",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Open debate on sexual violence in conflict",
-      "summary": "The UN Security Council is holding an open debate Tuesday honouring the promise of international law to survivors of sexual violence in conflict as more reports emerge about warring parties using rape as a weapon, actions that constitute war crimes. Stay tuned for live updates from our meetings coverage team.",
-      "published": "2026-07-08T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167894"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167880",
