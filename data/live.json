@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-20T20:01:14.029Z",
+  "fetchedAt": "2026-07-20T21:20:15.676Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167979",
+      "source": "UN News — Middle East",
+      "title": "Middle East: Civilians again under fire as US-Iran strikes continue",
+      "summary": "As the United States and Iran trade deadly attacks for a second week, the UN continues to call for de-escalation while highlighting the devastation caused to civilians and critical infrastructure across the Middle East.",
+      "published": "2026-07-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167979",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167972",
       "source": "UN News — Peace and security",
@@ -406,14 +415,6 @@
       "summary": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
       "published": "2026-06-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167779"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167768",
-      "source": "UN News — Middle East",
-      "title": "UN welcomes fresh Lebanon ceasefire reports as rights experts urge Iran accountability",
-      "summary": "The United Nations has welcomed reports of a new ceasefire agreement between Israel and Hezbollah on Friday while warning that civilians on the ground are still fleeing amid ongoing insecurity.",
-      "published": "2026-06-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167768"
     }
   ]
 }
