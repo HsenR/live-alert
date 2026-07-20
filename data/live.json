@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-20T10:35:47.137Z",
+  "fetchedAt": "2026-07-20T12:37:15.524Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167976",
+      "source": "UN News — Peace and security",
+      "title": "Moon Day focuses growing concerns around space junk and sustainability",
+      "summary": "Amid surging lunar exploration, the UN on Monday urged governments to ensure that humanity&#039;s return to the Moon does not come at the expense of planet Earth - or the long-term sustainability of space.",
+      "published": "2026-07-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167976"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167975",
       "source": "UN News — Peace and security",
@@ -278,14 +286,6 @@
       "summary": "The UN Security Council is holding an open debate Tuesday honouring the promise of international law to survivors of sexual violence in conflict as more reports emerge about warring parties using rape as a weapon, actions that constitute war crimes. Stay tuned for live updates from our meetings coverage team.",
       "published": "2026-07-08T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167894"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167887",
-      "source": "UN News — Peace and security",
-      "title": "Peace hinges on people-centred policing, global summit hears",
-      "summary": "Policing is the cornerstone of peace, said top UN officials ahead of the fifth UN Chiefs of Police Summit, which began on Tuesday.",
-      "published": "2026-07-07T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167887"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167880",
