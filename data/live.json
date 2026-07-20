@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-20T14:52:36.377Z",
+  "fetchedAt": "2026-07-20T16:17:40.149Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167972",
+      "source": "UN News — Peace and security",
+      "title": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
+      "summary": "After years of violence perpetrated by gangs, widespread insecurity and the displacement of almost 1.5 million people as well as growing humanitarian needs, Haitians are glimpsing signs of hope as a path to democratic elections begins to emerge. At UN Headquarters in New York, the 15-member Security Council discusses what next for Haiti. Full live coverage below.",
+      "published": "2026-07-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167972"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167976",
       "source": "UN News — Peace and security",
