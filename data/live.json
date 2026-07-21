@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-21T20:08:51.886Z",
+  "fetchedAt": "2026-07-21T21:30:24.095Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167989",
+      "source": "UN News — Middle East",
+      "title": "Guterres calls for stepping up diplomatic efforts to end US-Iran conflict",
+      "summary": "The United Nations again called for restraint as war ramps up in the Middle East, underscoring the need for dialogue and an end to attacks on “vital infrastructure” across the region.",
+      "published": "2026-07-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167989",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167984",
       "source": "UN News — Middle East",
@@ -8,6 +17,23 @@
       "summary": "The Security Council discussed the situation on the ground in Syria amid reports of an Israeli attack in occupied territory and of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres&amp;nbsp;heads to Damascus for his first visit to the country as Secretary-General.",
       "published": "2026-07-21T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167984"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167992",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Sexual violence in DR Congo, deaths in Ukraine and Russia, crime in Southeast Asia",
+      "summary": "Independent UN human rights experts on Tuesday&amp;nbsp;condemned the M23 armed group’s “reign of terror” over territory it controls in eastern Democratic Republic of the Congo (DRC), calling for an end to the Rwanda-backed group’s sexual torture and violence against civilians.",
+      "published": "2026-07-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167992"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167991",
+      "source": "UN News — Peace and security",
+      "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
+      "summary": "Amid intensified deadly Israeli attacks in Gaza, the UN chief and top officials condemned the killings while a surge violence rocked the West Bank and aid agencies scrambled to help Palestinians.",
+      "published": "2026-07-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167991",
+      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167983",
@@ -272,22 +298,6 @@
       "country": "iran"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167909",
-      "source": "UN News — Peace and security",
-      "title": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
-      "summary": "The United Nations paused on Thursday to remember the more than 8,000 Bosnian Muslim men and boys killed in the town of Srebrenica in July 1995, and the women and survivors left to rebuild their lives in the aftermath.",
-      "published": "2026-07-09T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167909"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167906",
-      "source": "UN News — Peace and security",
-      "title": "Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk",
-      "summary": "UN High Commissioner for Human Rights Volker Türk&amp;nbsp;urged the armed forces of the Democratic Republic of the Congo and the Rwanda-backed M23 armed group to cease hostilities as he deplored recent civilian deaths on Thursday.",
-      "published": "2026-07-09T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167906"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167901",
       "source": "UN News — Middle East",
       "title": "UN Syria inquiry presses for answers on missing detainees after wide-ranging visit",
@@ -398,14 +408,6 @@
       "summary": "Since Tuesday, United Nations peacekeepers have detected no airstrikes or new missile fire in southern Lebanon. The lull remains fragile, however, as Israeli drones continue to fly over the area and military operations continue on the ground.",
       "published": "2026-06-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167811"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167794",
-      "source": "UN News — Middle East",
-      "title": "Stranded Hormuz seafarers begin mass evacuation operation",
-      "summary": "As the UN International Maritime Organization (IMO) released more details of its plan to evacuate more than 11,000 seafarers stranded in the Strait of Hormuz, one mariner caught up in the emergency has described the ever-present fear of coming under attack.",
-      "published": "2026-06-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167794"
     }
   ]
 }
