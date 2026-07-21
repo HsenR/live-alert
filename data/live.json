@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-21T00:56:19.377Z",
+  "fetchedAt": "2026-07-21T04:09:22.761Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167982",
+      "source": "UN News — Middle East",
+      "title": "Health response brings lifesaving care closer to thousands in Yemen",
+      "summary": "Thousands of people in some of Yemen&#039;s most conflict-affected communities are receiving lifesaving health care closer to home, thanks to funding from the&amp;nbsp;UN aid coordination office (OCHA) through the&amp;nbsp;Yemen Humanitarian Fund.",
+      "published": "2026-07-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167982"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167979",
       "source": "UN News — Middle East",
@@ -399,14 +407,6 @@
       "published": "2026-06-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167790",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167779",
-      "source": "UN News — Middle East",
-      "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
-      "summary": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
-      "published": "2026-06-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167779"
     }
   ]
 }
