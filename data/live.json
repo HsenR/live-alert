@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-21T22:32:29.918Z",
+  "fetchedAt": "2026-07-21T23:36:42.600Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167991",
+      "source": "UN News — Middle East",
+      "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
+      "summary": "Amid intensified deadly Israeli attacks in Gaza, the UN chief and top officials condemned the killings while a surge violence rocked the West Bank and aid agencies scrambled to help Palestinians.",
+      "published": "2026-07-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167991",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167989",
       "source": "UN News — Middle East",
@@ -25,15 +34,6 @@
       "summary": "Independent UN human rights experts on Tuesday&amp;nbsp;condemned the M23 armed group’s “reign of terror” over territory it controls in eastern Democratic Republic of the Congo (DRC), calling for an end to the Rwanda-backed group’s sexual torture and violence against civilians.",
       "published": "2026-07-21T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167992"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167991",
-      "source": "UN News — Peace and security",
-      "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
-      "summary": "Amid intensified deadly Israeli attacks in Gaza, the UN chief and top officials condemned the killings while a surge violence rocked the West Bank and aid agencies scrambled to help Palestinians.",
-      "published": "2026-07-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167991",
-      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167983",
@@ -400,14 +400,6 @@
       "summary": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
       "published": "2026-06-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167813"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167811",
-      "source": "UN News — Middle East",
-      "title": "From Lebanon to the Strait of Hormuz, a Middle East hanging on fragile peace talks",
-      "summary": "Since Tuesday, United Nations peacekeepers have detected no airstrikes or new missile fire in southern Lebanon. The lull remains fragile, however, as Israeli drones continue to fly over the area and military operations continue on the ground.",
-      "published": "2026-06-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167811"
     }
   ]
 }
