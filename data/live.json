@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-22T12:54:27.066Z",
+  "fetchedAt": "2026-07-22T14:50:21.276Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167994",
+      "source": "UN News — Peace and security",
+      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals",
+      "summary": "The world&#039;s shift to clean energy is driving huge demand for critical minerals such as lithium, nickel, cobalt and copper.&amp;nbsp;",
+      "published": "2026-07-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167994"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167991",
       "source": "UN News — Middle East",
@@ -270,14 +278,6 @@
       "summary": "Since the United States and Israel launched attacks on Iran in late February, there has been a “lost continuity of knowledge” on Tehran’s nuclear programme, Rosemary DiCarlo, the UN peace affairs chief, warned the Security Council on Friday as tensions mounted amid new strikes across the Middle East.",
       "published": "2026-07-10T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167914"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167913",
-      "source": "UN News — Peace and security",
-      "title": "New cholera outbreak alert for Sudan’s war-weary communities",
-      "summary": "In war-torn Sudan, a deadly new cholera outbreak has already claimed more than 100 lives, heightening serious concerns for vulnerable communities including in besieged El-Obeid, where daily drone attacks have continued to hamper aid access.&amp;nbsp;",
-      "published": "2026-07-10T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167913"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167912",
