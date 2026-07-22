@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-22T20:57:13.579Z",
+  "fetchedAt": "2026-07-22T21:58:36.333Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168000",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
+      "summary": "UN partners launched the&amp;nbsp;Winter Response Plan to help 2.1 million people in Ukraine survive another cold season as the country grapples with the on-going Russian invasion.",
+      "published": "2026-07-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168000"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167994",
       "source": "UN News — Peace and security",
