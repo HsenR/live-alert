@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-23T01:24:56.758Z",
+  "fetchedAt": "2026-07-23T04:42:39.798Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168003",
+      "source": "UN News — Middle East",
+      "title": "Thousands prevented from returning home to southern Lebanon",
+      "summary": "As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.",
+      "published": "2026-07-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168003",
+      "country": "lebanon"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168000",
       "source": "UN News — Peace and security",
@@ -400,14 +409,6 @@
       "published": "2026-06-26T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167818",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167813",
-      "source": "UN News — Middle East",
-      "title": "Security Council extends critical stabilisation force in Syria",
-      "summary": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
-      "published": "2026-06-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167813"
     }
   ]
 }
