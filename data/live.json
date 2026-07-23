@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-23T13:11:09.756Z",
+  "fetchedAt": "2026-07-23T15:21:29.225Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168004",
+      "source": "UN News — Peace and security",
+      "title": "Stranded seafarers remain trapped as Hormuz shipping stalls",
+      "summary": "As the Iran-US war continues, the key question remains unanswered about how shipping through the Strait of Hormuz will be managed in future – although the UN has reiterated that charging tolls for safe passage runs contrary to international law.",
+      "published": "2026-07-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168004",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168003",
       "source": "UN News — Middle East",
