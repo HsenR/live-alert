@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-07-23T19:41:35.125Z",
+  "fetchedAt": "2026-07-23T20:39:57.841Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168010",
+      "source": "UN News — Middle East",
+      "title": "Syria ‘not alone’ in locating missing persons, tackling displacement",
+      "summary": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday&amp;nbsp;as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
+      "published": "2026-07-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168010"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168009",
+      "source": "UN News — Middle East",
+      "title": "Iran urged to stop protest-related executions",
+      "summary": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits.",
+      "published": "2026-07-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168009",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168006",
       "source": "UN News — Middle East",
@@ -399,24 +416,6 @@
       "summary": "Re-opening the Strait of Hormuz would bring vital relief for many economies, but developing countries will continue to grapple with increased food and fuel costs, according to&amp;nbsp;a new UN report released on Tuesday.",
       "published": "2026-06-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167844"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167831",
-      "source": "UN News — Middle East",
-      "title": "Middle East conflict leaves developing countries paying the price",
-      "summary": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world&#039;s poorest countries.",
-      "published": "2026-06-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167831",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167830",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory",
-      "summary": "Israeli settlement activities in occupied Palestinian territory, declared illegal under a decade-old resolution, are under the spotlight at the Security Council’s open meeting at 10am local time on Monday, with updates from the office of the UN Special Coordinator for the Middle East Peace Process and two civil society representatives. Stay tuned for live updates.",
-      "published": "2026-06-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167830",
-      "country": "israel"
     }
   ]
 }
