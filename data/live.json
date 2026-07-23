@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-07-23T15:21:29.225Z",
+  "fetchedAt": "2026-07-23T16:52:05.867Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168006",
+      "source": "UN News — Middle East",
+      "title": "Gaza&#039;s food gains could unravel without sustained aid, UN warns",
+      "summary": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
+      "published": "2026-07-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168005",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: How to turn preventive diplomacy rhetoric into action",
+      "summary": "The Security Council is debating on Thursday how best to settle disputes between States peacefully. Ambassadors will be exploring such themes as effective early warning and how to move from rhetorical support for preventive diplomacy to ensuring more consistent use of its Chapter VI powers under the UN Charter. Follow our live coverage.",
+      "published": "2026-07-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168005"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168004",
       "source": "UN News — Peace and security",
@@ -262,15 +279,6 @@
       "country": "iran"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167930",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Aid deliveries to Gaza restricted, UN prepares El Nino response, El Salvador eliminates disease",
-      "summary": "The&amp;nbsp;UN World Food Programme (WFP) is calling for greater humanitarian access to Gaza, warning that restrictions on aid deliveries, ongoing violence and funding shortages are severely limiting its ability to reach people in need.",
-      "published": "2026-07-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167930",
-      "country": "israel"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167923",
       "source": "UN News — Middle East",
       "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
@@ -409,15 +417,6 @@
       "published": "2026-06-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167830",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167818",
-      "source": "UN News — Middle East",
-      "title": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
-      "summary": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
-      "published": "2026-06-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167818",
-      "country": "iran"
     }
   ]
 }
