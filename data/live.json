@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-24T17:17:02.600Z",
+  "fetchedAt": "2026-07-24T18:52:06.027Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168018",
+      "source": "UN News — Peace and security",
+      "title": "After an Ebola centre was attacked, peacekeepers moved in next door",
+      "summary": "A new mobile UN peacekeeping base in the Democratic Republic of the Congo (DRC) has allowed local authorities to continue responding to the fast-moving Ebola outbreak there after violence disrupted the work of medics at a treatment centre set up to contain the spread.",
+      "published": "2026-07-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168018"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168016",
       "source": "UN News — Peace and security",
@@ -277,14 +285,6 @@
       "published": "2026-07-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167936",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167940",
-      "source": "UN News — Peace and security",
-      "title": "West Africa and the Sahel: Terrorism is changing its face",
-      "summary": "Jihadist groups are no longer content with launching attacks in West Africa and the Sahel: they administer territories, control trade routes, exploit new technologies and are gradually pushing their influence all the way to the Gulf of Guinea.&amp;nbsp;",
-      "published": "2026-07-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167940"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167929",
