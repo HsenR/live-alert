@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-07-24T20:07:08.454Z",
+  "fetchedAt": "2026-07-24T21:17:46.377Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168024",
+      "source": "UN News — Peace and security",
+      "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
+      "summary": "The world needs more critical minerals than ever before for electric vehicles, wind turbines, solar panels, batteries and smartphones.",
+      "published": "2026-07-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168024"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168018",
       "source": "UN News — Peace and security",
@@ -268,14 +276,6 @@
       "summary": "As Colombia awaits the inauguration of its newly elected president, pockets of insecurity remain a challenge for a nation that has overcome decades of conflict, the head of the UN verification team there told the Security Council on Wednesday.",
       "published": "2026-07-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167946"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167944",
-      "source": "UN News — Peace and security",
-      "title": "Looted gold and gum arabic are bankrolling Sudan’s war, UN warns",
-      "summary": "Alongside gold, the little-known Sudanese commodity gum arabic&amp;nbsp;–&amp;nbsp;used in soft drinks, food, cosmetics and pharmaceuticals&amp;nbsp;–&amp;nbsp;continues to fuel the war.&amp;nbsp;",
-      "published": "2026-07-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167944"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167936",
