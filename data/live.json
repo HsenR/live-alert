@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T12:50:37.476Z",
+  "fetchedAt": "2026-07-24T14:29:57.881Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168010",
@@ -115,7 +115,7 @@
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167982",
       "source": "UN News — Middle East",
       "title": "Health response brings lifesaving care closer to thousands in Yemen",
-      "summary": "Thousands of people in some of Yemen's most conflict-affected communities are receiving lifesaving health care closer to home, thanks to funding from the&amp;nbsp;UN aid coordination office (OCHA) through the&amp;nbsp;Yemen Humanitarian Fund.",
+      "summary": "Thousands of people in some of Yemen&#039;s most conflict-affected communities are receiving lifesaving health care closer to home, thanks to funding from the&amp;nbsp;UN aid coordination office (OCHA) through the&amp;nbsp;Yemen Humanitarian Fund.",
       "published": "2026-07-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167982"
     },
@@ -247,7 +247,7 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167944",
       "source": "UN News — Peace and security",
-      "title": "Looted gold and gum arabic are bankrolling Sudan&#039;s war, UN warns",
+      "title": "Looted gold and gum arabic are bankrolling Sudan’s war, UN warns",
       "summary": "Alongside gold, the little-known Sudanese commodity gum arabic&amp;nbsp;–&amp;nbsp;used in soft drinks, food, cosmetics and pharmaceuticals&amp;nbsp;–&amp;nbsp;continues to fuel the war.&amp;nbsp;",
       "published": "2026-07-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167944"
@@ -316,7 +316,7 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167922",
       "source": "UN News — Middle East",
-      "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+      "title": "‘We face a new ordeal’: Gaza&#039;s search for the dead goes on",
       "summary": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrikes.",
       "published": "2026-07-11T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
