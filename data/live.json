@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-07-25T14:14:41.621Z",
+  "fetchedAt": "2026-07-25T15:18:57.166Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168016",
+      "source": "UN News — Middle East",
+      "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
+      "summary": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.&amp;nbsp;",
+      "published": "2026-07-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168024",
       "source": "UN News — Peace and security",
@@ -16,15 +25,6 @@
       "summary": "A new mobile UN peacekeeping base in the Democratic Republic of the Congo (DRC) has allowed local authorities to continue responding to the fast-moving Ebola outbreak there after violence disrupted the work of medics at a treatment centre set up to contain the spread.",
       "published": "2026-07-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168018"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168016",
-      "source": "UN News — Peace and security",
-      "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
-      "summary": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.&amp;nbsp;",
-      "published": "2026-07-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168012",
@@ -417,14 +417,6 @@
       "published": "2026-06-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167844",
-      "source": "UN News — Middle East",
-      "title": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
-      "summary": "Re-opening the Strait of Hormuz would bring vital relief for many economies, but developing countries will continue to grapple with increased food and fuel costs, according to&amp;nbsp;a new UN report released on Tuesday.",
-      "published": "2026-06-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167844"
     }
   ]
 }
