@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-07-26T14:13:29.695Z",
+  "fetchedAt": "2026-07-26T15:19:52.256Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168026",
+      "source": "UN News — Middle East",
+      "title": "Gaza: Dialysis patients face grueling hospital journey by donkey cart",
+      "summary": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
+      "published": "2026-07-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168026",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168027",
+      "source": "UN News — Middle East",
+      "title": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime",
+      "summary": "Syria has an opportunity not only to recover from conflict but to build “a future that is more stable, more inclusive and more prosperous for all Syrians”, UN Secretary-General António Guterres said in Damascus on Saturday as he began a landmark visit to the country.",
+      "published": "2026-07-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168027"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168016",
       "source": "UN News — Middle East",
@@ -270,14 +287,6 @@
       "country": "iran"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167945",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: International Criminal Court briefs on Darfur",
-      "summary": "On Wednesday, the Security Council heard an update on the International Criminal Court&#039;s work in Sudan&#039;s Darfur region, referred to the Court back in 2005. Focus has recently turned to atrocities in the ongoing war between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF). The briefing was held as the ICC faces mounting pressure: this week, US Secretary of State Marco Rubio launched a campaign to “dismantle” the Court, which prosecutes individuals for genocide, war crimes, crimes against humanity and the crime of aggression. Follow full live coverage below.",
-      "published": "2026-07-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167945"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167936",
       "source": "UN News — Middle East",
       "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
@@ -399,24 +408,6 @@
       "published": "2026-07-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167860",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167852",
-      "source": "UN News — Middle East",
-      "title": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
-      "summary": "The continued expansion of areas under Israeli control in Gaza since October’s ceasefire agreement is placing civilians at greater risk and severely constraining humanitarian operations, the UN and humanitarian partners&amp;nbsp;warned on Wednesday.",
-      "published": "2026-07-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167852",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/06/1167845",
-      "source": "UN News — Middle East",
-      "title": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
-      "summary": "The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters.",
-      "published": "2026-06-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
-      "country": "israel"
     }
   ]
 }
