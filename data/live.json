@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T01:14:55.998Z",
+  "fetchedAt": "2026-07-27T04:51:33.235Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168028",
@@ -12,8 +12,8 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168026",
       "source": "UN News — Middle East",
-      "title": "Gaza: Dialysis patients face grueling hospital journey by donkey cart",
-      "summary": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
+      "title": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
+      "summary": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice-weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
       "published": "2026-07-26T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168026",
       "country": "israel"
