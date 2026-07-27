@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-07-27T20:57:17.329Z",
+  "fetchedAt": "2026-07-27T21:58:02.576Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168034",
+      "source": "UN News — Peace and security",
+      "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
+      "summary": "UN Human Rights Chief Volker Türk expressed concern about ongoing displacement and destruction caused by Israeli strikes against Lebanon as he concluded a two-day visit to the country on Monday.",
+      "published": "2026-07-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168034"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168035",
+      "source": "UN News — Peace and security",
+      "title": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
+      "summary": "The United Nations continues to monitor developments in the Occupied Palestinian Territory amid rising violence and greater restrictions in the occupied West Bank.",
+      "published": "2026-07-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168035",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168029",
       "source": "UN News — Peace and security",
@@ -266,22 +283,6 @@
       "summary": "The&amp;nbsp;UN human rights chief, Volker Türk, has&amp;nbsp;appealed for calm in Pakistan-Administered Kashmir amid unrest ahead of regional elections.",
       "published": "2026-07-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167970"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167967",
-      "source": "UN News — Peace and security",
-      "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
-      "summary": "UN humanitarians working in war-torn Sudan on Friday highlighted rapidly growing needs among the more than 100,000 displaced people now sheltering in camps in the city of El Obeid.&amp;nbsp;",
-      "published": "2026-07-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167967"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167965",
-      "source": "UN News — Peace and security",
-      "title": "Guterres: AI must be shaped by &#039;all of humanity&#039;, not a handful of powers",
-      "summary": "UN Secretary-General António Guterres on Friday urged governments and technology companies to work together to ensure artificial intelligence (AI) benefits all countries.",
-      "published": "2026-07-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167965"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167961",
