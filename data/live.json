@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-07-30T20:22:50.195Z",
+  "fetchedAt": "2026-07-30T21:37:06.108Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168052",
+      "source": "UN News — Peace and security",
+      "title": "Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities",
+      "summary": "Aid workers and first responders raced to help people across Ukraine after a wave of deadly Russian missile and drone strikes overnight as concerns mounted over military activity near nuclear power plants on Thursday.",
+      "published": "2026-07-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168052"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168051",
+      "source": "UN News — Peace and security",
+      "title": "Returning Afghans face growing risk of trafficking as crises deepen",
+      "summary": "Afghans returning from neighbouring countries are facing growing risks of human trafficking and exploitation as overlapping humanitarian and economic crises leave many struggling to survive, the UN warned on Thursday.",
+      "published": "2026-07-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168051"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168045",
       "source": "UN News — Middle East",
@@ -276,14 +292,6 @@
       "summary": "Russian attacks and drone strikes killed at least two children and injured dozens more across Ukraine over recent days while severely damaging three critical aid warehouses, UN agencies reported on Monday.",
       "published": "2026-07-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167980"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167972",
-      "source": "UN News — Peace and security",
-      "title": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
-      "summary": "Haiti’s future success depends on “security, political engagement, and humanitarian action reinforcing each other,” the UN’s most senior official in Haiti has told the UN Security Council which met in New York on Monday to discuss the way forward for the embattled Caribbean island nation.",
-      "published": "2026-07-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167972"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167973",
