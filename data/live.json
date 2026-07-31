@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-07-31T12:14:17.361Z",
+  "fetchedAt": "2026-07-31T14:33:37.270Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168055",
+      "source": "UN News — Middle East",
+      "title": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
+      "summary": "The humanitarian toll is mounting as fighting continues in the Middle East beyond strikes and counterstrikes between the US and Iran, the UN aid coordination office OCHA warned on Thursday, with civilians increasingly at risk and essential infrastructure disrupted in several countries across the region.",
+      "published": "2026-07-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168055",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168057",
+      "source": "UN News — Peace and security",
+      "title": "Fear grows as freedoms shrink in Uganda",
+      "summary": "Uganda is experiencing a growing climate of fear as increasing restrictions on fundamental freedoms leave opposition supporters, journalists, human rights defenders and civil society groups at heightened risk of abuse, according to the&amp;nbsp;UN Human Rights Office (OHCHR).",
+      "published": "2026-07-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168057"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168052",
       "source": "UN News — Peace and security",
@@ -261,14 +278,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167992"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167983",
-      "source": "UN News — Peace and security",
-      "title": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilisation",
-      "summary": "In the Democratic Republic of the Congo (DRC), UN health teams and partners are still racing to contain the rapidly expanding Ebola outbreak despite ongoing insecurity in eastern areas where the virus has taken hold. As of 19 July, the DRC Government has recorded 2,423 confirmed cases, including 967 deaths and 469 recoveries.&amp;nbsp;",
-      "published": "2026-07-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167983"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167982",
       "source": "UN News — Middle East",
       "title": "Health response brings lifesaving care closer to thousands in Yemen",
@@ -284,14 +293,6 @@
       "published": "2026-07-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167979",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167980",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: Deadly Russian attacks severely damage aid warehouses",
-      "summary": "Russian attacks and drone strikes killed at least two children and injured dozens more across Ukraine over recent days while severely damaging three critical aid warehouses, UN agencies reported on Monday.",
-      "published": "2026-07-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167980"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167973",
@@ -399,15 +400,6 @@
       "published": "2026-07-09T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167912",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167905",
-      "source": "UN News — Middle East",
-      "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
-      "summary": "Renewed hostilities between the United States and Iran reportedly brought shipping to a near-standstill in the Strait of Hormuz on Thursday, leaving around 6,000 seafarers stranded aboard hundreds of vessels and Gulf countries on high alert for further attacks.",
-      "published": "2026-07-09T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167905",
-      "country": "iran"
     }
   ]
 }
