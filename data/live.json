@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-01T19:40:25.828Z",
+  "fetchedAt": "2026-08-01T20:30:08.891Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168053",
+      "source": "UN News — Peace and security",
+      "title": "Recovery in Ukraine, one life at a time",
+      "summary": "In classrooms, maternity wards, hospital corridors and local communities across Ukraine, people are rebuilding their lives despite the ongoing war.",
+      "published": "2026-08-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168053"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168062",
       "source": "UN News — Middle East",
