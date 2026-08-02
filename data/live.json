@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-02T19:42:10.797Z",
+  "fetchedAt": "2026-08-02T20:32:57.858Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168058",
+      "source": "UN News — Peace and security",
+      "title": "Trapped by a Facebook job advert, freed by a stranger in a taxi",
+      "summary": "Sofia* was 27, raising her seven-year-old son alone in Venezuela, and running out of options. For years she had distributed personal hygiene products door to door, but as her customers’ finances collapsed, so did her income.&amp;nbsp;",
+      "published": "2026-08-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168058"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168053",
       "source": "UN News — Peace and security",
