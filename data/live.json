@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-08-03T20:49:51.895Z",
+  "fetchedAt": "2026-08-03T21:54:10.277Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168067",
+      "source": "UN News — Middle East",
+      "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
+      "summary": "Israeli forces reportedly killed more than two dozen Palestinians in Gaza and violated Lebanese airspace more than 100 times over the weekend despite ongoing ceasefire agreements, UN agencies and peacekeepers said on Monday.",
+      "published": "2026-08-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168067",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168068",
+      "source": "UN News — Peace and security",
+      "title": "Drone strikes threaten civilians and aid operations in Sudan",
+      "summary": "Drone strikes are posing deadly risks to civilians in Sudan and hampering humanitarian efforts to reach them as attacks continue to affect conflict-hit areas, the UN aid coordination office OCHA&amp;nbsp;said on Monday.",
+      "published": "2026-08-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168068"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168058",
       "source": "UN News — Peace and security",
@@ -260,14 +277,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168000"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167994",
-      "source": "UN News — Peace and security",
-      "title": "From lithium to nickel: How the UN is helping countries make the most of critical minerals",
-      "summary": "The world&#039;s shift to clean energy is driving huge demand for critical minerals such as lithium, nickel, cobalt and copper.&amp;nbsp;",
-      "published": "2026-07-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167994"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167991",
       "source": "UN News — Middle East",
       "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
@@ -292,14 +301,6 @@
       "summary": "The Security Council discussed the situation on the ground in Syria amid reports of an Israeli attack in occupied territory and of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres&amp;nbsp;heads to Damascus for his first visit to the country as Secretary-General.",
       "published": "2026-07-21T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167984"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167992",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Sexual violence in DR Congo, deaths in Ukraine and Russia, crime in Southeast Asia",
-      "summary": "Independent UN human rights experts on Tuesday&amp;nbsp;condemned the M23 armed group’s “reign of terror” over territory it controls in eastern Democratic Republic of the Congo (DRC), calling for an end to the Rwanda-backed group’s sexual torture and violence against civilians.",
-      "published": "2026-07-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167992"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167982",
@@ -407,14 +408,6 @@
       "published": "2026-07-11T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167914",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
-      "summary": "Since the United States and Israel launched attacks on Iran in late February, there has been a “lost continuity of knowledge” on Tehran’s nuclear programme, Rosemary DiCarlo, the UN peace affairs chief, warned the Security Council on Friday as tensions mounted amid new strikes across the Middle East.",
-      "published": "2026-07-10T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167914"
     }
   ]
 }
