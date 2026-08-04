@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-04T18:17:47.877Z",
+  "fetchedAt": "2026-08-04T20:05:07.188Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168074",
+      "source": "UN News — Middle East",
+      "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
+      "summary": "Disruption in the Strait of Hormuz has exposed the vulnerability of global trade to a single maritime chokepoint, with early data showing sharp falls in exports of energy, fertilizers and industrial products.&amp;nbsp;",
+      "published": "2026-08-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168074"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168069",
       "source": "UN News — Middle East",
@@ -398,15 +406,6 @@
       "published": "2026-07-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167923",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167921",
-      "source": "UN News — Middle East",
-      "title": "Reviving communities home by home in Gaza",
-      "summary": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
-      "published": "2026-07-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
-      "country": "israel"
     }
   ]
 }
