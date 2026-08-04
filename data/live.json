@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-04T12:15:20.815Z",
+  "fetchedAt": "2026-08-04T14:55:03.241Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168069",
+      "source": "UN News — Middle East",
+      "title": "Afghanistan hunger crisis intensifies as millions left without food aid",
+      "summary": "Afghanistan’s dire hunger crisis now affects 14 million people including babies fed on little more than weak tea and bread by their despairing and dirt-poor parents.",
+      "published": "2026-08-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168069"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168067",
       "source": "UN News — Middle East",
@@ -398,15 +406,6 @@
       "summary": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
       "published": "2026-07-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167922",
-      "source": "UN News — Middle East",
-      "title": "‘We face a new ordeal’: Gaza&#039;s search for the dead goes on",
-      "summary": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrikes.",
-      "published": "2026-07-11T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
       "country": "israel"
     }
   ]
