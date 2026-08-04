@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-08-04T21:32:13.314Z",
+  "fetchedAt": "2026-08-04T22:40:50.999Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168077",
+      "source": "UN News — Middle East",
+      "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
+      "summary": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
+      "published": "2026-08-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168077",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168074",
       "source": "UN News — Middle East",
@@ -396,15 +405,6 @@
       "summary": "As the UN chief’s Special Envoy for Yemen, Hans Grundberg, calls for swift de-escalation following reports of Saudi Arabian airstrikes and Iranian aircraft landing in the country, the Security Council’s emergency meeting at 3pm (local time) on Monday heard briefings from top officials on the latest humanitarian and political situation.",
       "published": "2026-07-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167924",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167923",
-      "source": "UN News — Middle East",
-      "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
-      "summary": "Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of a return to all‑out war, with Washington denying Tehran’s claim that it had closed the crucial Strait of Hormuz on Sunday.",
-      "published": "2026-07-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167923",
       "country": "iran"
     }
   ]
