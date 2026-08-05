@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T09:44:50.013Z",
+  "fetchedAt": "2026-08-05T11:44:53.275Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168077",
@@ -25,6 +25,14 @@
       "summary": "Afghanistan’s dire hunger crisis now affects 14 million people including babies fed on little more than weak tea and bread by their despairing and dirt-poor parents.",
       "published": "2026-08-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168069"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168076",
+      "source": "UN News — Peace and security",
+      "title": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
+      "summary": "As Russia’s invasion of Ukraine continues, with both sides stepping up airstrikes and drone attacks in recent weeks deep inside each other&#039;s territory, the UN Children’s Fund (UNICEF) appealed on Tuesday for greater protection for the war’s youngest victims.",
+      "published": "2026-08-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168076"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168067",
@@ -276,15 +284,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168005"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168004",
-      "source": "UN News — Peace and security",
-      "title": "Stranded seafarers remain trapped as Hormuz shipping stalls",
-      "summary": "As the Iran-US war continues, the key question remains unanswered about how shipping through the Strait of Hormuz will be managed in future – although the UN has reiterated that charging tolls for safe passage runs contrary to international law.",
-      "published": "2026-07-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168004",
-      "country": "iran"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168003",
       "source": "UN News — Middle East",
       "title": "Thousands prevented from returning home to southern Lebanon",
@@ -292,14 +291,6 @@
       "published": "2026-07-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168003",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168000",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
-      "summary": "UN partners launched the&amp;nbsp;Winter Response Plan to help 2.1 million people in Ukraine survive another cold season as the country grapples with the on-going Russian invasion.",
-      "published": "2026-07-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168000"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167991",
