@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T17:07:19.316Z",
+  "fetchedAt": "2026-08-05T18:45:40.307Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168081",
@@ -8,6 +8,14 @@
       "summary": "The UN rights chief expressed alarm on Wednesday over the sharp increase in executions and death sentences in Iran since the US-Israeli bombing campaign began in late February, warning that capital punishment is being used to intimidate the population and suppress dissent.",
       "published": "2026-08-05T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168081"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168082",
+      "source": "UN News — Peace and security",
+      "title": "UN reports deadly month for Ukrainian civilians as Russian attacks intensify",
+      "summary": "Russian forces hammered Ukraine with ballistic missiles and long-range drones overnight on Tuesday, killing at least 17 civilians – mainly around Kyiv – and injuring another 44,&amp;nbsp;the UN human rights office in Ukraine reported.",
+      "published": "2026-08-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168082"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168080",
