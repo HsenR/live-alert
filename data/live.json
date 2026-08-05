@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-05T13:21:00.874Z",
+  "fetchedAt": "2026-08-05T15:33:32.154Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168080",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Briefing on continuing ISIL terror threat",
+      "summary": "The Security Council is meeting on Wednesday to examine the persistent threat posed by the terrorist group ISIL, also known as Dae’sh, to international peace and security. At a conference in June, the acting head of the UN counter-terrorism office stated that Al Qaeda, Da’esh, and their affiliates “remain adaptive and resilient”.&amp;nbsp; Moreover, they are using artificial intelligence and other emerging technologies to expand their reach, recruit and mobilise resources. Follow live updates below.&amp;nbsp;",
+      "published": "2026-08-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168080"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168077",
       "source": "UN News — Middle East",
@@ -274,14 +282,6 @@
       "published": "2026-07-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168005",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: How to turn preventive diplomacy rhetoric into action",
-      "summary": "In the Security Council debate on Thursday on how best to settle disputes between States peacefully, ambassadors provided examples of success and challenges ahead under such themes as effective early warning and how to move from rhetorical support for preventive diplomacy to ensuring more consistent use of its Chapter VI powers under the UN Charter.",
-      "published": "2026-07-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168005"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168003",
