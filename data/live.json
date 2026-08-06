@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-06T13:25:35.007Z",
+  "fetchedAt": "2026-08-06T15:36:52.262Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168088",
@@ -9,6 +9,22 @@
       "published": "2026-08-06T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168090",
+      "source": "UN News — Peace and security",
+      "title": "‘Wanton, intentional infliction of incredible pain’ by gangs in Haiti",
+      "summary": "Gangs in Haiti continue to terrorize communities with the “wanton, intentional infliction of incredible pain” on people who often are just in the wrong place at the wrong time.",
+      "published": "2026-08-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168090"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168089",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Warnings of famine and collapse as South Sudan&#039;s peace deal frays",
+      "summary": "Nearly eight million people in South Sudan – more than half the population – face crisis-level hunger, with famine risk now flagged in four counties, as the Security Council meets this morning in New York. A cholera outbreak has killed more than 1,700 people, and some aid workers are being killed and abducted even as they try to reach those most at risk. Follow live coverage below.",
+      "published": "2026-08-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168089"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168081",
@@ -265,22 +281,6 @@
       "summary": "When conflict erupts, disasters strike or political crises unfold, courts are among the few institutions expected to keep functioning – ensuring the essential rule of law is maintained.",
       "published": "2026-07-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168023"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168024",
-      "source": "UN News — Peace and security",
-      "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
-      "summary": "The world needs more critical minerals than ever before for electric vehicles, wind turbines, solar panels, batteries and smartphones.",
-      "published": "2026-07-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168024"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168018",
-      "source": "UN News — Peace and security",
-      "title": "After an Ebola centre was attacked, peacekeepers moved in next door",
-      "summary": "A new mobile UN peacekeeping base in the Democratic Republic of the Congo (DRC) has allowed local authorities to continue responding to the fast-moving Ebola outbreak there after violence disrupted the work of medics at a treatment centre set up to contain the spread.",
-      "published": "2026-07-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168018"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168010",
