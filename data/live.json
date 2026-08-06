@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-08-06T11:53:12.095Z",
+  "fetchedAt": "2026-08-06T13:25:35.007Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168088",
+      "source": "UN News — Middle East",
+      "title": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
+      "summary": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
+      "published": "2026-08-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168081",
       "source": "UN News — Middle East",
@@ -394,15 +403,6 @@
       "summary": "The UN maritime agency, IMO, condemned overnight attacks&amp;nbsp;on shipping in and around the Strait of Hormuz that killed at least two seafarers as fresh strikes were reported early Tuesday in the escalating US-Iran war.",
       "published": "2026-07-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167936",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167929",
-      "source": "UN News — Middle East",
-      "title": "Strait of Hormuz: UN agencies call for diplomacy to end attacks",
-      "summary": "As both Washington and Tehran claim to control the critical commercial shipping route through the narrow Strait of Hormuz, UN agencies on Monday are calling for de-escalation amid the recent spike in strikes in the region related to the US-Iran war.",
-      "published": "2026-07-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167929",
       "country": "iran"
     }
   ]
