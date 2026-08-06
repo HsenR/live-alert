@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-06T01:00:33.174Z",
+  "fetchedAt": "2026-08-06T04:26:25.118Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168081",
@@ -8,6 +8,14 @@
       "summary": "The UN rights chief expressed alarm on Wednesday over the sharp increase in executions and death sentences in Iran since the US-Israeli bombing campaign began in late February, warning that capital punishment is being used to intimidate the population and suppress dissent.",
       "published": "2026-08-05T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168081"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168087",
+      "source": "UN News — Peace and security",
+      "title": "Hiroshima fosters hope, 81 years on from nuclear catastrophe",
+      "summary": "Eighty-one years ago on Thursday, the United States dropped an atomic bomb on Hiroshima, reducing the city to ruins, killing tens of thousands of people and bringing the world “face to face with the catastrophic power of nuclear war”.",
+      "published": "2026-08-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168087"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168082",
@@ -264,14 +272,6 @@
       "summary": "A new mobile UN peacekeeping base in the Democratic Republic of the Congo (DRC) has allowed local authorities to continue responding to the fast-moving Ebola outbreak there after violence disrupted the work of medics at a treatment centre set up to contain the spread.",
       "published": "2026-07-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168018"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168012",
-      "source": "UN News — Peace and security",
-      "title": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
-      "summary": "In El Obeid, women and girls now face an impossible choice over something as basic as a bucket of water: risk a drone strike by collecting it in daylight, or risk rape by waiting until dark.&amp;nbsp;",
-      "published": "2026-07-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168012"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168010",
