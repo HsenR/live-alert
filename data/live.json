@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-08-08T10:56:12.864Z",
+  "fetchedAt": "2026-08-08T11:19:07.721Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168084",
+      "source": "UN News — Middle East",
+      "title": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
+      "summary": "More than 2,500 years after Homer’s epic was first told, Christopher Nolan&#039;s blockbuster retelling of The Odyssey has brought the journey back to big screens worldwide. But, behind the sweeping plot is another character facing an odyssey of its own: the Mediterranean Sea.",
+      "published": "2026-08-07T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168084"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168101",
+      "source": "UN News — Peace and security",
+      "title": "‘Sudan is losing another generation’ to war, Mohammed warns",
+      "summary": "More than 1,000 days of war in Sudan have left millions of children out of school, displaced or exposed to grave violations, the UN Deputy Secretary-General said on Friday, calling for renewed action to end the conflict.&amp;nbsp;",
+      "published": "2026-08-07T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168101"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168088",
       "source": "UN News — Middle East",
@@ -266,14 +282,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168020",
-      "source": "UN News — Peace and security",
-      "title": "After war took her leg, this Ukrainian gymnast refused to give up",
-      "summary": "When 10-year-old Ukrainian gymnast Sasha Paskal stepped onto the stage in New York&#039;s Times Square this week, she carried a message far bigger than her performance.",
-      "published": "2026-07-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168020"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168027",
       "source": "UN News — Middle East",
       "title": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime",
@@ -402,15 +410,6 @@
       "summary": "UN Secretary-General António Guterres voiced deep concern on Wednesday over the continuing military escalation in the Middle East amid ongoing strikes by the United States and Iran over control of the Strait of Hormuz.&amp;nbsp;",
       "published": "2026-07-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167949",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167936",
-      "source": "UN News — Middle East",
-      "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
-      "summary": "The UN maritime agency, IMO, condemned overnight attacks&amp;nbsp;on shipping in and around the Strait of Hormuz that killed at least two seafarers as fresh strikes were reported early Tuesday in the escalating US-Iran war.",
-      "published": "2026-07-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167936",
       "country": "iran"
     }
   ]
