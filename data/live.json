@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-09T17:00:43.517Z",
+  "fetchedAt": "2026-08-09T17:43:52.124Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168093",
+      "source": "UN News — Peace and security",
+      "title": "Sudan: ‘It made me dream again’: The students refusing to let war stop their education",
+      "summary": "Sarah Tekhlu was ready to give up on university. An Eritrean refugee, she had already been displaced once from Khartoum to Madani, then again to Port Sudan, as war tore through the country around her. Higher education, she had decided, was a luxury she could no longer afford to want.",
+      "published": "2026-08-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168093"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168084",
       "source": "UN News — Middle East",
