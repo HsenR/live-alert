@@ -1,13 +1,21 @@
 {
-  "fetchedAt": "2026-08-10T21:23:43.318Z",
+  "fetchedAt": "2026-08-10T22:02:28.660Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168108",
-      "source": "UN News — Peace and security",
+      "source": "UN News — Middle East",
       "title": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
       "summary": "Israeli forces fired 455 projectiles into south Lebanon and breached Lebanese airspace 97 times between Friday and Sunday, the UN&#039;s peacekeeping mission in the country reported Monday – among the heaviest fire seen in months.",
       "published": "2026-08-10T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168108"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168109",
+      "source": "UN News — Peace and security",
+      "title": "Fighting deepens needs and fuels further displacement in Sudan",
+      "summary": "Ongoing conflict, displacement and funding shortages continue to deepen needs in Sudan, the UN Office for the Coordination of Humanitarian Affairs (OCHA) warned on Monday, underscoring the need for greater civilian protection.",
+      "published": "2026-08-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168109"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168102",
@@ -418,15 +426,6 @@
       "published": "2026-07-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167949",
-      "source": "UN News — Middle East",
-      "title": "Gulf crisis: Guterres calls for de-escalation, warns against return to full-on war",
-      "summary": "UN Secretary-General António Guterres voiced deep concern on Wednesday over the continuing military escalation in the Middle East amid ongoing strikes by the United States and Iran over control of the Strait of Hormuz.&amp;nbsp;",
-      "published": "2026-07-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167949",
-      "country": "iran"
     }
   ]
 }
