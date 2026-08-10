@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-10T14:40:39.823Z",
+  "fetchedAt": "2026-08-10T15:34:14.634Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168102",
+      "source": "UN News — Peace and security",
+      "title": "Humanitarian aid warehouses come under attack in Ukraine",
+      "summary": "Russia’s ongoing full-scale invasion of Ukraine has left civilians vulnerable to repeated deadly attacks and humanitarian workers and key facilities being targeted and destroyed.",
+      "published": "2026-08-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168102"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168093",
       "source": "UN News — Peace and security",
@@ -263,14 +271,6 @@
       "summary": "As the world marks the 75th anniversary of the&amp;nbsp;Refugee Convention,&amp;nbsp;the UN refugee agency (UNHCR) has launched a global campaign urging governments, organizations and individuals to renew their commitment to protecting people forced to flee war, violence and persecution.",
       "published": "2026-07-27T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168036"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168029",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
-      "summary": "The UN Security Council met on Monday at Ukraine’s request, following recent large-scale Russian attacks on Kyiv and elsewhere. At least one civilian was killed and more than a dozen wounded in an overnight strike on the capital on 19 July that also damaged homes and civilian infrastructure. Ukrainian authorities described it as one of the largest and most intense attacks since the invasion began. Follow live updates below.&amp;nbsp;",
-      "published": "2026-07-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168029"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168028",
