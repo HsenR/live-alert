@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-10T20:37:09.752Z",
+  "fetchedAt": "2026-08-10T21:23:43.318Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168108",
+      "source": "UN News — Peace and security",
+      "title": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
+      "summary": "Israeli forces fired 455 projectiles into south Lebanon and breached Lebanese airspace 97 times between Friday and Sunday, the UN&#039;s peacekeeping mission in the country reported Monday – among the heaviest fire seen in months.",
+      "published": "2026-08-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168108"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168102",
       "source": "UN News — Peace and security",
