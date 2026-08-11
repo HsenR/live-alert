@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-08-11T14:03:38.384Z",
+  "fetchedAt": "2026-08-11T15:13:44.607Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168113",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
+      "summary": "The Security Council holds an open debate on Tuesday which is expected to address escalating Israeli settler violence in the occupied West Bank as attacks on Palestinians and their property continue. UN News&amp;nbsp;app users can follow here.",
+      "published": "2026-08-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168113",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168110",
+      "source": "UN News — Peace and security",
+      "title": "Myanmar: UN investigators document deliberate military attacks on civilians",
+      "summary": "Myanmar&#039;s military has carried out a sustained campaign of deliberate attacks on civilians – including airstrikes on homes, schools and camps for displaced people, alongside arbitrary detention, torture and sexual violence – according to Human Rights Council-appointed investigators.",
+      "published": "2026-08-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168110"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168108",
       "source": "UN News — Middle East",
@@ -281,14 +298,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168036",
-      "source": "UN News — Peace and security",
-      "title": "75 years later, the promise to protect refugees faces its greatest test",
-      "summary": "As the world marks the 75th anniversary of the&amp;nbsp;Refugee Convention,&amp;nbsp;the UN refugee agency (UNHCR) has launched a global campaign urging governments, organizations and individuals to renew their commitment to protecting people forced to flee war, violence and persecution.",
-      "published": "2026-07-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168036"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168028",
       "source": "UN News — Middle East",
       "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
@@ -417,15 +426,6 @@
       "published": "2026-07-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167961",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167960",
-      "source": "UN News — Middle East",
-      "title": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
-      "summary": "The UN is supporting farmers in Gaza who are struggling to rebuild their smallholdings in areas devastated by the Hamas-Israel war.",
-      "published": "2026-07-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
-      "country": "israel"
     }
   ]
 }
