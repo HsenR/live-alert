@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-08-13T21:08:34.538Z",
+  "fetchedAt": "2026-08-13T21:58:08.912Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168138",
+      "source": "UN News — Middle East",
+      "title": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
+      "summary": "New satellite assessments show the destruction of buildings in Gaza has climbed by nearly 10 per cent since October’s faltering ceasefire between Hamas and Israeli forces aim to end the two-year war, which reduced cities to rubble and displaced more than one million people, UN agencies said on Thursday.",
+      "published": "2026-08-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168138",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168132",
       "source": "UN News — Middle East",
@@ -409,14 +418,6 @@
       "published": "2026-07-21T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167989",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167984",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
-      "summary": "The Security Council discussed the situation on the ground in Syria amid reports of an Israeli attack in occupied territory and of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres&amp;nbsp;heads to Damascus for his first visit to the country as Secretary-General.",
-      "published": "2026-07-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167984"
     }
   ]
 }
