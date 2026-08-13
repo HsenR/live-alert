@@ -1,10 +1,27 @@
 {
-  "fetchedAt": "2026-08-13T15:34:34.064Z",
+  "fetchedAt": "2026-08-13T16:30:39.217Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168132",
+      "source": "UN News — Middle East",
+      "title": "Türkiye’s changes to child detention ‘raise serious human rights concerns’",
+      "summary": "UN human rights chief Volker Türk on Thursday&amp;nbsp;condemned an amendment adopted by Türkiye’s parliament that would allow judges to give life sentences to child offenders convicted of serious crimes.",
+      "published": "2026-08-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168132"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168131",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
+      "summary": "As tensions triggered by the US-Iran war continue to ripple across the Middle East, the Security Council held an open debate Thursday on Yemen, where escalating deadly military clashes are worsening an already fragile humanitarian situation amid fears that recent Houthi missile strikes on Saudi Arabia and commercial vessels could threaten the 2022 truce between Houthi militia and the internationally-recognised Government. UN News app users can follow our live coverage here.",
+      "published": "2026-08-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168131",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168130",
       "source": "UN News — Middle East",
-      "title": "Occupied West Bank: Settler siege of Palestinians marks a new low: OHCHR",
+      "title": "Occupied West Bank: Settler siege of Palestinians marks a new low",
       "summary": "In the occupied West Bank, the UN human rights office, OHCHR, appealed on Thursday to Israeli authorities to help Palestinian families trapped in their homes by settlers for days, amid an intensifying campaign to seize their land.",
       "published": "2026-08-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168130",
@@ -265,14 +282,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168057"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168052",
-      "source": "UN News — Peace and security",
-      "title": "Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities",
-      "summary": "Aid workers and first responders raced to help people across Ukraine after a wave of deadly Russian missile and drone strikes overnight as concerns mounted over military activity near nuclear power plants on Thursday.",
-      "published": "2026-07-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168052"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168045",
       "source": "UN News — Middle East",
       "title": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation",
@@ -400,23 +409,6 @@
       "summary": "The Security Council discussed the situation on the ground in Syria amid reports of an Israeli attack in occupied territory and of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres&amp;nbsp;heads to Damascus for his first visit to the country as Secretary-General.",
       "published": "2026-07-21T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167984"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167982",
-      "source": "UN News — Middle East",
-      "title": "Health response brings lifesaving care closer to thousands in Yemen",
-      "summary": "Thousands of people in some of Yemen&#039;s most conflict-affected communities are receiving lifesaving health care closer to home, thanks to funding from the&amp;nbsp;UN aid coordination office (OCHA) through the&amp;nbsp;Yemen Humanitarian Fund.",
-      "published": "2026-07-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167982"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167979",
-      "source": "UN News — Middle East",
-      "title": "Middle East: Civilians again under fire as US-Iran strikes continue",
-      "summary": "As the United States and Iran trade deadly attacks for a second week, the UN continues to call for de-escalation while highlighting the devastation caused to civilians and critical infrastructure across the Middle East.",
-      "published": "2026-07-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167979",
-      "country": "iran"
     }
   ]
 }
