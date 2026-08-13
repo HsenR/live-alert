@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T16:30:39.217Z",
+  "fetchedAt": "2026-08-13T17:37:02.237Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168132",
@@ -26,6 +26,14 @@
       "published": "2026-08-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168130",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168134",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: Civilian casualties hit highest level since March 2022",
+      "summary": "Civilian casualties in Ukraine reached their highest monthly level in July, with more people killed and injured than at any time since March 2022, the UN Human Rights Monitoring Mission in the country, HRMMU, said in an update on Thursday.&amp;nbsp;",
+      "published": "2026-08-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168134"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168121",
