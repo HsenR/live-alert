@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T21:58:08.912Z",
+  "fetchedAt": "2026-08-13T22:34:46.649Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168138",
@@ -289,14 +289,6 @@
       "published": "2026-07-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168055",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168057",
-      "source": "UN News — Peace and security",
-      "title": "Fear grows as freedoms shrink in Uganda",
-      "summary": "Uganda is experiencing a growing climate of fear as increasing restrictions on fundamental freedoms leave opposition supporters, journalists, human rights defenders and civil society groups at heightened risk of abuse, according to the&amp;nbsp;UN Human Rights Office (OHCHR).",
-      "published": "2026-07-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168057"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168045",
