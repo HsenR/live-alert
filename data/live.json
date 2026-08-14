@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T18:01:55.081Z",
+  "fetchedAt": "2026-08-14T19:09:34.913Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168142",
@@ -9,6 +9,14 @@
       "published": "2026-08-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168142",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "source": "UN News — Peace and security",
+      "title": "An attack on healthcare every six hours, and no one held to account",
+      "summary": "Across the world, healthcare has suffered more than 10,000 attacks in the past eight years, including during the brutal conflict in Ukraine and efforts to contain the current Ebola outbreak spreading rapidly in the eastern Democratic Republic of the Congo (DRC).&amp;nbsp;",
+      "published": "2026-08-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168144"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168141",
@@ -281,14 +289,6 @@
       "summary": "Sofia* was 27, raising her seven-year-old son alone in Venezuela, and running out of options. For years she had distributed personal hygiene products door to door, but as her customers’ finances collapsed, so did her income.&amp;nbsp;",
       "published": "2026-08-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168058"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168053",
-      "source": "UN News — Peace and security",
-      "title": "Recovery in Ukraine, one life at a time",
-      "summary": "In classrooms, maternity wards, hospital corridors and local communities across Ukraine, people are rebuilding their lives despite the ongoing war.",
-      "published": "2026-08-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168053"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168062",
