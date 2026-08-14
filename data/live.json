@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-14T14:34:59.129Z",
+  "fetchedAt": "2026-08-14T15:26:42.992Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168141",
+      "source": "UN News — Peace and security",
+      "title": "Sudan: The harrowing reality of giving birth in a war zone",
+      "summary": "Sudanese women about to give birth are losing their babies and sometimes their own lives because of a lack of specialist healthcare support, amid the ongoing war, UN humanitarians said on Friday.",
+      "published": "2026-08-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168141"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168138",
       "source": "UN News — Middle East",
