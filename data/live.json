@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T15:53:28.841Z",
+  "fetchedAt": "2026-08-15T16:07:51.645Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168146",
@@ -11,21 +11,12 @@
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "source": "UN News — Middle East",
+      "source": "UN News — Peace and security",
       "title": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
       "summary": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday.&amp;nbsp;",
       "published": "2026-08-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168147",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168142",
-      "source": "UN News — Middle East",
-      "title": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-      "summary": "Authorities in Iran intercepted 3,663 kilogrammes of methamphetamines headed for Europe and the Persian Gulf in the first quarter of 2026, according to the UN’s drugs and crime fighting agency (UNODC).",
-      "published": "2026-08-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168142",
-      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168144",
@@ -45,37 +36,11 @@
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168138",
-      "source": "UN News — Middle East",
+      "source": "UN News — Peace and security",
       "title": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
       "summary": "New satellite assessments show the destruction of buildings in Gaza has climbed by nearly 10 per cent since October’s faltering ceasefire between Hamas and Israeli forces aim to end the two-year war, which reduced cities to rubble and displaced more than one million people, UN agencies said on Thursday.",
       "published": "2026-08-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168138",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168132",
-      "source": "UN News — Middle East",
-      "title": "Türkiye’s changes to child detention ‘raise serious human rights concerns’",
-      "summary": "UN human rights chief Volker Türk on Thursday&amp;nbsp;condemned an amendment adopted by Türkiye’s parliament that would allow judges to give life sentences to child offenders convicted of serious crimes.",
-      "published": "2026-08-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168132"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168131",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
-      "summary": "As tensions triggered by the US-Iran war continue to ripple across the Middle East, the Security Council held an open debate Thursday on Yemen, where escalating deadly military clashes are worsening an already fragile humanitarian situation amid fears that recent Houthi missile strikes on Saudi Arabia and commercial vessels could threaten the 2022 truce between Houthi militia and the internationally-recognised Government. UN News app users can follow our live coverage here.",
-      "published": "2026-08-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168131",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168130",
-      "source": "UN News — Middle East",
-      "title": "Occupied West Bank: Settler siege of Palestinians marks a new low",
-      "summary": "In the occupied West Bank, the UN human rights office, OHCHR, appealed on Thursday to Israeli authorities to help Palestinian families trapped in their homes by settlers for days, amid an intensifying campaign to seize their land.",
-      "published": "2026-08-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168130",
       "country": "israel"
     },
     {
@@ -87,13 +52,22 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168134"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168121",
-      "source": "UN News — Middle East",
-      "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
-      "summary": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
-      "published": "2026-08-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168131",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
+      "summary": "As tensions triggered by the US-Iran war continue to ripple across the Middle East, the Security Council held an open debate Thursday on Yemen, where escalating deadly military clashes are worsening an already fragile humanitarian situation amid fears that recent Houthi missile strikes on Saudi Arabia and commercial vessels could threaten the 2022 truce between Houthi militia and the internationally-recognised Government. UN News app users can follow our live coverage here.",
+      "published": "2026-08-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168131",
       "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168130",
+      "source": "UN News — Peace and security",
+      "title": "Occupied West Bank: Settler siege of Palestinians marks a new low",
+      "summary": "In the occupied West Bank, the UN human rights office, OHCHR, appealed on Thursday to Israeli authorities to help Palestinian families trapped in their homes by settlers for days, amid an intensifying campaign to seize their land.",
+      "published": "2026-08-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168130",
+      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168126",
@@ -104,13 +78,13 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168126"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168113",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
-      "summary": "The Security Council held an open debate on Tuesday which is expected to address escalating Israeli settler violence in the occupied West Bank as attacks on Palestinians and their property continue. UN News&amp;nbsp;app users can follow here.",
-      "published": "2026-08-11T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168113",
-      "country": "israel"
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168121",
+      "source": "UN News — Peace and security",
+      "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
+      "summary": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
+      "published": "2026-08-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
+      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168118",
@@ -121,6 +95,15 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168118"
     },
     {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168113",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
+      "summary": "The Security Council held an open debate on Tuesday which is expected to address escalating Israeli settler violence in the occupied West Bank as attacks on Palestinians and their property continue. UN News&amp;nbsp;app users can follow here.",
+      "published": "2026-08-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168113",
+      "country": "israel"
+    },
+    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168110",
       "source": "UN News — Peace and security",
       "title": "Myanmar: UN investigators document deliberate military attacks on civilians",
@@ -129,20 +112,20 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168110"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168108",
-      "source": "UN News — Middle East",
-      "title": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
-      "summary": "Israeli forces fired 455 projectiles into south Lebanon and breached Lebanese airspace 97 times between Friday and Sunday, the UN&#039;s peacekeeping mission in the country reported Monday – among the heaviest fire seen in months.",
-      "published": "2026-08-10T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168108"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168109",
       "source": "UN News — Peace and security",
       "title": "Fighting deepens needs and fuels further displacement in Sudan",
       "summary": "Ongoing conflict, displacement and funding shortages continue to deepen needs in Sudan, the UN Office for the Coordination of Humanitarian Affairs (OCHA) warned on Monday, underscoring the need for greater civilian protection.",
       "published": "2026-08-10T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168109"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168108",
+      "source": "UN News — Peace and security",
+      "title": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
+      "summary": "Israeli forces fired 455 projectiles into south Lebanon and breached Lebanese airspace 97 times between Friday and Sunday, the UN&#039;s peacekeeping mission in the country reported Monday – among the heaviest fire seen in months.",
+      "published": "2026-08-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168108"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168102",
@@ -161,29 +144,12 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168093"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168084",
-      "source": "UN News — Middle East",
-      "title": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
-      "summary": "More than 2,500 years after Homer’s epic was first told, Christopher Nolan&#039;s blockbuster retelling of The Odyssey has brought the journey back to big screens worldwide. But, behind the sweeping plot is another character facing an odyssey of its own: the Mediterranean Sea.",
-      "published": "2026-08-07T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168084"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168101",
       "source": "UN News — Peace and security",
       "title": "‘Sudan is losing another generation’ to war, Mohammed warns",
       "summary": "More than 1,000 days of war in Sudan have left millions of children out of school, displaced or exposed to grave violations, the UN Deputy Secretary-General said on Friday, calling for renewed action to end the conflict.&amp;nbsp;",
       "published": "2026-08-07T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168101"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168088",
-      "source": "UN News — Middle East",
-      "title": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
-      "summary": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement supposedly came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
-      "published": "2026-08-06T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
-      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168095",
@@ -218,12 +184,13 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168089"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168081",
-      "source": "UN News — Middle East",
-      "title": "Sharp spike in executions, death sentences in Iran",
-      "summary": "The UN rights chief expressed alarm on Wednesday over the sharp increase in executions and death sentences in Iran since the US-Israeli bombing campaign began in late February, warning that capital punishment is being used to intimidate the population and suppress dissent.",
-      "published": "2026-08-05T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168081"
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168088",
+      "source": "UN News — Peace and security",
+      "title": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
+      "summary": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement supposedly came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
+      "published": "2026-08-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
+      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168087",
@@ -251,28 +218,12 @@
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168077",
-      "source": "UN News — Middle East",
+      "source": "UN News — Peace and security",
       "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
       "summary": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
       "published": "2026-08-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168077",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168074",
-      "source": "UN News — Middle East",
-      "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
-      "summary": "Disruption in the Strait of Hormuz has exposed the vulnerability of global trade to a single maritime chokepoint, with early data showing sharp falls in exports of energy, fertilizers and industrial products.&amp;nbsp;",
-      "published": "2026-08-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168074"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168069",
-      "source": "UN News — Middle East",
-      "title": "Afghanistan hunger crisis intensifies as millions left without food aid",
-      "summary": "Afghanistan’s dire hunger crisis now affects 14 million people including babies fed on little more than weak tea and bread by their despairing and impoverished parents.",
-      "published": "2026-08-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168069"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168076",
@@ -283,13 +234,12 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168076"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168067",
-      "source": "UN News — Middle East",
-      "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
-      "summary": "Israeli forces reportedly killed more than two dozen Palestinians in Gaza and violated Lebanese airspace more than 100 times over the weekend despite ongoing ceasefire agreements, UN agencies and peacekeepers said on Monday.",
-      "published": "2026-08-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168067",
-      "country": "israel"
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168074",
+      "source": "UN News — Peace and security",
+      "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
+      "summary": "Disruption in the Strait of Hormuz has exposed the vulnerability of global trade to a single maritime chokepoint, with early data showing sharp falls in exports of energy, fertilizers and industrial products.&amp;nbsp;",
+      "published": "2026-08-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168074"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168068",
@@ -298,126 +248,6 @@
       "summary": "Drone strikes are posing deadly risks to civilians in Sudan and hampering humanitarian efforts to reach them as attacks continue to affect conflict-hit areas, the UN aid coordination office OCHA&amp;nbsp;said on Monday.",
       "published": "2026-08-03T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168068"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168062",
-      "source": "UN News — Middle East",
-      "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-      "summary": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
-      "published": "2026-07-31T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168062"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168055",
-      "source": "UN News — Middle East",
-      "title": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
-      "summary": "The humanitarian toll is mounting as fighting continues in the Middle East beyond strikes and counterstrikes between the US and Iran, the UN aid coordination office OCHA warned on Thursday, with civilians increasingly at risk and essential infrastructure disrupted in several countries across the region.",
-      "published": "2026-07-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168055",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168045",
-      "source": "UN News — Middle East",
-      "title": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation",
-      "summary": "Violence in the occupied West Bank is worsening as the Israeli Government continues to approve new settlements while settlers and Israeli security forces have “often” acted together to attack local Palestinian communities, the UN’s human rights office (OHCHR) warned on Wednesday.",
-      "published": "2026-07-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168045",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168037",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Updates on Gaza, West Bank amid regional tensions",
-      "summary": "Regional tensions are mounting as the US-Iran war continues and a rising number of Israeli attacks are threatening Gaza’s fragile October ceasefire that ended two years of war with Hamas. Security Council members heard briefings followed by an open debate on Tuesday. UN News app users click here for live coverage.",
-      "published": "2026-07-28T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168037"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168034",
-      "source": "UN News — Middle East",
-      "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
-      "summary": "UN Human Rights Chief Volker Türk expressed concern about ongoing displacement and destruction caused by Israeli strikes against Lebanon as he concluded a two-day visit to the country on Monday.",
-      "published": "2026-07-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168034"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168035",
-      "source": "UN News — Middle East",
-      "title": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
-      "summary": "The United Nations continues to monitor developments in the Occupied Palestinian Territory amid rising violence and greater restrictions in the occupied West Bank.",
-      "published": "2026-07-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168035",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168028",
-      "source": "UN News — Middle East",
-      "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
-      "summary": "A country long known as a meeting point of civilizations, Syria stands once again at a crossroads.",
-      "published": "2026-07-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168028"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168026",
-      "source": "UN News — Middle East",
-      "title": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
-      "summary": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice-weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
-      "published": "2026-07-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168026",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168027",
-      "source": "UN News — Middle East",
-      "title": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime",
-      "summary": "Syria has an opportunity not only to recover from conflict but to build “a future that is more stable, more inclusive and more prosperous for all Syrians”, UN Secretary-General António Guterres said in Damascus on Saturday as he began a landmark visit to the country.",
-      "published": "2026-07-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168027"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168016",
-      "source": "UN News — Middle East",
-      "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
-      "summary": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.&amp;nbsp;",
-      "published": "2026-07-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168010",
-      "source": "UN News — Middle East",
-      "title": "Syria ‘not alone’ in locating missing persons, tackling displacement",
-      "summary": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday&amp;nbsp;as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
-      "published": "2026-07-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168010"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168009",
-      "source": "UN News — Middle East",
-      "title": "Iran urged to stop protest-related executions",
-      "summary": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits.",
-      "published": "2026-07-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168009",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168006",
-      "source": "UN News — Middle East",
-      "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
-      "summary": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
-      "published": "2026-07-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168003",
-      "source": "UN News — Middle East",
-      "title": "Thousands prevented from returning home to southern Lebanon",
-      "summary": "As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.",
-      "published": "2026-07-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168003",
-      "country": "lebanon"
     }
   ]
 }
