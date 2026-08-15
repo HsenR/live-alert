@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-08-15T12:10:58.982Z",
+  "fetchedAt": "2026-08-15T12:55:59.100Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "source": "UN News — Middle East",
+      "title": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+      "summary": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday.&amp;nbsp;",
+      "published": "2026-08-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168142",
       "source": "UN News — Middle East",
@@ -9,15 +18,6 @@
       "published": "2026-08-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168142",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "source": "UN News — Peace and security",
-      "title": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-      "summary": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday.&amp;nbsp;",
-      "published": "2026-08-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168144",
@@ -410,15 +410,6 @@
       "published": "2026-07-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168003",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1167991",
-      "source": "UN News — Middle East",
-      "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
-      "summary": "Amid intensified deadly Israeli attacks in Gaza, the UN chief and top officials condemned the killings while a surge violence rocked the West Bank and aid agencies scrambled to help Palestinians.",
-      "published": "2026-07-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167991",
-      "country": "israel"
     }
   ]
 }
