@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T17:32:18.565Z",
+  "fetchedAt": "2026-08-16T17:52:23.164Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168136",
@@ -298,14 +298,6 @@
       "published": "2026-08-03T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168067",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168068",
-      "source": "UN News — Peace and security",
-      "title": "Drone strikes threaten civilians and aid operations in Sudan",
-      "summary": "Drone strikes are posing deadly risks to civilians in Sudan and hampering humanitarian efforts to reach them as attacks continue to affect conflict-hit areas, the UN aid coordination office OCHA&amp;nbsp;said on Monday.",
-      "published": "2026-08-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168068"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168062",
