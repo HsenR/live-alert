@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-16T16:56:57.998Z",
+  "fetchedAt": "2026-08-16T17:12:10.680Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168136",
+      "source": "UN News — Middle East",
+      "title": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
+      "summary": "Communities in Syria are clearing rubble and rebuilding neighbourhoods and livelihoods torn down in the more than a decade of conflict and crisis in the country.",
+      "published": "2026-08-16T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168136"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168146",
       "source": "UN News — Peace and security",
@@ -292,14 +300,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168068",
-      "source": "UN News — Peace and security",
-      "title": "Drone strikes threaten civilians and aid operations in Sudan",
-      "summary": "Drone strikes are posing deadly risks to civilians in Sudan and hampering humanitarian efforts to reach them as attacks continue to affect conflict-hit areas, the UN aid coordination office OCHA&amp;nbsp;said on Monday.",
-      "published": "2026-08-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168068"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168062",
       "source": "UN News — Middle East",
       "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
@@ -409,15 +409,6 @@
       "published": "2026-07-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168003",
-      "source": "UN News — Middle East",
-      "title": "Thousands prevented from returning home to southern Lebanon",
-      "summary": "As months of conflict continue to devastate communities across Lebanon, families are being left without shelter, healthcare and other essential services.",
-      "published": "2026-07-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168003",
-      "country": "lebanon"
     }
   ]
 }
