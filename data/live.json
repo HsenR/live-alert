@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-08-17T18:37:19.643Z",
+  "fetchedAt": "2026-08-17T19:14:02.391Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168151",
+      "source": "UN News — Peace and security",
+      "title": "Yemen: Türk alarmed by rising civilian toll, urges restraint",
+      "summary": "Escalating conflict in Yemen is killing and injuring a growing number of civilians, the UN human rights chief warned on Monday, as Houthi rebels also strike Saudi Arabia and Red Sea shipping linked to the wider Iran–US confrontation.",
+      "published": "2026-08-17T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168151",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168136",
       "source": "UN News — Middle East",
