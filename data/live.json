@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-08-17T23:34:32.869Z",
+  "fetchedAt": "2026-08-17T23:55:17.330Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168155",
+      "source": "UN News — Middle East",
+      "title": "Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza",
+      "summary": "Humanitarian workers have reached Palestinian families who had been trapped for days by Israeli settlers in Qusra village in the northern West Bank, the UN said on Monday, as officials warned that the standoff must not become &quot;the new normal.&quot;",
+      "published": "2026-08-17T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168155",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168151",
       "source": "UN News — Peace and security",
@@ -409,15 +418,6 @@
       "published": "2026-07-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168009",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168006",
-      "source": "UN News — Middle East",
-      "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
-      "summary": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
-      "published": "2026-07-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
-      "country": "israel"
     }
   ]
 }
