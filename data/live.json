@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-18T16:15:01.363Z",
+  "fetchedAt": "2026-08-18T16:47:46.874Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168158",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
+      "summary": "The Security Council is meeting on Libya Tuesday as the country faces a political impasse delaying long-planned elections alongside heatwaves, tensions and violence, including drone strikes last week that left a major oil refinery ablaze. UN News app users can follow here.",
+      "published": "2026-08-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168158"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168155",
       "source": "UN News — Middle East",
