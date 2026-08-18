@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-08-18T17:14:17.211Z",
+  "fetchedAt": "2026-08-18T17:41:26.053Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168160",
-      "source": "UN News — Peace and security",
+      "source": "UN News — Middle East",
       "title": "Gaza: Only three per cent of cropland available to grow food",
       "summary": "Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.",
       "published": "2026-08-18T12:00:00.000Z",
@@ -410,15 +410,6 @@
       "summary": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday&amp;nbsp;as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
       "published": "2026-07-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168010"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168009",
-      "source": "UN News — Middle East",
-      "title": "Iran urged to stop protest-related executions",
-      "summary": "Independent UN human rights investigators on Thursday called for Iran to immediately halt the execution of 10 men who took part in a protest in the central city of Isfahan earlier this year, warning that some of their relatives have already been called for final visits.",
-      "published": "2026-07-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168009",
-      "country": "iran"
     }
   ]
 }
