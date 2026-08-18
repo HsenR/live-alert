@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-08-18T16:47:46.874Z",
+  "fetchedAt": "2026-08-18T17:14:17.211Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168160",
+      "source": "UN News — Peace and security",
+      "title": "Gaza: Only three per cent of cropland available to grow food",
+      "summary": "Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.",
+      "published": "2026-08-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168160",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168158",
       "source": "UN News — Peace and security",
@@ -274,14 +283,6 @@
       "summary": "Russian forces hammered Ukraine with ballistic missiles and long-range drones overnight on Tuesday, killing at least 17 civilians – mainly around Kyiv – and injuring another 44,&amp;nbsp;the UN human rights office in Ukraine reported.",
       "published": "2026-08-05T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168082"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168080",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat",
-      "summary": "The Security Council met on Wednesday to examine the persistent threat posed by the terrorist group ISIL, also known as Dae’sh, to international peace and security. At a conference in June, the acting head of the UN counter-terrorism office stated that Al Qaeda, Da’esh, and their affiliates “remain adaptive and resilient”.&amp;nbsp; Moreover, they are using artificial intelligence and other emerging technologies to expand their reach, recruit and mobilise resources.&amp;nbsp;",
-      "published": "2026-08-05T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168080"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168077",
