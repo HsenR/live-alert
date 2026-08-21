@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-08-21T20:09:46.356Z",
+  "fetchedAt": "2026-08-21T20:36:41.677Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168186",
+      "source": "UN News — Peace and security",
+      "title": "New initiative launched to shield terrorism victims from online harm",
+      "summary": "The UN has launched a new initiative to protect victims of terrorist attacks from online harm and re-traumatisation, drawing on harrowing survivor accounts, from the Nova Music Festival in Israel to an attack on a FIFA World Cup final viewing party in Uganda.",
+      "published": "2026-08-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168186",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168184",
+      "source": "UN News — Peace and security",
+      "title": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
+      "summary": "The global funding crisis for humanitarian work is taking a growing toll on the most vulnerable children in Somalia, where some aid programmes and facilities have been forced to shut down.",
+      "published": "2026-08-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168184"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168180",
       "source": "UN News — Middle East",
@@ -277,22 +294,6 @@
       "published": "2026-08-06T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168095",
-      "source": "UN News — Peace and security",
-      "title": "‘A clear violation’: Guterres deplores deadliest attack on Kyiv this year",
-      "summary": "UN Secretary-General&amp;nbsp;António Guterres condemned on Wednesday the deadliest Russian strikes on Kyiv this year, which killed 17 people and caused extensive damage to civilian infrastructure overnight.",
-      "published": "2026-08-06T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168095"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168094",
-      "source": "UN News — Peace and security",
-      "title": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
-      "summary": "Independent UN human rights experts on Thursday condemned a fresh round of US sanctions against Cuba, calling them an attempt to force change on “a sovereign State through threats and coercion.”",
-      "published": "2026-08-06T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168094"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168081",
