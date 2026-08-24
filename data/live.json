@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-24T14:22:07.741Z",
+  "fetchedAt": "2026-08-24T15:05:29.202Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168188",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: War, hunger, flooding escalates in Sudan",
+      "summary": "The Security Council is meeting at 10am (local time) Monday on the current situation in Sudan as escalating war, drone strikes against civilians, displacement, hunger and flooding affects millions of Sudanese and UN agencies strive to deliver lifesaving aid. UN News app users can follow our live coverage here.",
+      "published": "2026-08-24T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168188"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168186",
       "source": "UN News — Peace and security",
@@ -277,14 +285,6 @@
       "summary": "More than 2,500 years after Homer’s epic was first told, Christopher Nolan&#039;s blockbuster retelling of The Odyssey has brought the journey back to big screens worldwide. But, behind the sweeping plot is another character facing an odyssey of its own: the Mediterranean Sea.",
       "published": "2026-08-07T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168084"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168101",
-      "source": "UN News — Peace and security",
-      "title": "‘Sudan is losing another generation’ to war, Mohammed warns",
-      "summary": "More than 1,000 days of war in Sudan have left millions of children out of school, displaced or exposed to grave violations, the UN Deputy Secretary-General said on Friday, calling for renewed action to end the conflict.&amp;nbsp;",
-      "published": "2026-08-07T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168101"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168088",
