@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-25T19:05:01.074Z",
+  "fetchedAt": "2026-08-25T19:42:18.841Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168201",
+      "source": "UN News — Peace and security",
+      "title": "As wars spread, the global food system unravels",
+      "summary": "A family with four children abandoned its farm in Somalia after armed groups arrived and demanded payments for the right to continue cultivating the land. They walked roughly 100 kilometers to a displacement camp. One of the children died along the way.",
+      "published": "2026-08-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168201"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168200",
       "source": "UN News — Peace and security",
