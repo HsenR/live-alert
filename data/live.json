@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-26T21:20:29.939Z",
+  "fetchedAt": "2026-08-27T00:53:23.460Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168204",
@@ -9,6 +9,22 @@
       "published": "2026-08-26T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168204",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168211",
+      "source": "UN News — Peace and security",
+      "title": "Red Sea nations step up maritime cooperation as regional threats grow",
+      "summary": "From piracy and migrant smuggling to disruptions affecting global shipping routes, countries bordering one of the world’s busiest waterways are seeking closer cooperation to stay ahead of fast-evolving maritime threats.",
+      "published": "2026-08-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168211"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168210",
+      "source": "UN News — Peace and security",
+      "title": "Explainer: UN peace operations work to create, preserve peace",
+      "summary": "Supporting the first democratic elections after brutal civil wars in Mozambique and Cambodia. Disarming thousands of child soldiers in Sierra Leone. Helping to secure Namibia’s independence from South Africa. These are some of the contributions of UN operations around the world to help countries transition from conflict to lasting peace.",
+      "published": "2026-08-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168210"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168203",
@@ -286,14 +302,6 @@
       "published": "2026-08-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168126",
-      "source": "UN News — Peace and security",
-      "title": "Sudan: Attacks and further displacement in Blue Nile and North Kordofan",
-      "summary": "The United Nations has once again urged warring parties in Sudan to protect civilians as the fighting continues to take a heavy toll on the population.",
-      "published": "2026-08-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168126"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168113",
