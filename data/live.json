@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-08-29T19:44:11.404Z",
+  "fetchedAt": "2026-08-29T21:56:44.750Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168229",
-      "source": "UN News — Peace and security",
+      "source": "UN News — Middle East",
       "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
       "summary": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadly week in war-ravaged Gaza, the UN emergency relief agency, OCHA, said on Friday.",
       "published": "2026-08-28T12:00:00.000Z",
@@ -421,14 +421,6 @@
       "published": "2026-08-03T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168067",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/07/1168062",
-      "source": "UN News — Middle East",
-      "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-      "summary": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
-      "published": "2026-07-31T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168062"
     }
   ]
 }
