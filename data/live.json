@@ -1,6 +1,31 @@
 {
-  "fetchedAt": "2026-08-28T16:48:14.226Z",
+  "fetchedAt": "2026-08-29T00:45:44.414Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168229",
+      "source": "UN News — Peace and security",
+      "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
+      "summary": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadly week in war-ravaged Gaza, the UN emergency relief agency, OCHA, said on Friday.",
+      "published": "2026-08-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168229",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168222",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Deadly gang attacks spike in Haiti",
+      "summary": "Following a deadly spate of gang attacks on civilians in Haiti and amid reports of illicit weapons slipping into the Caribbean country, the Security Council has called an emergency meeting at 3pm (local time) to hear and discuss the latest developments. UN News app users can follow our coverage here.",
+      "published": "2026-08-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168222"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168224",
+      "source": "UN News — Peace and security",
+      "title": "Risks of child recruitment by armed groups rise in post-quake Colombia",
+      "summary": "The recent earthquake in Colombia could increase the risk of child recruitment by armed groups in Chocó and Valle del Cauca, where thousands of children remain out of school in areas already affected by conflict, the UN warned on Friday.",
+      "published": "2026-08-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168224"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168220",
       "source": "UN News — Middle East",
@@ -276,22 +301,6 @@
       "published": "2026-08-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168142",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168144",
-      "source": "UN News — Peace and security",
-      "title": "An attack on healthcare every six hours, and no one held to account",
-      "summary": "Across the world, healthcare has suffered more than 10,000 attacks in the past eight years, including during the brutal conflict in Ukraine and efforts to contain the current Ebola outbreak spreading rapidly in the eastern Democratic Republic of the Congo (DRC).&amp;nbsp;",
-      "published": "2026-08-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168144"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168141",
-      "source": "UN News — Peace and security",
-      "title": "Sudan: The harrowing reality of giving birth in a war zone",
-      "summary": "Sudanese women about to give birth are losing their babies and sometimes their own lives because of a lack of specialist healthcare support, amid the ongoing war, UN humanitarians said on Friday.",
-      "published": "2026-08-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168141"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168138",
