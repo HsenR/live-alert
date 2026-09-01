@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-08-31T23:20:38.106Z",
+  "fetchedAt": "2026-09-01T01:52:58.200Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168231",
+      "source": "UN News — Peace and security",
+      "title": "‘Every step towards disarmament matters,’ nuclear testing survivors warn",
+      "summary": "He was born without arms, a legacy of four decades of nuclear explosions at the Semipalatinsk test site in his native Kazakhstan.",
+      "published": "2026-08-31T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168231"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168229",
       "source": "UN News — Middle East",
@@ -275,14 +283,6 @@
       "summary": "Communities in Syria are clearing rubble and rebuilding neighbourhoods and livelihoods torn down in the more than a decade of conflict and crisis in the country.",
       "published": "2026-08-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168136"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168146",
-      "source": "UN News — Peace and security",
-      "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
-      "summary": "Demobilised former combatants are actively joining the fight against Ebola by participating in public information campaigns in the east of the Democratic Republic of the Congo (DRC).&amp;nbsp;",
-      "published": "2026-08-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168146"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168147",
