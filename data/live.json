@@ -1,6 +1,31 @@
 {
-  "fetchedAt": "2026-09-03T10:09:54.624Z",
+  "fetchedAt": "2026-09-03T14:29:35.975Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168264",
+      "source": "UN News — Middle East",
+      "title": "‘Don’t give up’: Syrian women’s ongoing search for the missing",
+      "summary": "Yasmin Al-Mashaan lost five brothers during more than a decade of conflict in Syria. Two were forcibly disappeared. Three were killed during peaceful demonstrations or by snipers loyal to the Bashar Al-Assad regime.",
+      "published": "2026-09-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168264"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168267",
+      "source": "UN News — Peace and security",
+      "title": "Repression of political opposition surges in post-election Zambia",
+      "summary": "Following Zambia’s contested presidential and parliamentary elections almost three weeks ago, the crackdown on political opposition has intensified, raising concerns about the future of democracy in the country,&amp;nbsp;according to a UN Human Rights Council-appointed expert.",
+      "published": "2026-09-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168267"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168268",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
+      "summary": "Fighting between the United States and Iran has sharply escalated after a month-long lull, with the two sides exchanging strikes as fears grow over further civilian casualties.",
+      "published": "2026-09-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168268",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168238",
       "source": "UN News — Middle East",
@@ -276,14 +301,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168158",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
-      "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with political division, armed insecurity and struggling institutions clearly makes the situation a peace and security issue. UN News app users can follow our live coverage here.",
-      "published": "2026-08-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168158"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168155",
       "source": "UN News — Middle East",
       "title": "Qusra siege eases as UN reaches trapped families, but crisis deepens in Gaza",
@@ -412,14 +429,6 @@
       "published": "2026-08-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168077",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168074",
-      "source": "UN News — Middle East",
-      "title": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
-      "summary": "Disruption in the Strait of Hormuz has exposed the vulnerability of global trade to a single maritime chokepoint, with early data showing sharp falls in exports of energy, fertilizers and industrial products.&amp;nbsp;",
-      "published": "2026-08-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168074"
     }
   ]
 }
