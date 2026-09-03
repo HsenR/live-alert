@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-03T20:19:16.009Z",
+  "fetchedAt": "2026-09-03T22:39:35.047Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168275",
+      "source": "UN News — Middle East",
+      "title": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
+      "summary": "Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint in violation of a landmark Security Council resolution, UN Spokesperson Stéphane Dujarric said on Thursday.",
+      "published": "2026-09-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168275"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168271",
       "source": "UN News — Middle East",
@@ -420,14 +428,6 @@
       "published": "2026-08-06T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168081",
-      "source": "UN News — Middle East",
-      "title": "Sharp spike in executions, death sentences in Iran",
-      "summary": "The UN rights chief expressed alarm on Wednesday over the sharp increase in executions and death sentences in Iran since the US-Israeli bombing campaign began in late February, warning that capital punishment is being used to intimidate the population and suppress dissent.",
-      "published": "2026-08-05T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168081"
     }
   ]
 }
