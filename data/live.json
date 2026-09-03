@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-03T14:29:35.975Z",
+  "fetchedAt": "2026-09-03T17:57:02.982Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168271",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
+      "summary": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council met Thursday to be briefed on the latest developments and discuss the way ahead.",
+      "published": "2026-09-03T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168271"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168264",
       "source": "UN News — Middle East",
@@ -420,15 +428,6 @@
       "summary": "The UN rights chief expressed alarm on Wednesday over the sharp increase in executions and death sentences in Iran since the US-Israeli bombing campaign began in late February, warning that capital punishment is being used to intimidate the population and suppress dissent.",
       "published": "2026-08-05T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168081"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168077",
-      "source": "UN News — Middle East",
-      "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
-      "summary": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
-      "published": "2026-08-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168077",
-      "country": "israel"
     }
   ]
 }
