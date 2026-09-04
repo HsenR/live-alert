@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-09-04T16:55:27.769Z",
+  "fetchedAt": "2026-09-04T19:11:18.417Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168282",
+      "source": "UN News — Middle East",
+      "title": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
+      "summary": "Israeli security forces forcibly displaced the entire population of three Palestine refugee camps in the occupied West Bank in January and February last year – and continue to prevent their return, in violation of international law, according to a new report&amp;nbsp;by the UN human rights office, OHCHR.",
+      "published": "2026-09-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168282",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168278",
       "source": "UN News — Peace and security",
@@ -419,15 +428,6 @@
       "summary": "More than 2,500 years after Homer’s epic was first told, Christopher Nolan&#039;s blockbuster retelling of The Odyssey has brought the journey back to big screens worldwide. But, behind the sweeping plot is another character facing an odyssey of its own: the Mediterranean Sea.",
       "published": "2026-08-07T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168084"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168088",
-      "source": "UN News — Middle East",
-      "title": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
-      "summary": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement supposedly came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
-      "published": "2026-08-06T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
-      "country": "israel"
     }
   ]
 }
