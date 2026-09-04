@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-04T13:28:29.802Z",
+  "fetchedAt": "2026-09-04T16:55:27.769Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168278",
+      "source": "UN News — Peace and security",
+      "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
+      "summary": "A new airstrike overnight damaged one of the main warehouses used by the World Health Organization (WHO) in Ukraine to store humanitarian medical supplies in the Kyiv region, the UN agency said on Friday.",
+      "published": "2026-09-04T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168278"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168275",
       "source": "UN News — Middle East",
@@ -289,14 +297,6 @@
       "published": "2026-08-19T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168171",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168165",
-      "source": "UN News — Peace and security",
-      "title": "Sudan war: 200,000 newly displaced as fighting and floods intensify",
-      "summary": "Intensifying fighting in Sudan has displaced at least another 200,000 people since late 2025, while destructive seasonal floods are compounding the massive humanitarian emergency there, the UN International Organization for Migration (IOM) said on Wednesday.",
-      "published": "2026-08-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168165"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168163",
