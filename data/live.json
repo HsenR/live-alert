@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T00:53:56.270Z",
+  "fetchedAt": "2026-09-05T04:59:30.377Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168282",
@@ -289,14 +289,6 @@
       "summary": "Russian ballistic missile strikes killed 17 people and injured more than 40 in and around the Ukrainian capital Kyiv on Thursday, local authorities reported.",
       "published": "2026-08-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168181"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168173",
-      "source": "UN News — Peace and security",
-      "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
-      "summary": "The under-reported humanitarian crisis in South Sudan risks deepening with the real possibility of further atrocity crimes unless renewed fighting stops, a UN-backed probe said on Thursday.",
-      "published": "2026-08-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168173"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168171",
