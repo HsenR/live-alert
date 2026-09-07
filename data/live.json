@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-07T00:57:36.746Z",
+  "fetchedAt": "2026-09-07T05:32:49.348Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168266",
+      "source": "UN News — Peace and security",
+      "title": "New reservoir offers innovative solution to South Sudan cattle beef",
+      "summary": "At the end of a history-laden path winding through palm trees and scattered ruins – remnants of once-vibrant villages destroyed by cattle raids – lies a rare sight in this dry part of Terekeka county in South Sudan: a sparkling, fresh water source.",
+      "published": "2026-09-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168266"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168282",
       "source": "UN News — Middle East",
