@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-08T13:50:21.040Z",
+  "fetchedAt": "2026-09-08T17:36:01.090Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168292",
+      "source": "UN News — Middle East",
+      "title": "Syria’s transition hinges on justice for all, UN Human Rights Council hears",
+      "summary": "A successful and lasting transition in Syria requires comprehensive accountability, inclusion and guarantees that violations will not be repeated, UN independent investigators told the Human Rights Council in Geneva on Tuesday.",
+      "published": "2026-09-08T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168292"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168291",
       "source": "UN News — Middle East",
@@ -291,15 +299,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168188"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168186",
-      "source": "UN News — Peace and security",
-      "title": "New initiative launched to shield terrorism victims from online harm",
-      "summary": "The UN has launched a new initiative to protect victims of terrorist attacks from online harm and re-traumatisation, drawing on harrowing survivor accounts, from the Nova Music Festival in Israel to an attack on a FIFA World Cup final viewing party in Uganda.",
-      "published": "2026-08-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168186",
-      "country": "israel"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168180",
       "source": "UN News — Middle East",
       "title": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
@@ -412,15 +411,6 @@
       "published": "2026-08-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168113",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
-      "summary": "The Security Council held an open debate on Tuesday which is expected to address escalating Israeli settler violence in the occupied West Bank as attacks on Palestinians and their property continue. UN News&amp;nbsp;app users can follow here.",
-      "published": "2026-08-11T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168113",
-      "country": "israel"
     }
   ]
 }
