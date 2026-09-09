@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-09T17:21:37.265Z",
+  "fetchedAt": "2026-09-09T19:52:10.159Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168302",
+      "source": "UN News — Peace and security",
+      "title": "UN hails Libya election deal as Security Council urges Libyans to seize the moment",
+      "summary": "The UN Security Council has welcomed a breakthrough agreement between Libya&#039;s rival political blocs, calling it &quot;an important step&quot; towards the country&#039;s first national elections in over a decade – while pressing all sides to move quickly from paper to practice.",
+      "published": "2026-09-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168302"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168301",
       "source": "UN News — Peace and security",
@@ -280,14 +288,6 @@
       "summary": "Members of the minority ethnic Rohingya Muslim group in Myanmar are “suffering, misery, and cruelty on multiple levels and across the country that is heartbreaking,” according to the UN High Commissioner for Human Rights.",
       "published": "2026-08-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168200"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168196",
-      "source": "UN News — Peace and security",
-      "title": "UN chief, Red Cross renew call for rules on lethal autonomous weapons",
-      "summary": "Amid unconfirmed reports that fully autonomous and AI-guided drones are now being used on the battlefield, UN chief António Guterres and the President of the Red Cross on Tuesday renewed their urgent call for stricter global controls, before it is too late.",
-      "published": "2026-08-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168196"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168193",
