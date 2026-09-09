@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-09-09T13:53:51.729Z",
+  "fetchedAt": "2026-09-09T17:21:37.265Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168301",
+      "source": "UN News — Peace and security",
+      "title": "Guterres urges leaders to invest in peace as conflicts deepen",
+      "summary": "The UN Secretary-General appealed on Wednesday for world leaders to invest in peace as violence, division and conflict exacerbate suffering worldwide.&amp;nbsp;",
+      "published": "2026-09-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168301"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168300",
+      "source": "UN News — Peace and security",
+      "title": "Record number of attacks on education, global fund warns",
+      "summary": "While September traditionally marks the start of the school year across the northern hemisphere, a staggering 93 million children are not in class at all amid an unprecedented number of attacks on learning, education experts warned on Wednesday.",
+      "published": "2026-09-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168300"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168298",
       "source": "UN News — Middle East",
@@ -281,22 +297,6 @@
       "published": "2026-08-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168193",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168192",
-      "source": "UN News — Peace and security",
-      "title": "Two UN peacekeepers killed in South Sudan ambush",
-      "summary": "Two UN peacekeepers have been killed and a total of seven people injured after unidentified gunmen ambushed a patrol in South Sudan’s eastern Jonglei state on Monday.",
-      "published": "2026-08-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168192"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168191",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Civilian suffering grows in Russia-Ukraine war",
-      "summary": "As spiralling drone and missile attacks on civilians in the ongoing Russia-Ukraine war continue, top UN officials told the Security Council on Monday that every diplomatic effort must work towards a full, immediate and unconditional ceasefire.&amp;nbsp;UN News app users can follow our live coverage here.",
-      "published": "2026-08-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168191"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168180",
