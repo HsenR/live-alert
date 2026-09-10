@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T21:51:25.319Z",
+  "fetchedAt": "2026-09-10T23:27:20.304Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168309",
@@ -8,6 +8,22 @@
       "summary": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments.",
       "published": "2026-09-10T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168309"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168312",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
+      "summary": "A drone strike on the protective structure at the Chornobyl Nuclear Power Plant could have endangered the safety of millions of people, UN Development Programme (UNDP) Administrator Alexander De Croo told reporters via video link from Kyiv on Thursday.",
+      "published": "2026-09-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168312"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168310",
+      "source": "UN News — Peace and security",
+      "title": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
+      "summary": "Twenty-five years ago, the heinous terrorist attacks of 11 September 2001 against the United States claimed thousands of lives and represented “an assault on humanity itself”, the UN chief said on Thursday.",
+      "published": "2026-09-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168310"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168307",
@@ -280,22 +296,6 @@
       "summary": "Supporting the first democratic elections after brutal civil wars in Mozambique and Cambodia. Disarming thousands of child soldiers in Sierra Leone. Helping to secure Namibia’s independence from South Africa. These are some of the contributions of UN operations around the world to help countries transition from conflict to lasting peace.",
       "published": "2026-08-26T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168210"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168203",
-      "source": "UN News — Peace and security",
-      "title": "Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere",
-      "summary": "The killings in Kenscoff began late Sunday, when armed men descended on the farming community in the hills overlooking Haiti’s capital, setting homes ablaze and attacking residents. By Monday, bodies lay in the streets and survivors were searching for missing relatives.",
-      "published": "2026-08-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168203"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168201",
-      "source": "UN News — Peace and security",
-      "title": "As wars spread, the global food system unravels",
-      "summary": "A family with four children abandoned its farm in Somalia after armed groups arrived and demanded payments for the right to continue cultivating the land. They walked roughly 100 kilometers to a displacement camp. One of the children died along the way.",
-      "published": "2026-08-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168201"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168193",
