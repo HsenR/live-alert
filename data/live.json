@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-10T19:37:43.263Z",
+  "fetchedAt": "2026-09-10T21:51:25.319Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168309",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
+      "summary": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments.",
+      "published": "2026-09-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168309"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168307",
       "source": "UN News — Peace and security",
@@ -393,15 +401,6 @@
       "published": "2026-08-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168131",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168130",
-      "source": "UN News — Middle East",
-      "title": "Occupied West Bank: Settler siege of Palestinians marks a new low",
-      "summary": "In the occupied West Bank, the UN human rights office, OHCHR, appealed on Thursday to Israeli authorities to help Palestinian families trapped in their homes by settlers for days, amid an intensifying campaign to seize their land.",
-      "published": "2026-08-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168130",
-      "country": "israel"
     }
   ]
 }
