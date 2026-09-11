@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-11T18:09:10.035Z",
+  "fetchedAt": "2026-09-11T20:54:58.004Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168318",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+      "summary": "The Security Council meets top of the hour to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council&#039;s counter-terrorism machinery in 2001. Briefers are expected to zero in on militants&#039; growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning. Members are also set to adopt a presidential statement – the Council&#039;s first on terrorism in five years – after reportedly tense talks over references to specific",
+      "published": "2026-09-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168318"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168313",
       "source": "UN News — Peace and security",
@@ -288,14 +296,6 @@
       "published": "2026-08-26T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168204",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168211",
-      "source": "UN News — Peace and security",
-      "title": "Red Sea nations step up maritime cooperation as regional threats grow",
-      "summary": "From piracy and migrant smuggling to disruptions affecting global shipping routes, countries bordering one of the world’s busiest waterways are seeking closer cooperation to stay ahead of fast-evolving maritime threats.",
-      "published": "2026-08-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168211"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168193",
