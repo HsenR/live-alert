@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-11T11:12:57.462Z",
+  "fetchedAt": "2026-09-11T14:59:02.445Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168313",
+      "source": "UN News — Peace and security",
+      "title": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
+      "summary": "Terrorist groups are recruiting, raising money and even planning operations through propaganda that is now “embedded” in every stage of their work, a new UN report warns – and governments are struggling to keep pace.&amp;nbsp;",
+      "published": "2026-09-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168313"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168309",
       "source": "UN News — Middle East",
@@ -288,14 +296,6 @@
       "summary": "From piracy and migrant smuggling to disruptions affecting global shipping routes, countries bordering one of the world’s busiest waterways are seeking closer cooperation to stay ahead of fast-evolving maritime threats.",
       "published": "2026-08-26T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168211"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168210",
-      "source": "UN News — Peace and security",
-      "title": "Explainer: UN peace operations work to create, preserve peace",
-      "summary": "Supporting the first democratic elections after brutal civil wars in Mozambique and Cambodia. Disarming thousands of child soldiers in Sierra Leone. Helping to secure Namibia’s independence from South Africa. These are some of the contributions of UN operations around the world to help countries transition from conflict to lasting peace.",
-      "published": "2026-08-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168210"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168193",
