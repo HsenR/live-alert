@@ -1,11 +1,20 @@
 {
-  "fetchedAt": "2026-09-12T15:53:33.738Z",
+  "fetchedAt": "2026-09-12T17:54:24.434Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168320",
+      "source": "UN News — Middle East",
+      "title": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
+      "summary": "Ola&amp;nbsp;Ishtiwi&amp;nbsp;sits with her children in front of&amp;nbsp;the&amp;nbsp;remains of her home in the Al-Tuffah neighbourhood in eastern Gaza City, a few metres away from&amp;nbsp;a series of&amp;nbsp;painted cement blocks&amp;nbsp;Israel has&amp;nbsp;placed to mark what has become known as the&amp;nbsp;“yellow line”.",
+      "published": "2026-09-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168320",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168318",
       "source": "UN News — Peace and security",
       "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
-      "summary": "The Security Council met to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council&#039;s counter-terrorism machinery in 2001. Briefers are expected to zero in on militants&#039; growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning. Members are also set to adopt a presidential statement – the Council&#039;s first on terrorism in five years – after reportedly tense talks over references to specific groups and new te",
+      "summary": "The Security Council met to mark 25 years since the 9/11 attacks with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council&#039;s counter-terrorism machinery in 2001. Briefers highlighted militants&#039; growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning.",
       "published": "2026-09-11T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168318"
     },
@@ -392,15 +401,6 @@
       "summary": "UN human rights chief Volker Türk on Thursday&amp;nbsp;condemned an amendment adopted by Türkiye’s parliament that would allow judges to give life sentences to child offenders convicted of serious crimes.",
       "published": "2026-08-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168132"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168131",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
-      "summary": "As tensions triggered by the US-Iran war continue to ripple across the Middle East, the Security Council held an open debate Thursday on Yemen, where escalating deadly military clashes are worsening an already fragile humanitarian situation amid fears that recent Houthi missile strikes on Saudi Arabia and commercial vessels could threaten the 2022 truce between Houthi militia and the internationally-recognised Government. UN News app users can follow our live coverage here.",
-      "published": "2026-08-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168131",
-      "country": "iran"
     }
   ]
 }
