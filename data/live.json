@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-14T20:31:05.789Z",
+  "fetchedAt": "2026-09-14T23:26:02.995Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168331",
+      "source": "UN News — Peace and security",
+      "title": "UN agencies warn humanitarian system in Sudan ‘could collapse’",
+      "summary": "UN aid agencies on Monday said they may be forced to scale back humanitarian aid in Sudan – home of the world’s worst hunger and displacement crisis – due to funding shortfalls.",
+      "published": "2026-09-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168331"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168328",
       "source": "UN News — Peace and security",
@@ -271,14 +279,6 @@
       "summary": "Following a deadly spate of gang attacks on civilians in Haiti and amid reports of illicit weapons slipping into the Caribbean country, the Security Council has called an emergency meeting at 3pm (local time) to hear and discuss the latest developments. UN News app users can follow our coverage here.",
       "published": "2026-08-28T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168222"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168224",
-      "source": "UN News — Peace and security",
-      "title": "Risks of child recruitment by armed groups rise in post-quake Colombia",
-      "summary": "The recent earthquake in Colombia could increase the risk of child recruitment by armed groups in Chocó and Valle del Cauca, where thousands of children remain out of school in areas already affected by conflict, the UN warned on Friday.",
-      "published": "2026-08-28T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168224"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168220",
