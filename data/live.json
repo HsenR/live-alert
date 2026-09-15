@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-09-14T23:26:02.995Z",
+  "fetchedAt": "2026-09-15T01:36:22.941Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168333",
+      "source": "UN News — Middle East",
+      "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
+      "summary": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA.",
+      "published": "2026-09-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168333"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168328",
+      "source": "UN News — Middle East",
+      "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
+      "summary": "Independent UN human rights investigators called for an immediate cessation of hostilities on Monday following a series of United States airstrikes on Iran in recent weeks that have killed civilians as tensions ripple through the region.",
+      "published": "2026-09-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168328",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168331",
       "source": "UN News — Peace and security",
@@ -8,15 +25,6 @@
       "summary": "UN aid agencies on Monday said they may be forced to scale back humanitarian aid in Sudan – home of the world’s worst hunger and displacement crisis – due to funding shortfalls.",
       "published": "2026-09-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168331"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168328",
-      "source": "UN News — Peace and security",
-      "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
-      "summary": "Independent UN human rights investigators called for an immediate cessation of hostilities on Monday following a series of United States airstrikes on Iran in recent weeks that have killed civilians as tensions ripple through the region.",
-      "published": "2026-09-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168328",
-      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168325",
@@ -273,14 +281,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168222",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Deadly gang attacks spike in Haiti",
-      "summary": "Following a deadly spate of gang attacks on civilians in Haiti and amid reports of illicit weapons slipping into the Caribbean country, the Security Council has called an emergency meeting at 3pm (local time) to hear and discuss the latest developments. UN News app users can follow our coverage here.",
-      "published": "2026-08-28T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168222"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168220",
       "source": "UN News — Middle East",
       "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
@@ -399,24 +399,6 @@
       "summary": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday.&amp;nbsp;",
       "published": "2026-08-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168142",
-      "source": "UN News — Middle East",
-      "title": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-      "summary": "Authorities in Iran intercepted 3,663 kilogrammes of methamphetamines headed for Europe and the Persian Gulf in the first quarter of 2026, according to the UN’s drugs and crime fighting agency (UNODC).",
-      "published": "2026-08-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168142",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168138",
-      "source": "UN News — Middle East",
-      "title": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
-      "summary": "New satellite assessments show the destruction of buildings in Gaza has climbed by nearly 10 per cent since October’s faltering ceasefire between Hamas and Israeli forces aim to end the two-year war, which reduced cities to rubble and displaced more than one million people, UN agencies said on Thursday.",
-      "published": "2026-08-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168138",
       "country": "israel"
     }
   ]
