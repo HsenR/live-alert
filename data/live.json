@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-15T16:53:22.831Z",
+  "fetchedAt": "2026-09-15T19:53:48.629Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168339",
+      "source": "UN News — Middle East",
+      "title": "Escalating conflict drives new displacement in Yemen",
+      "summary": "The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,000 people have been displaced since fighting intensified earlier this month.",
+      "published": "2026-09-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168339"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168335",
       "source": "UN News — Middle East",
@@ -408,14 +416,6 @@
       "published": "2026-08-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168155",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168136",
-      "source": "UN News — Middle East",
-      "title": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
-      "summary": "Communities in Syria are clearing rubble and rebuilding neighbourhoods and livelihoods torn down in the more than a decade of conflict and crisis in the country.",
-      "published": "2026-08-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168136"
     }
   ]
 }
