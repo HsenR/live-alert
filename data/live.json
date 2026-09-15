@@ -1,6 +1,39 @@
 {
-  "fetchedAt": "2026-09-15T12:04:36.851Z",
+  "fetchedAt": "2026-09-15T16:53:22.831Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168335",
+      "source": "UN News — Middle East",
+      "title": "Gaza remains recovery points to possible war crimes, says UN rights chief",
+      "summary": "Bodies are still being pulled from the rubble of Gaza, three years after Israeli bombardment flattened entire neighbourhoods – most of them women and children.&amp;nbsp;&amp;nbsp;",
+      "published": "2026-09-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168337",
+      "source": "UN News — Peace and security",
+      "title": "Back to school in Haiti: ‘Madame, can you stop what the gangs are doing to us?’",
+      "summary": "When UNICEF’s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: What did they most need from the UN children’s agency?",
+      "published": "2026-09-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168337"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168332",
+      "source": "UN News — Peace and security",
+      "title": "World fears major war more than any other global risk, UN survey finds",
+      "summary": "Two years ago, the idea of a large-scale war breaking out felt like a distant hypothetical to the experts who help chart the world’s dangers. Today it tops their list of fears, according to a new UN Global Risk Report.",
+      "published": "2026-09-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168332"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168334",
+      "source": "UN News — Peace and security",
+      "title": "‘Super El Niño’ deepens hunger crisis in South Sudan – WFP",
+      "summary": "The already dire hunger crisis in South Sudan is becoming increasingly critical as violence, extreme weather and dwindling aid leave millions without enough food, the UN World Food Programme (WFP) warned on Tuesday.",
+      "published": "2026-09-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168334"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168333",
       "source": "UN News — Middle East",
@@ -264,14 +297,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168239"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168231",
-      "source": "UN News — Peace and security",
-      "title": "‘Every step towards disarmament matters,’ nuclear testing survivors warn",
-      "summary": "He was born without arms, a legacy of four decades of nuclear explosions at the Semipalatinsk test site in his native Kazakhstan.",
-      "published": "2026-08-31T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168231"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168229",
       "source": "UN News — Middle East",
       "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
@@ -391,15 +416,6 @@
       "summary": "Communities in Syria are clearing rubble and rebuilding neighbourhoods and livelihoods torn down in the more than a decade of conflict and crisis in the country.",
       "published": "2026-08-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168136"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "source": "UN News — Middle East",
-      "title": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-      "summary": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday.&amp;nbsp;",
-      "published": "2026-08-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-      "country": "israel"
     }
   ]
 }
