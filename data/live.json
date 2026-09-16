@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T21:17:41.910Z",
+  "fetchedAt": "2026-09-16T23:41:00.591Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168346",
@@ -11,10 +11,19 @@
       "country": "israel"
     },
     {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168352",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
+      "summary": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, the head of UN maritime agency, Mr. Arsenio Dominguez, has insisted that the conflict is not a “pretext” to target “innocent seafarers”.",
+      "published": "2026-09-16T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168352",
+      "country": "iran"
+    },
+    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168347",
       "source": "UN News — Peace and security",
       "title": "Security Council LIVE: ‘Being a woman is a crime in Afghanistan,’ civil society briefer declares",
-      "summary": "Since the Taliban returned to power in Afghanistan in 2021, the continuing presence of terrorist groups as well as rights violations against women and girls are a growing concern as the Security Council meets Wednesday to hear the latest updates, including from a civil society representative who said being born as a woman in the country “is a crime”.",
+      "summary": "Since the Taliban returned to power in Afghanistan in 2021, the continuing presence of terrorist groups as well as rights violations against women and girls are a growing concern as the Security Council met Wednesday to hear latest developments, including from a civil society representative who said being born as a woman in the country “is a crime”. Follow full coverage here.",
       "published": "2026-09-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168347"
     },
@@ -286,14 +295,6 @@
       "summary": "Yasmin Al-Mashaan lost five brothers during more than a decade of conflict in Syria. Two were forcibly disappeared. Three were killed during peaceful demonstrations or by snipers loyal to the Bashar Al-Assad regime.",
       "published": "2026-09-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168264"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168267",
-      "source": "UN News — Peace and security",
-      "title": "Repression of political opposition surges in post-election Zambia",
-      "summary": "Following Zambia’s contested presidential and parliamentary elections almost three weeks ago, the crackdown on political opposition has intensified, raising concerns about the future of democracy in the country,&amp;nbsp;according to a UN Human Rights Council-appointed expert.",
-      "published": "2026-09-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168267"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168238",
