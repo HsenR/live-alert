@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T23:41:00.591Z",
+  "fetchedAt": "2026-09-17T01:40:33.349Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168346",
@@ -9,6 +9,14 @@
       "published": "2026-09-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168346",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168353",
+      "source": "UN News — Peace and security",
+      "title": "Who should set the rules for AI? The UN is pushing for a safer digital future",
+      "summary": "Artificial intelligence (AI) is advancing rapidly, raising questions about how societies and governments can capture its benefits while managing risks that often extend beyond national borders.",
+      "published": "2026-09-16T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168353"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168352",
