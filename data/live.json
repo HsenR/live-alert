@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T19:46:04.465Z",
+  "fetchedAt": "2026-09-18T21:58:04.894Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168364",
@@ -8,6 +8,22 @@
       "summary": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
       "published": "2026-09-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168364"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168376",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: UN peacekeeping under pressure",
+      "summary": "UN peacekeepers have increasingly been sent into places where there is no peace to keep – under resourced, outgunned and exposed to violence they are not equipped to counter. The Security Council meets this afternoon in New York to confront that problem, with Secretary-General António Guterres briefing ambassadors on how to close the gap.",
+      "published": "2026-09-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168376"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168374",
+      "source": "UN News — Peace and security",
+      "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
+      "summary": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
+      "published": "2026-09-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168374"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168368",
@@ -287,14 +303,6 @@
       "summary": "UN human rights chief Volker Türk added his voice on Monday to growing calls for greater AI controls, warning that the revolutionary technology could become an “existential risk to humanity” if left unchecked.",
       "published": "2026-09-07T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168288"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168287",
-      "source": "UN News — Peace and security",
-      "title": "Human rights chief Türk renews call for end to spiralling Sudan war",
-      "summary": "The ongoing war in Sudan took centre stage at the UN Human Rights Council on Monday where&amp;nbsp;the UN High Commissioner for Human Rights, Volker Türk, led calls for an end to attacks on civilians in “markets, hospitals&amp;nbsp;[and]&amp;nbsp;fuel stations”.",
-      "published": "2026-09-07T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168287"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168282",
