@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-18T13:48:17.680Z",
+  "fetchedAt": "2026-09-18T17:18:35.764Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168364",
+      "source": "UN News — Middle East",
+      "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
+      "summary": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
+      "published": "2026-09-18T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168364"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168355",
       "source": "UN News — Middle East",
@@ -406,14 +414,6 @@
       "published": "2026-08-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168193",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168180",
-      "source": "UN News — Middle East",
-      "title": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
-      "summary": "Ninety-four cent of Gaza’s 2.1 million residents need shelter as Israeli gunfire and strikes continue inside the enclave, UN agencies and peacekeepers warned on Thursday.",
-      "published": "2026-08-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168180"
     }
   ]
 }
