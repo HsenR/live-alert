@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-09-21T16:39:00.981Z",
+  "fetchedAt": "2026-09-21T20:33:02.645Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168386",
+      "source": "UN News — Peace and security",
+      "title": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
+      "summary": "UN Human Rights Council-appointed experts on Monday laid out a grim picture of the human cost of Russia’s invasion of Ukraine, with a spotlight on civilians facing a third wartime winter as well as the intimidation of Russians who have fled abroad.",
+      "published": "2026-09-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168386"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168383",
+      "source": "UN News — Peace and security",
+      "title": "‘We are not powerless’: UN chief urges world leaders to invest in peace",
+      "summary": "In a world facing rising conflicts, violence and divisions that are causing great suffering for millions of people, the UN chief on Monday called on world leaders and citizens to invest more in peace.",
+      "published": "2026-09-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168383"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168381",
       "source": "UN News — Peace and security",
@@ -28,7 +44,7 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168374",
       "source": "UN News — Peace and security",
-      "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
+      "title": "Sexual violence against civilians and POWs in Ukraine widespread and ‘abhorrent’",
       "summary": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
       "published": "2026-09-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168374"
