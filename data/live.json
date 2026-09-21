@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-21T20:33:02.645Z",
+  "fetchedAt": "2026-09-21T23:34:33.084Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168387",
+      "source": "UN News — Middle East",
+      "title": "UN condemns attempted Houthi strike on Riyadh as Yemen displacement surges past 130,000",
+      "summary": "The UN has condemned continued cross‑border attacks by Houthi forces against Saudi Arabia, including an attempted strike on the capital Riyadh, as fighting inside Yemen drives one of the country’s fastest displacement surges in years.",
+      "published": "2026-09-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168387"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168386",
       "source": "UN News — Peace and security",
@@ -164,14 +172,6 @@
       "summary": "The already dire hunger crisis in South Sudan is becoming increasingly critical as violence, extreme weather and dwindling aid leave millions without enough food, the UN World Food Programme (WFP) warned on Tuesday.",
       "published": "2026-09-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168334"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168333",
-      "source": "UN News — Middle East",
-      "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
-      "summary": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA.",
-      "published": "2026-09-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168333"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168328",
