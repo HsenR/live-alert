@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T06:53:09.504Z",
+  "fetchedAt": "2026-09-22T12:08:07.161Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168387",
@@ -311,14 +311,6 @@
       "published": "2026-09-08T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168291",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168297",
-      "source": "UN News — Peace and security",
-      "title": "Ships and seafarers increasingly caught in the crossfire of unrelated wars",
-      "summary": "The global shipping industry is facing a &quot;genuinely unprecedented&quot; convergence of maritime crises, with vessels and seafarers increasingly used as “leverage” in conflicts that have nothing to do with them.",
-      "published": "2026-09-08T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168297"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168288",
