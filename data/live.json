@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-23T14:57:59.238Z",
+  "fetchedAt": "2026-09-23T18:46:09.912Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168410",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
+      "summary": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace – though any resolution still runs up against the veto of Russia, one of its own permanent members, whose objections have repeatedly stalled any consensus. As world leaders take the floor, the gap between diplomatic process and battlefield reality appears to be stark.",
+      "published": "2026-09-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168410"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168407",
       "source": "UN News — Peace and security",
@@ -279,14 +287,6 @@
       "summary": "Twenty-five years ago, the heinous terrorist attacks of 11 September 2001 against the United States claimed thousands of lives and represented “an assault on humanity itself”, the UN chief said on Thursday.",
       "published": "2026-09-10T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168310"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168307",
-      "source": "UN News — Peace and security",
-      "title": "Human cost of violence in South Sudan ‘continues to grow’",
-      "summary": "Independent human rights investigators voiced deep concern over growing risks to both civilians and South Sudan’s political transition following their latest fact-finding mission to the world’s youngest nation – their 14th in a decade.&amp;nbsp;",
-      "published": "2026-09-10T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168307"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168298",
