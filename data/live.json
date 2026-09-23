@@ -1,6 +1,31 @@
 {
-  "fetchedAt": "2026-09-23T18:46:09.912Z",
+  "fetchedAt": "2026-09-23T21:50:08.286Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168412",
+      "source": "UN News — Middle East",
+      "title": "At UN, Pezeshkian turns terrorism accusation back on Iran’s critics",
+      "summary": "President Masoud Pezeshkian opened his General Assembly address with a direct rebuttal to US President Donald Trump, who a day earlier had branded Iran the “number one sponsor of terror.”",
+      "published": "2026-09-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168412",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168414",
+      "source": "UN News — Peace and security",
+      "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI",
+      "summary": "The Security Council has been briefed by some of the world&#039;s top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the world may be losing its grip on systems built to outthink us, Yoshua Bengi, a recipient of the prestigious Turing Award and one of the Godfathers of machine intelligence, said the dangers of AI beyond human control represent an unprecedented threat for countries “that none can contain alone –&amp;nbsp;and that does not respect the borders we defend.”",
+      "published": "2026-09-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168414"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168372",
+      "source": "UN News — Peace and security",
+      "title": "LIVE: Climate change is here - What happens next is still in our hands",
+      "summary": "🔴 LIVE NOW&amp;nbsp; From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate change. World leaders are meeting today to discuss how to turn those priorities into action.",
+      "published": "2026-09-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168372"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168410",
       "source": "UN News — Peace and security",
@@ -281,14 +306,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168312"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168310",
-      "source": "UN News — Peace and security",
-      "title": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
-      "summary": "Twenty-five years ago, the heinous terrorist attacks of 11 September 2001 against the United States claimed thousands of lives and represented “an assault on humanity itself”, the UN chief said on Thursday.",
-      "published": "2026-09-10T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168310"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168298",
       "source": "UN News — Middle East",
       "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
@@ -413,14 +430,6 @@
       "summary": "As Damascus continues to rebuild after more than a decade of war – from the recent dissolution of the Kurdish-led Syrian Democratic Forces to the United States’ removal of Syria from its sponsors of terrorism list – a top UN official warned the Security Council on Thursday that international support can help tackle outstanding challenges. UN News app users can follow here.",
       "published": "2026-08-27T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168214"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168213",
-      "source": "UN News — Middle East",
-      "title": "Shock and devastation remain, a day after Himalayan flood disaster",
-      "summary": "Amid reports that hundreds of people are still missing in Nepal and China after a floodwater surge slammed into towns and villages on Wednesday, aid teams have been working to reach communities cut off by the disaster.",
-      "published": "2026-08-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168213"
     }
   ]
 }
