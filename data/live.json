@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-09-25T08:56:57.560Z",
+  "fetchedAt": "2026-09-25T14:18:57.314Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168436",
+      "source": "UN News — Middle East",
+      "title": "Yemen violence deepens concerns over child hunger crisis",
+      "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
+      "published": "2026-09-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168436"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168428",
       "source": "UN News — Middle East",
@@ -415,15 +423,6 @@
       "summary": "As hunger deepens across Gaza, humanitarian agencies continue to deliver food and other essential supplies to families in need.",
       "published": "2026-08-27T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168220",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168219",
-      "source": "UN News — Middle East",
-      "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
-      "summary": "The seizure of a vocational training centre in occupied East Jerusalem has left hundreds of Palestinian young people without access to skills and training that could help shape their futures.&amp;nbsp;",
-      "published": "2026-08-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168219",
       "country": "israel"
     }
   ]
