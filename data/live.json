@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-09-25T18:44:29.532Z",
+  "fetchedAt": "2026-09-25T21:49:47.385Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168444",
+      "source": "UN News — Middle East",
+      "title": "‘No one speaks on behalf of Lebanon’: PM Salam asserts State authority at UN",
+      "summary": "Lebanon’s Prime Minister, Nawaf Salam, has stressed that decisions over war and peace, and control of weapons, must rest solely with the State and its constitutional institutions.",
+      "published": "2026-09-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168444",
+      "country": "lebanon"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168436",
       "source": "UN News — Middle East",
@@ -8,6 +17,31 @@
       "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
       "published": "2026-09-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168436"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168450",
+      "source": "UN News — Peace and security",
+      "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
+      "summary": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations.",
+      "published": "2026-09-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168450"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168447",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, AI hub to boost gender equality",
+      "summary": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the “mass destruction” of&amp;nbsp;Palestinian villages and forcible transfer of residents in Msafer Yatta, South Hebron Hills.",
+      "published": "2026-09-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168447",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168438",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Rising tide of forced displacement",
+      "summary": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees briefed the Security Council on Friday.&amp;nbsp;",
+      "published": "2026-09-25T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168438"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168428",
@@ -284,22 +318,6 @@
       "country": "iran"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168331",
-      "source": "UN News — Peace and security",
-      "title": "UN agencies warn humanitarian system in Sudan ‘could collapse’",
-      "summary": "UN aid agencies on Monday said they may be forced to scale back humanitarian aid in Sudan – home of the world’s worst hunger and displacement crisis – due to funding shortfalls.",
-      "published": "2026-09-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168331"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168325",
-      "source": "UN News — Peace and security",
-      "title": "IAEA chief underscores commitment to nuclear safety and verification",
-      "summary": "The Director General of the UN nuclear watchdog, IAEA, opened its 70th General Conference on Monday in Vienna with a message full of optimism, stressing that despite the many difficulties and tensions the world is witnessing a “common spirit of dedication” which still guides their work.",
-      "published": "2026-09-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168325"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168322",
       "source": "UN News — Middle East",
       "title": "Married at 13, pregnant and starving: Child brides of Yemen",
@@ -414,15 +432,6 @@
       "summary": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadly week in war-ravaged Gaza, the UN emergency relief agency, OCHA, said on Friday.",
       "published": "2026-08-28T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168229",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/08/1168220",
-      "source": "UN News — Middle East",
-      "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
-      "summary": "As hunger deepens across Gaza, humanitarian agencies continue to deliver food and other essential supplies to families in need.",
-      "published": "2026-08-27T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168220",
       "country": "israel"
     }
   ]
