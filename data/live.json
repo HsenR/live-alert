@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-09-28T12:04:09.223Z",
+  "fetchedAt": "2026-09-28T19:37:49.669Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168464",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Ambassadors meet as West Bank tensions rise, Gaza plan stalls",
+      "summary": "The Security Council met Monday morning with prospects for peace in the Middle East under strain on two fronts. In the West Bank, settler violence and settlement expansion are raising fears for a two-State solution. In Gaza, a year-old peace plan has stalled while civilian suffering continues. The meeting comes as the plan’s remaining phases, including Hamas’ disarmament and Israel’s full withdrawal, remain unimplemented, and as the illegality of settlements under international law remains a key point of contention.",
+      "published": "2026-09-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168464",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168465",
+      "source": "UN News — Peace and security",
+      "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
+      "summary": "Aid teams&amp;nbsp;trying to keep deadly Ebola disease from spreading in the Democratic Republic of the Congo (DRC) are increasingly concerned about ongoing fighting and violence that has forced thousands of people to flee a displacement camp in the vast, resource-rich east of the country.",
+      "published": "2026-09-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168465"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168459",
       "source": "UN News — Middle East",
@@ -301,22 +318,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168337"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168332",
-      "source": "UN News — Peace and security",
-      "title": "World fears major war more than any other global risk, UN survey finds",
-      "summary": "Two years ago, the idea of a large-scale war breaking out felt like a distant hypothetical to the experts who help chart the world’s dangers. Today it tops their list of fears, according to a new UN Global Risk Report.",
-      "published": "2026-09-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168332"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168334",
-      "source": "UN News — Peace and security",
-      "title": "‘Super El Niño’ deepens hunger crisis in South Sudan – WFP",
-      "summary": "The already dire hunger crisis in South Sudan is becoming increasingly critical as violence, extreme weather and dwindling aid leave millions without enough food, the UN World Food Programme (WFP) warned on Tuesday.",
-      "published": "2026-09-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168334"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168328",
       "source": "UN News — Middle East",
       "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
@@ -423,15 +424,6 @@
       "summary": "Victims of Afghanistan’s decades-long armed conflict continue to suffer profound physical, psychological, social and economic consequences, often without access to justice, reparation or formal acknowledgement of the harm done to them, according to a&amp;nbsp;new UN report.",
       "published": "2026-09-01T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168238"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168237",
-      "source": "UN News — Middle East",
-      "title": "Food aid cutback in the occupied West Bank as health fears grow in Gaza",
-      "summary": "Lack of funding has forced the World Food Programme (WFP) to slash aid to families in the West Bank by half even though needs have more than doubled over the past two years.",
-      "published": "2026-09-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168237",
-      "country": "israel"
     }
   ]
 }
