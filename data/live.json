@@ -1,6 +1,39 @@
 {
-  "fetchedAt": "2026-09-29T09:08:00.208Z",
+  "fetchedAt": "2026-09-29T15:44:26.509Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168480",
+      "source": "UN News — Middle East",
+      "title": "Yemen escalation fuels fears of further cholera, measles spread",
+      "summary": "Heavy fighting in Yemen is fuelling concerns of an uptick in cholera, measles and other preventable diseases, as overcrowding at displacement sites threatens to overwhelm the limited healthcare services still open.",
+      "published": "2026-09-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168480"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168483",
+      "source": "UN News — Peace and security",
+      "title": "LIVE: Weighing nuclear risks amid rising tensions and war",
+      "summary": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States are returning to the core issue of disarmament on Tuesday, closing out the General Assembly’s High-Level Week with expected calls for greater safeguards.",
+      "published": "2026-09-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168483",
+      "country": "iran"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168482",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
+      "summary": "The Security Council is meeting in New York&amp;nbsp;on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east despite a series of peace agreements. Ambassadors are likely to focus on ceasefire monitoring, rising tensions between the DRC and Rwanda, and the country’s worst Ebola outbreak on record.&amp;nbsp;&amp;nbsp;",
+      "published": "2026-09-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168482"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168481",
+      "source": "UN News — Peace and security",
+      "title": "DRC: Early access to care and oxygen decisive for Ebola patients’ survival – WHO",
+      "summary": "In the Democratic Republic of the Congo (DRC), health workers fighting the country’s largest-ever Ebola outbreak are struggling to overcome critical challenges to patient care, the UN World Health Organization (WHO) warned on Tuesday.",
+      "published": "2026-09-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168481"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168464",
       "source": "UN News — Middle East",
@@ -188,8 +221,8 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168381",
       "source": "UN News — Peace and security",
-      "title": "Ebola vaccine trial begins in DR Congo",
-      "summary": "An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response.",
+      "title": "Ebola vaccine research programme begins in DR Congo",
+      "summary": "An Ebola vaccine programme is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response.",
       "published": "2026-09-21T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168381"
     },
@@ -268,23 +301,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168353"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168352",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
-      "summary": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, the head of UN maritime agency, Mr. Arsenio Dominguez, has insisted that the conflict is not a “pretext” to target “innocent seafarers”.",
-      "published": "2026-09-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168352",
-      "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168347",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: ‘Being a woman is a crime in Afghanistan,’ civil society briefer declares",
-      "summary": "Since the Taliban returned to power in Afghanistan in 2021, the continuing presence of terrorist groups as well as rights violations against women and girls are a growing concern as the Security Council met Wednesday to hear latest developments, including from a civil society representative who said being born as a woman in the country “is a crime”. Follow full coverage here.",
-      "published": "2026-09-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168347"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168343",
       "source": "UN News — Middle East",
       "title": "Security Council LIVE: Rising violence triggers emergency meeting on Yemen",
@@ -308,14 +324,6 @@
       "published": "2026-09-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168337",
-      "source": "UN News — Peace and security",
-      "title": "Back to school in Haiti: ‘Madame, can you stop what the gangs are doing to us?’",
-      "summary": "When UNICEF’s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: What did they most need from the UN children’s agency?",
-      "published": "2026-09-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168337"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168328",
@@ -416,14 +424,6 @@
       "summary": "Yasmin Al-Mashaan lost five brothers during more than a decade of conflict in Syria. Two were forcibly disappeared. Three were killed during peaceful demonstrations or by snipers loyal to the Bashar Al-Assad regime.",
       "published": "2026-09-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168264"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168238",
-      "source": "UN News — Middle East",
-      "title": "Decades of war have left ‘depth and breadth’ of trauma across Afghanistan, UN finds",
-      "summary": "Victims of Afghanistan’s decades-long armed conflict continue to suffer profound physical, psychological, social and economic consequences, often without access to justice, reparation or formal acknowledgement of the harm done to them, according to a&amp;nbsp;new UN report.",
-      "published": "2026-09-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168238"
     }
   ]
 }
