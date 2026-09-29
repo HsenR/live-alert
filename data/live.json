@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-29T20:13:27.506Z",
+  "fetchedAt": "2026-09-29T23:41:36.077Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168480",
@@ -8,6 +8,15 @@
       "summary": "Heavy fighting in Yemen is fuelling concerns of an uptick in cholera, measles and other preventable diseases, as overcrowding at displacement sites threatens to overwhelm the limited healthcare services still open.",
       "published": "2026-09-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168480"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168488",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
+      "summary": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar’s Rakhine state and called for those responsible to be held to account.",
+      "published": "2026-09-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168488",
+      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168483",
@@ -291,14 +300,6 @@
       "published": "2026-09-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168346",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168353",
-      "source": "UN News — Peace and security",
-      "title": "Who should set the rules for AI? The UN is pushing for a safer digital future",
-      "summary": "Artificial intelligence (AI) is advancing rapidly, raising questions about how societies and governments can capture its benefits while managing risks that often extend beyond national borders.",
-      "published": "2026-09-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168353"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168343",
