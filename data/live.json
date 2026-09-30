@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-09-30T20:08:38.970Z",
+  "fetchedAt": "2026-09-30T23:43:54.242Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168496",
+      "source": "UN News — Middle East",
+      "title": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
+      "summary": "UN teams are racing to protect families in Gaza from the coming rainy season, but restricted access to land and shortages of critical supplies are hampering the effort, UN Spokesperson Stéphane Dujarric said on Wednesday.",
+      "published": "2026-09-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168496",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168490",
       "source": "UN News — Middle East",
@@ -417,14 +426,6 @@
       "summary": "Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint in violation of a landmark Security Council resolution, UN Spokesperson Stéphane Dujarric said on Thursday.",
       "published": "2026-09-03T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168275"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168271",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
-      "summary": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council met Thursday to be briefed on the latest developments and discuss the way ahead.",
-      "published": "2026-09-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168271"
     }
   ]
 }
