@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-10-01T16:21:46.045Z",
+  "fetchedAt": "2026-10-01T21:07:09.091Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168503",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
+      "summary": "The enduring radioactive legacy of US nuclear bomb testing in the Marshall Islands took centre stage at the Human Rights Council on Thursday.",
+      "published": "2026-10-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168503",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168502",
+      "source": "UN News — Peace and security",
+      "title": "‘Women are not victims’: Türk calls for women to be at the heart of peace and security",
+      "summary": "Women must be at the centre of efforts to prevent conflict and build lasting peace, UN High Commissioner for Human Rights Volker Türk said on Thursday.",
+      "published": "2026-10-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168502"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168499",
       "source": "UN News — Peace and security",
@@ -12,7 +29,7 @@
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168497",
       "source": "UN News — Middle East",
-      "title": "Palestinians yearn for ‘a return to normal life,’ says top Middle East peace envoy",
+      "title": "Palestinians yearn for ‘a return to normal life’, says top Middle East peace envoy",
       "summary": "The UN is continuing efforts to support Palestinians in Gaza amid major challenges to humanitarian access, reconstruction and the restoration of essential services, according to Ramiz Alakbarov, Acting UN Special Coordinator for the Middle East Peace Process.",
       "published": "2026-09-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168497",
@@ -271,28 +288,12 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168383"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168381",
-      "source": "UN News — Peace and security",
-      "title": "Ebola vaccine research programme begins in DR Congo",
-      "summary": "An Ebola vaccine programme is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response.",
-      "published": "2026-09-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168381"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168364",
       "source": "UN News — Middle East",
       "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
       "summary": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
       "published": "2026-09-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168364"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168376",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: UN peacekeeping under pressure",
-      "summary": "UN peacekeepers have increasingly been sent into places where there is no peace to keep – under resourced, outgunned and exposed to violence they are not equipped to counter. The Security Council meets this afternoon in New York to confront that problem, with Secretary-General António Guterres briefing ambassadors on how to close the gap.",
-      "published": "2026-09-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168376"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168355",
