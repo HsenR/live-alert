@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-10-01T09:08:52.325Z",
+  "fetchedAt": "2026-10-01T16:21:46.045Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168499",
+      "source": "UN News — Peace and security",
+      "title": "Ebola response faces setback as transit centre burns down in DR Congo camp",
+      "summary": "The enormous challenge of halting the spread of Ebola in the Democratic Republic of the Congo (DRC) just became even harder after a key transit centre for patients requiring treatment burned down in Ituri province.",
+      "published": "2026-10-01T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168499"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168497",
+      "source": "UN News — Middle East",
+      "title": "Palestinians yearn for ‘a return to normal life,’ says top Middle East peace envoy",
+      "summary": "The UN is continuing efforts to support Palestinians in Gaza amid major challenges to humanitarian access, reconstruction and the restoration of essential services, according to Ramiz Alakbarov, Acting UN Special Coordinator for the Middle East Peace Process.",
+      "published": "2026-09-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168497",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168496",
       "source": "UN News — Middle East",
@@ -278,22 +295,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168376"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168374",
-      "source": "UN News — Peace and security",
-      "title": "Sexual violence against civilians and POWs in Ukraine widespread and ‘abhorrent’",
-      "summary": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
-      "published": "2026-09-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168374"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168368",
-      "source": "UN News — Peace and security",
-      "title": "Women and girls pay high price in DR Congo Ebola outbreak",
-      "summary": "The deadly Ebola outbreak in the Democratic Republic of the Congo (DRC) has taken a disproportionate toll on women and girls, many of whom are on the frontlines caring for patients as well as their own families despite the high risk of infection.",
-      "published": "2026-09-18T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168368"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168355",
       "source": "UN News — Middle East",
       "title": "Security Council LIVE: Syria’s transition in the spotlight",
@@ -418,14 +419,6 @@
       "published": "2026-09-04T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168282",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168275",
-      "source": "UN News — Middle East",
-      "title": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
-      "summary": "Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint in violation of a landmark Security Council resolution, UN Spokesperson Stéphane Dujarric said on Thursday.",
-      "published": "2026-09-03T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168275"
     }
   ]
 }
