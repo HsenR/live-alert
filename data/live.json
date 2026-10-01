@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-01T02:25:57.326Z",
+  "fetchedAt": "2026-10-01T09:08:52.325Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168496",
@@ -18,6 +18,14 @@
       "published": "2026-09-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168490",
       "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168495",
+      "source": "UN News — Peace and security",
+      "title": "Somali families face renewed violence amid worsening hunger crisis",
+      "summary": "Children have been killed and injured in fresh fighting in Baidoa, in Somalia’s South West State, where families were already facing severe hunger and other overlapping crises.",
+      "published": "2026-09-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168495"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168480",
@@ -300,15 +308,6 @@
       "summary": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
       "published": "2026-09-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168354"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168358",
-      "source": "UN News — Peace and security",
-      "title": "UN fact-finding mission on Iran focuses on plight of civilians",
-      "summary": "The Independent International Fact-Finding Mission on Iran confirmed that civilians in the country suffered serious human rights violations and “crimes against humanity committed by their government,” while finding &quot;reasonable grounds&quot; to believe that the United States committed “war crimes” in the context of its ongoing conflict with the Islamic Republic.",
-      "published": "2026-09-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168358",
-      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168346",
