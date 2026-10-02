@@ -1,6 +1,31 @@
 {
-  "fetchedAt": "2026-10-02T12:28:25.176Z",
+  "fetchedAt": "2026-10-02T17:57:21.062Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168509",
+      "source": "UN News — Middle East",
+      "title": "Escalating fighting in Yemen deepens food security crisis",
+      "summary": "Renewed conflict in Yemen has triggered a surge in hunger that could have consequences in the wider region and beyond, the World Food Programme (WFP) warned on Friday.&amp;nbsp;",
+      "published": "2026-10-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168509"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168508",
+      "source": "UN News — Middle East",
+      "title": "Gaza: WHO appeals for massive aid influx ahead of winter",
+      "summary": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.&amp;nbsp;",
+      "published": "2026-10-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168508",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168511",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
+      "summary": "Haitians remain in the grip of lethal gang violence as it continues to “adapt and expand”, the UN’s top rights official, Volker Türk, said on Friday.",
+      "published": "2026-10-02T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168511"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168503",
       "source": "UN News — Peace and security",
@@ -272,22 +297,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168387"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168386",
-      "source": "UN News — Peace and security",
-      "title": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
-      "summary": "UN Human Rights Council-appointed experts on Monday laid out a grim picture of the human cost of Russia’s invasion of Ukraine, with a spotlight on civilians facing a third wartime winter as well as the intimidation of Russians who have fled abroad.",
-      "published": "2026-09-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168386"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168383",
-      "source": "UN News — Peace and security",
-      "title": "‘We are not powerless’: UN chief urges world leaders to invest in peace",
-      "summary": "In a world facing rising conflicts, violence and divisions that are causing great suffering for millions of people, the UN chief on Monday called on world leaders and citizens to invest more in peace.",
-      "published": "2026-09-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168383"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168364",
       "source": "UN News — Middle East",
       "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
@@ -402,23 +411,6 @@
       "summary": "In war-torn Gaza, a growing number of women-headed households face “impossible decisions” every day, amid ongoing Israeli airstrikes and still-scarce resources, UN humanitarians said on Tuesday.&amp;nbsp;",
       "published": "2026-09-08T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168291",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168288",
-      "source": "UN News — Middle East",
-      "title": "AI: Türk urges action before it becomes an ‘existential risk to humanity’",
-      "summary": "UN human rights chief Volker Türk added his voice on Monday to growing calls for greater AI controls, warning that the revolutionary technology could become an “existential risk to humanity” if left unchecked.",
-      "published": "2026-09-07T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168288"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168282",
-      "source": "UN News — Middle East",
-      "title": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
-      "summary": "Israeli security forces forcibly displaced the entire population of three Palestine refugee camps in the occupied West Bank in January and February last year – and continue to prevent their return, in violation of international law, according to a new report&amp;nbsp;by the UN human rights office, OHCHR.",
-      "published": "2026-09-04T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168282",
       "country": "israel"
     }
   ]
