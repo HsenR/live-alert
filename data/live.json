@@ -1,6 +1,31 @@
 {
-  "fetchedAt": "2026-10-06T08:05:49.355Z",
+  "fetchedAt": "2026-10-06T15:04:41.574Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168530",
+      "source": "UN News — Middle East",
+      "title": "‘Nothing can justify these atrocities,’ says Guterres three years on from 7 October attacks",
+      "summary": "Three years after Hamas and other Palestinian armed groups attacked Israel, UN Secretary-General António Guterres has said nothing can justify the atrocities of 7 October – calling for an end to the suffering of Israelis and Palestinians alike.",
+      "published": "2026-10-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168530",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168528",
+      "source": "UN News — Middle East",
+      "title": "More than 184,000 displaced as fighting intensifies in Yemen",
+      "summary": "Intense fighting in Yemen has forced more than 184,000 people from their homes since the start of August, most of them since early September, the UN migration agency (IOM) said on Monday.",
+      "published": "2026-10-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168528"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168529",
+      "source": "UN News — Peace and security",
+      "title": "‘The clock on AI regulation is ticking’, warns UN rights chief",
+      "summary": "The world is running out of time to put guardrails on artificial intelligence, UN High Commissioner for Human Rights Volker Türk warned Monday, as a “ruthless race” between companies and countries raises concerns about human safety and even humanity’s survival.",
+      "published": "2026-10-05T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168529"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168509",
       "source": "UN News — Middle East",
@@ -395,23 +420,6 @@
       "summary": "The Secretary-General has condemned mounting civilian casualties in southern Lebanon and called on Israel to withdraw its forces from Lebanese territory, as fighting intensifies in and around Nabatieh.",
       "published": "2026-09-08T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168298"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168292",
-      "source": "UN News — Middle East",
-      "title": "Syria’s transition hinges on justice for all, UN Human Rights Council hears",
-      "summary": "A successful and lasting transition in Syria requires comprehensive accountability, inclusion and guarantees that violations will not be repeated, UN independent investigators told the Human Rights Council in Geneva on Tuesday.",
-      "published": "2026-09-08T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168292"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168291",
-      "source": "UN News — Middle East",
-      "title": "In Gaza, women-headed households face ‘impossible choices’ to survive",
-      "summary": "In war-torn Gaza, a growing number of women-headed households face “impossible decisions” every day, amid ongoing Israeli airstrikes and still-scarce resources, UN humanitarians said on Tuesday.&amp;nbsp;",
-      "published": "2026-09-08T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168291",
-      "country": "israel"
     }
   ]
 }
