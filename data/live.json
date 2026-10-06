@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-10-06T15:04:41.574Z",
+  "fetchedAt": "2026-10-06T20:13:19.331Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168535",
+      "source": "UN News — Peace and security",
+      "title": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues",
+      "summary": "Djibouti is facing “overlapping emergencies” as refugees fleeing the conflict in Yemen arrive on its shores while migrants continue to travel in the opposite direction, the UN migration agency (IOM) warned on Tuesday.&amp;nbsp;",
+      "published": "2026-10-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168535"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168532",
+      "source": "UN News — Peace and security",
+      "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
+      "summary": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
+      "published": "2026-10-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168532",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168530",
       "source": "UN News — Middle East",
@@ -279,22 +296,6 @@
       "summary": "From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate change. World leaders have been meeting on Wednesday to discuss how to turn those priorities into action.",
       "published": "2026-09-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168372"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168410",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
-      "summary": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace – though any resolution still runs up against the veto of Russia, one of its own permanent members, whose objections have repeatedly stalled any consensus. As world leaders take the floor, the gap between diplomatic process and battlefield reality appears to be stark.",
-      "published": "2026-09-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168410"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168407",
-      "source": "UN News — Peace and security",
-      "title": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
-      "summary": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen.",
-      "published": "2026-09-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168407"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168401",
