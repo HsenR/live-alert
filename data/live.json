@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-10-07T09:24:12.144Z",
+  "fetchedAt": "2026-10-07T16:41:10.300Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168541",
+      "source": "UN News — Middle East",
+      "title": "Critical funding gap threatens health response in Yemen",
+      "summary": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
+      "published": "2026-10-07T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168541"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168539",
       "source": "UN News — Middle East",
@@ -299,14 +307,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168414"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168372",
-      "source": "UN News — Peace and security",
-      "title": "LIVE: Climate change is here - What happens next is still in our hands",
-      "summary": "From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate change. World leaders have been meeting on Wednesday to discuss how to turn those priorities into action.",
-      "published": "2026-09-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168372"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168401",
       "source": "UN News — Middle East",
       "title": "‘Time is running out’ for Israel-Palestine two-State solution",
@@ -414,14 +414,6 @@
       "published": "2026-09-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168320",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168309",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
-      "summary": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments.",
-      "published": "2026-09-10T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168309"
     }
   ]
 }
