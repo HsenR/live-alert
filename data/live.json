@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-10-07T02:48:08.188Z",
+  "fetchedAt": "2026-10-07T09:24:12.144Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168539",
+      "source": "UN News — Middle East",
+      "title": "Israeli demolition in East Jerusalem displaces 69 Palestinians",
+      "summary": "Sixty-nine Palestinians – more than half of them children – were displaced on Tuesday after Israeli authorities green lit the demolition of their residential building in the At Tur area of East Jerusalem, the UN aid coordination office (OCHA) has reported.",
+      "published": "2026-10-06T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168539",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168535",
       "source": "UN News — Peace and security",
@@ -413,14 +422,6 @@
       "summary": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments.",
       "published": "2026-09-10T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168309"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168298",
-      "source": "UN News — Middle East",
-      "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
-      "summary": "The Secretary-General has condemned mounting civilian casualties in southern Lebanon and called on Israel to withdraw its forces from Lebanese territory, as fighting intensifies in and around Nabatieh.",
-      "published": "2026-09-08T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168298"
     }
   ]
 }
