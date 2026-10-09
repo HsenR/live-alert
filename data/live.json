@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-10-08T20:15:36.882Z",
+  "fetchedAt": "2026-10-09T00:29:13.752Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168557",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+      "summary": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.&amp;nbsp;",
+      "published": "2026-10-08T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168557",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168556",
+      "source": "UN News — Peace and security",
+      "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+      "summary": "More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
+      "published": "2026-10-08T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168556"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168541",
       "source": "UN News — Middle East",
@@ -287,15 +304,6 @@
       "summary": "“There is a people. A people who can wait no longer.&amp;nbsp; A people waiting to regain security, to return home to work, to send their children to school, and to freely choose their leaders.” Those are the words of the Haitian Prime Minister, Alix Didier Fils-Aimé, who spoke at a special UN meeting on the future of security in Haiti.&amp;nbsp;",
       "published": "2026-09-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168429"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168427",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
-      "summary": "Russian armed forces have carried out repeated attacks across Ukraine over the past several days, killing and injuring civilians and damaging homes, hospitals, shops and workplaces, UN human rights monitors said on Thursday.",
-      "published": "2026-09-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168427",
-      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168412",
