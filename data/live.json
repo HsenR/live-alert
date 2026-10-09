@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-10-09T13:33:41.608Z",
+  "fetchedAt": "2026-10-09T18:58:13.978Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168561",
+      "source": "UN News — Middle East",
+      "title": "Amid heartache of Nepal flooding disaster, fear remains",
+      "summary": "Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives,&amp;nbsp;but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.&amp;nbsp;",
+      "published": "2026-10-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168561"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168559",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+      "summary": "The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis. Live coverage below and for full meetings updates, go here.",
+      "published": "2026-10-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168559",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168557",
       "source": "UN News — Peace and security",
@@ -298,14 +315,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168429",
-      "source": "UN News — Peace and security",
-      "title": "Haitians can’t wait to return home and vote in elections says Prime Minister",
-      "summary": "“There is a people. A people who can wait no longer.&amp;nbsp; A people waiting to regain security, to return home to work, to send their children to school, and to freely choose their leaders.” Those are the words of the Haitian Prime Minister, Alix Didier Fils-Aimé, who spoke at a special UN meeting on the future of security in Haiti.&amp;nbsp;",
-      "published": "2026-09-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168429"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168412",
       "source": "UN News — Middle East",
       "title": "At UN, Pezeshkian turns terrorism accusation back on Iran’s critics",
@@ -405,23 +414,6 @@
       "published": "2026-09-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168328",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168322",
-      "source": "UN News — Middle East",
-      "title": "Married at 13, pregnant and starving: Child brides of Yemen",
-      "summary": "Fatimah* was 13 when she was married off to an older man. Two years later, she gave birth to twin daughters.",
-      "published": "2026-09-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168322"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168320",
-      "source": "UN News — Middle East",
-      "title": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
-      "summary": "Ola&amp;nbsp;Ishtiwi&amp;nbsp;sits with her children in front of&amp;nbsp;the&amp;nbsp;remains of her home in the Al-Tuffah neighbourhood in eastern Gaza City, a few metres away from&amp;nbsp;a series of&amp;nbsp;painted cement blocks&amp;nbsp;Israel has&amp;nbsp;placed to mark what has become known as the&amp;nbsp;“yellow line”.",
-      "published": "2026-09-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168320",
-      "country": "israel"
     }
   ]
 }
