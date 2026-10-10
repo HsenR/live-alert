@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09T22:59:46.811Z",
+  "fetchedAt": "2026-10-10T02:05:55.282Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168561",
@@ -19,9 +19,18 @@
       "country": "iran"
     },
     {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168567",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+      "summary": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric. Most of the casualties were women and girls.&amp;nbsp;",
+      "published": "2026-10-09T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+      "country": "israel"
+    },
+    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168564",
       "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Emergency meeting as Russia launches deadly wave of attacks on Ukraine",
+      "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
       "summary": "Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks against civilian targets and infrastructure in recent days.",
       "published": "2026-10-09T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168564"
@@ -295,14 +304,6 @@
       "published": "2026-09-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168447",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168438",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Rising tide of forced displacement",
-      "summary": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees briefed the Security Council on Friday.&amp;nbsp;",
-      "published": "2026-09-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168438"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168428",
