@@ -1,6 +1,47 @@
 {
-  "fetchedAt": "2026-10-12T01:16:51.466Z",
+  "fetchedAt": "2026-10-12T07:29:51.521Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168573",
+      "source": "UN News — Middle East",
+      "title": "Djibouti shipwreck: Death toll rises to 139 as 84 remain missing",
+      "summary": "At least 139 migrants have died after their boat capsized off Djibouti, with a further 84 people still missing, the UN migration agency (IOM) said on Sunday.",
+      "published": "2026-10-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168573"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168569",
+      "source": "UN News — Middle East",
+      "title": "Sustaining livelihoods amid crisis in Gaza",
+      "summary": "Nidaa, Hanaa and Hanin have different stories, but share a common thread: the determination to build something of their own and keep it going despite extraordinary challenges facing them in war-ravaged Gaza.",
+      "published": "2026-10-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168569",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168572",
+      "source": "UN News — Peace and security",
+      "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
+      "summary": "UN Secretary-General António Guterres has condemned a Houthi missile attack on Riyadh’s main airport that Saudi authorities say killed 12 people and wounded more than 300.",
+      "published": "2026-10-11T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168572"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168568",
+      "source": "UN News — Peace and security",
+      "title": "Giving a dam: Cultivating peace in Côte d’Ivoire",
+      "summary": "Adam Ouattara and Makongo Traoré have four children and a home on the edge of Torla village in Côte d’Ivoire. He herds cattle. She grows vegetables on a small plot nearby. For years, the dry season pitted their two livelihoods against each other.",
+      "published": "2026-10-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168568"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168570",
+      "source": "UN News — Peace and security",
+      "title": "UN chief ‘gravely concerned’ by renewed fighting in northern Ethiopia, warns against escalation",
+      "summary": "UN Secretary-General António Guterres has called for an immediate end to the renewed fighting in northern Ethiopia, saying he is deeply worried by reports that Eritrean forces are present in the country.",
+      "published": "2026-10-10T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168570"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168561",
       "source": "UN News — Middle East",
@@ -256,14 +297,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168465",
-      "source": "UN News — Peace and security",
-      "title": "DR Congo Ebola emergency: Calls grow for urgent humanitarian access",
-      "summary": "Aid teams&amp;nbsp;trying to keep deadly Ebola disease from spreading in the Democratic Republic of the Congo (DRC) are increasingly concerned about ongoing fighting and violence that has forced thousands of people to flee a displacement camp in the vast, resource-rich east of the country.",
-      "published": "2026-09-28T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168465"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168459",
       "source": "UN News — Middle East",
       "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
@@ -287,23 +320,6 @@
       "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
       "published": "2026-09-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168436"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168450",
-      "source": "UN News — Peace and security",
-      "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
-      "summary": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations.",
-      "published": "2026-09-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168450"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168447",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, AI hub to boost gender equality",
-      "summary": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the “mass destruction” of&amp;nbsp;Palestinian villages and forcible transfer of residents in Msafer Yatta, South Hebron Hills.",
-      "published": "2026-09-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168447",
-      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168428",
@@ -405,24 +421,6 @@
       "summary": "The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,000 people have been displaced since fighting intensified earlier this month.",
       "published": "2026-09-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168339"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168335",
-      "source": "UN News — Middle East",
-      "title": "Gaza remains recovery points to possible war crimes, says UN rights chief",
-      "summary": "Bodies are still being pulled from the rubble of Gaza, three years after Israeli bombardment flattened entire neighbourhoods – most of them women and children.&amp;nbsp;&amp;nbsp;",
-      "published": "2026-09-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168328",
-      "source": "UN News — Middle East",
-      "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
-      "summary": "Independent UN human rights investigators called for an immediate cessation of hostilities on Monday following a series of United States airstrikes on Iran in recent weeks that have killed civilians as tensions ripple through the region.",
-      "published": "2026-09-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168328",
-      "country": "iran"
     }
   ]
 }
