@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-10-12T23:17:32.884Z",
+  "fetchedAt": "2026-10-13T03:39:49.670Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168578",
+      "source": "UN News — Middle East",
+      "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
+      "summary": "The Security Council is meeting on Syria as the country’s transition faces pressure on several fronts. Economic hardship is fuelling unrest, Israeli incursions continue in the south and sectarian tensions persist in Sweida, even as Damascus reports progress on its chemical weapons programme and talks about future elections. Millions, meanwhile, remain displaced. Follow live below and go here for full meetings coverage.&amp;nbsp;",
+      "published": "2026-10-12T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168580",
       "source": "UN News — Peace and security",
@@ -8,15 +17,6 @@
       "summary": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
       "published": "2026-10-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168580"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168578",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
-      "summary": "The Security Council is meeting on Syria as the country’s transition faces pressure on several fronts. Economic hardship is fuelling unrest, Israeli incursions continue in the south and sectarian tensions persist in Sweida, even as Damascus reports progress on its chemical weapons programme and talks about future elections. Millions, meanwhile, remain displaced. Follow live below and go here for full meetings coverage.&amp;nbsp;",
-      "published": "2026-10-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
-      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168573",
@@ -430,14 +430,6 @@
       "summary": "Amid rising violence in Yemen, the Security Council met in emergency session on Tuesday to discuss the situation surrounding the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti. UN News app users can follow here.",
       "published": "2026-09-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168343"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168339",
-      "source": "UN News — Middle East",
-      "title": "Escalating conflict drives new displacement in Yemen",
-      "summary": "The escalating conflict in Yemen is choking off aid shipments and driving fresh displacement, including to nearby Djibouti, with UN agencies reporting on Tuesday that nearly 100,000 people have been displaced since fighting intensified earlier this month.",
-      "published": "2026-09-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168339"
     }
   ]
 }
