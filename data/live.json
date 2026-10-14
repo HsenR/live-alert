@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T17:04:41.380Z",
+  "fetchedAt": "2026-10-14T20:38:58.048Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168591",
@@ -17,6 +17,23 @@
       "published": "2026-10-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168596",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development",
+      "summary": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.",
+      "published": "2026-10-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168596",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168592",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Libya in the spotlight amid ‘encouraging progress’",
+      "summary": "Despite progress in the political process in Libya, institutional divisions, economic deterioration and security fragility continue to threaten stability, the UN envoy warned the Security Council on Wednesday, calling on Libyan leaders to overcome their differences to pave the way for national elections.",
+      "published": "2026-10-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168592"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168589",
@@ -302,24 +319,6 @@
       "summary": "Heavy fighting in Yemen is fuelling concerns of an uptick in cholera, measles and other preventable diseases, as overcrowding at displacement sites threatens to overwhelm the limited healthcare services still open.",
       "published": "2026-09-29T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168480"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168488",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
-      "summary": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar’s Rakhine state and called for those responsible to be held to account.",
-      "published": "2026-09-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168488",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168483",
-      "source": "UN News — Peace and security",
-      "title": "LIVE: Weighing nuclear risks amid rising tensions and war",
-      "summary": "Amid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States returned to the core issue of disarmament on Tuesday, closing out the General Assembly’s High-Level Week with calls for greater safeguards.",
-      "published": "2026-09-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168483",
-      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168464",
