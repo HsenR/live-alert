@@ -1,6 +1,31 @@
 {
-  "fetchedAt": "2026-10-14T12:08:46.777Z",
+  "fetchedAt": "2026-10-14T17:04:41.380Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168591",
+      "source": "UN News — Middle East",
+      "title": "Yemen: WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
+      "summary": "Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.&amp;nbsp;",
+      "published": "2026-10-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168591"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168590",
+      "source": "UN News — Middle East",
+      "title": "WHO calls for urgent health action across the Eastern Mediterranean",
+      "summary": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
+      "published": "2026-10-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168589",
+      "source": "UN News — Middle East",
+      "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
+      "summary": "Yemen’s southwestern city of Taiz is facing a “devastating” humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday.",
+      "published": "2026-10-13T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168589"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168585",
       "source": "UN News — Peace and security",
@@ -297,14 +322,6 @@
       "country": "iran"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168482",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: DRC peace deals fail to halt fighting as Ebola deepens crisis",
-      "summary": "The Security Council met in New York&amp;nbsp;on the Democratic Republic of the Congo (DRC) Tuesday, where clashes between Government forces and M23 rebels continue in the east, despite a series of peace agreements. Ambassadors focused on ceasefire monitoring, rising tensions between the DRC and Rwanda and the country’s worst Ebola outbreak on record, which has killed more than 3,900 people.&amp;nbsp;&amp;nbsp;",
-      "published": "2026-09-29T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168482"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168464",
       "source": "UN News — Middle East",
       "title": "Security Council LIVE: Ambassadors meet as West Bank tensions rise, Gaza plan stalls",
@@ -405,31 +422,6 @@
       "summary": "While Syria is making progress in its political transition, the Security Council is meeting to hear briefings and discuss the situation on the ground, including recent reports of deadly armed clashes with an ISIS-affiliate terrorist group in the south and protests over rising fuel prices.&amp;nbsp;",
       "published": "2026-09-17T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168355"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168354",
-      "source": "UN News — Middle East",
-      "title": "Yemen escalation displaces more than 57,000 children: UNICEF",
-      "summary": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
-      "published": "2026-09-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168354"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168346",
-      "source": "UN News — Middle East",
-      "title": "Gaza: At least 20 killed in deadly building collapse, search for survivors continues",
-      "summary": "Search and rescue operations continued in Gaza City on Wednesday following the collapse of a bombed-out building that killed at least 20 people, according to reports.",
-      "published": "2026-09-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168346",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168343",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Rising violence triggers emergency meeting on Yemen",
-      "summary": "Amid rising violence in Yemen, the Security Council met in emergency session on Tuesday to discuss the situation surrounding the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti. UN News app users can follow here.",
-      "published": "2026-09-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168343"
     }
   ]
 }
