@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-14T20:38:58.048Z",
+  "fetchedAt": "2026-10-14T23:24:58.765Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168591",
@@ -17,6 +17,14 @@
       "published": "2026-10-14T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168598",
+      "source": "UN News — Peace and security",
+      "title": "Haiti sanctions renewed: Starving the gangs of bullets",
+      "summary": "Haiti is living through one of the world’s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting individuals and businesses.",
+      "published": "2026-10-14T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168598"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168596",
