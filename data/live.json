@@ -1,14 +1,22 @@
 {
-  "fetchedAt": "2026-10-15T15:48:19.888Z",
+  "fetchedAt": "2026-10-15T19:29:16.177Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168599",
-      "source": "UN News — Peace and security",
+      "source": "UN News — Middle East",
       "title": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
-      "summary": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council holds an open debate on Thursday focusing on the current situation in the Occupied Palestinian Territory.",
+      "summary": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council is holding an open debate on Thursday focusing on the current situation in the Occupied Palestinian Territory.",
       "published": "2026-10-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168599",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168603",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+      "summary": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate strikes on warehouses used by the UN there since July.&amp;nbsp;",
+      "published": "2026-10-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168603"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168591",
@@ -422,14 +430,6 @@
       "summary": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
       "published": "2026-09-18T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168364"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168355",
-      "source": "UN News — Middle East",
-      "title": "Security Council LIVE: Syria’s transition in the spotlight",
-      "summary": "While Syria is making progress in its political transition, the Security Council is meeting to hear briefings and discuss the situation on the ground, including recent reports of deadly armed clashes with an ISIS-affiliate terrorist group in the south and protests over rising fuel prices.&amp;nbsp;",
-      "published": "2026-09-17T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168355"
     }
   ]
 }
