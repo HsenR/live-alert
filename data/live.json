@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-10-15T11:45:12.266Z",
+  "fetchedAt": "2026-10-15T15:48:19.888Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168599",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
+      "summary": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council holds an open debate on Thursday focusing on the current situation in the Occupied Palestinian Territory.",
+      "published": "2026-10-15T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168599",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168591",
       "source": "UN News — Middle East",
@@ -311,14 +320,6 @@
       "published": "2026-09-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168490",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168495",
-      "source": "UN News — Peace and security",
-      "title": "Somali families face renewed violence amid worsening hunger crisis",
-      "summary": "Children have been killed and injured in fresh fighting in Baidoa, in Somalia’s South West State, where families were already facing severe hunger and other overlapping crises.",
-      "published": "2026-09-30T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168495"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168480",
