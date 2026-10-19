@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-10-19T19:15:54.370Z",
+  "fetchedAt": "2026-10-19T22:56:06.285Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168625",
+      "source": "UN News — Middle East",
+      "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+      "summary": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to protect Palestinian farmers.",
+      "published": "2026-10-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168622",
       "source": "UN News — Middle East",
@@ -9,6 +18,22 @@
       "published": "2026-10-19T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
       "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168628",
+      "source": "UN News — Peace and security",
+      "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+      "summary": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
+      "published": "2026-10-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168628"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168626",
+      "source": "UN News — Peace and security",
+      "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+      "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday.",
+      "published": "2026-10-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168626"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168623",
@@ -297,14 +322,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168528"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168529",
-      "source": "UN News — Peace and security",
-      "title": "‘The clock on AI regulation is ticking’, warns UN rights chief",
-      "summary": "The world is running out of time to put guardrails on artificial intelligence, UN High Commissioner for Human Rights Volker Türk warned Monday, as a “ruthless race” between companies and countries raises concerns about human safety and even humanity’s survival.",
-      "published": "2026-10-05T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168529"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168509",
       "source": "UN News — Middle East",
       "title": "Escalating fighting in Yemen deepens food security crisis",
@@ -320,14 +337,6 @@
       "published": "2026-10-02T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168508",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168511",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
-      "summary": "Haitians remain in the grip of lethal gang violence as it continues to “adapt and expand”, the UN’s top rights official, Volker Türk, said on Friday.",
-      "published": "2026-10-02T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168511"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168497",
@@ -424,15 +433,6 @@
       "published": "2026-09-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168412",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168401",
-      "source": "UN News — Middle East",
-      "title": "‘Time is running out’ for Israel-Palestine two-State solution",
-      "summary": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.&amp;nbsp;",
-      "published": "2026-09-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168401",
-      "country": "israel"
     }
   ]
 }
