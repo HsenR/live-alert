@@ -1,6 +1,24 @@
 {
-  "fetchedAt": "2026-10-19T13:00:37.350Z",
+  "fetchedAt": "2026-10-19T19:15:54.370Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168622",
+      "source": "UN News — Middle East",
+      "title": "Gaza: Funding cuts leave half a million without food assistance",
+      "summary": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
+      "published": "2026-10-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168623",
+      "source": "UN News — Peace and security",
+      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+      "summary": "UN Secretary-General António Guterres&amp;nbsp;paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
+      "published": "2026-10-19T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+      "country": "lebanon"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168619",
       "source": "UN News — Middle East",
@@ -312,15 +330,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168511"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168503",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
-      "summary": "The enduring radioactive legacy of US nuclear bomb testing in the Marshall Islands took centre stage at the Human Rights Council on Thursday.",
-      "published": "2026-10-01T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168503",
-      "country": "israel"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168497",
       "source": "UN News — Middle East",
       "title": "Palestinians yearn for ‘a return to normal life’, says top Middle East peace envoy",
@@ -424,14 +433,6 @@
       "published": "2026-09-22T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168401",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168390",
-      "source": "UN News — Middle East",
-      "title": "Displacement on the rise in Yemen as fighting continues",
-      "summary": "As hostilities worsen in Yemen, more people have been fleeing their homes, further intensifying the humanitarian crisis within the region, the UN Refugee Agency (UNHCR) warned on Tuesday.",
-      "published": "2026-09-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168390"
     }
   ]
 }
