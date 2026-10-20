@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-10-20T11:27:57.131Z",
+  "fetchedAt": "2026-10-20T15:42:44.912Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168629",
+      "source": "UN News — Middle East",
+      "title": "Yemen war continues to force families from homes amid hunger and disease",
+      "summary": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
+      "published": "2026-10-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168629"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168625",
       "source": "UN News — Middle East",
@@ -424,15 +432,6 @@
       "published": "2026-09-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168426",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168412",
-      "source": "UN News — Middle East",
-      "title": "At UN, Pezeshkian turns terrorism accusation back on Iran’s critics",
-      "summary": "President Masoud Pezeshkian opened his General Assembly address with a direct rebuttal to US President Donald Trump, who a day earlier had branded Iran the “number one sponsor of terror.”",
-      "published": "2026-09-23T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168412",
-      "country": "iran"
     }
   ]
 }
