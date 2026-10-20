@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-20T19:34:02.079Z",
+  "fetchedAt": "2026-10-20T22:37:44.748Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168629",
@@ -8,6 +8,14 @@
       "summary": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
       "published": "2026-10-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168629"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168630",
+      "source": "UN News — Peace and security",
+      "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
+      "summary": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
+      "published": "2026-10-20T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168630"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168625",
@@ -302,15 +310,6 @@
       "summary": "Djibouti is facing “overlapping emergencies” as refugees fleeing the conflict in Yemen arrive on its shores while migrants continue to travel in the opposite direction, the UN migration agency (IOM) warned on Tuesday.&amp;nbsp;",
       "published": "2026-10-06T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168535"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168532",
-      "source": "UN News — Peace and security",
-      "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
-      "summary": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
-      "published": "2026-10-06T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168532",
-      "country": "iran"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168530",
