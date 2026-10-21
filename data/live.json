@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-10-21T19:23:30.610Z",
+  "fetchedAt": "2026-10-21T22:30:07.184Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168644",
+      "source": "UN News — Middle East",
+      "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
+      "summary": "The use of&amp;nbsp;live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year’s harvest in the occupied West Bank.",
+      "published": "2026-10-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168644",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168643",
       "source": "UN News — Peace and security",
@@ -294,15 +303,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168564"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168557",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
-      "summary": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.&amp;nbsp;",
-      "published": "2026-10-08T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168557",
-      "country": "israel"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168541",
       "source": "UN News — Middle East",
       "title": "Critical funding gap threatens health response in Yemen",
@@ -429,15 +429,6 @@
       "summary": "The UN Relief and Works Agency for Palestine refugees (UNRWA) continues to operate under “extraordinary pressure”, UN Secretary-General António Guterres said on Thursday.&amp;nbsp;",
       "published": "2026-09-24T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168428",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168426",
-      "source": "UN News — Middle East",
-      "title": "Palestinian existence under threat, Abbas tells UN, warning of ‘another Nakba’",
-      "summary": "Israeli policies now threaten “the very life and existence of the Palestinian people on their homeland”, Palestinian President Mahmoud Abbas told the UN General Assembly on Thursday, urging the world not to allow “another Nakba”.&amp;nbsp;",
-      "published": "2026-09-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168426",
       "country": "israel"
     }
   ]
