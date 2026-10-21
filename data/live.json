@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-10-21T10:20:29.344Z",
+  "fetchedAt": "2026-10-21T15:23:44.369Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168638",
+      "source": "UN News — Peace and security",
+      "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
+      "summary": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.&amp;nbsp;",
+      "published": "2026-10-21T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168638"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168629",
       "source": "UN News — Middle East",
