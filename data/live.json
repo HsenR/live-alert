@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-10-22T10:36:23.969Z",
+  "fetchedAt": "2026-10-22T15:37:10.266Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168646",
+      "source": "UN News — Peace and security",
+      "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
+      "summary": "The international community must combat inequality and stop wars from expanding to ensure a safer world for all, the UN Secretary-General said on Thursday.",
+      "published": "2026-10-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168646"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168644",
       "source": "UN News — Middle East",
