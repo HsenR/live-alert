@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-10-23T15:13:16.309Z",
+  "fetchedAt": "2026-10-23T19:10:33.410Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168660",
+      "source": "UN News — Middle East",
+      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+      "summary": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
+      "published": "2026-10-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168654",
       "source": "UN News — Middle East",
@@ -8,23 +17,6 @@
       "summary": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country’s west coast.",
       "published": "2026-10-23T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168654"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168648",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
-      "summary": "Long-range Russian attacks across Ukraine are intensifying, including in Kyiv, causing at least 14 civilian deaths and 78 injuries overnight into Thursday, as UN agencies continue to provide aid.",
-      "published": "2026-10-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168648",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168646",
-      "source": "UN News — Peace and security",
-      "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
-      "summary": "The international community must combat inequality and stop wars from expanding to ensure a safer world for all, the UN Secretary-General said on Thursday.",
-      "published": "2026-10-22T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168646"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168644",
@@ -36,52 +28,12 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168643",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
-      "summary": "The World Health Organization (WHO) is&amp;nbsp;scaling up emergency health response operations across Afar, Amhara and Tigray in Ethiopia to address growing humanitarian and health needs resulting from ongoing hostilities.",
-      "published": "2026-10-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168643"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168640",
-      "source": "UN News — Peace and security",
-      "title": "Summit in Samarkand, a boon for child wellbeing and health",
-      "summary": "Representatives from across the international community are meeting in Samarkand, Uzbekistan, to ensure that children everywhere can thrive in a world marred by war, climate chaos and other fundamental challenges.",
-      "published": "2026-10-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168640"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168638",
-      "source": "UN News — Peace and security",
-      "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
-      "summary": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.&amp;nbsp;",
-      "published": "2026-10-21T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168638"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168629",
       "source": "UN News — Middle East",
       "title": "Yemen war continues to force families from homes amid hunger and disease",
       "summary": "More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
       "published": "2026-10-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168629"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168636",
-      "source": "UN News — Peace and security",
-      "title": "AI on track to ‘crowd out’ human decision-making in warfare",
-      "summary": "Artificial intelligence is already being widely used on the battlefield, and the role of human judgment in military operations is shrinking rapidly, the head of the UN’s independent disarmament research institute warned on Tuesday.&amp;nbsp;",
-      "published": "2026-10-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168636"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168630",
-      "source": "UN News — Peace and security",
-      "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
-      "summary": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
-      "published": "2026-10-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168630"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168625",
@@ -102,31 +54,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168628",
-      "source": "UN News — Peace and security",
-      "title": "UN condemns deadly wave of drone strikes in war-torn Sudan",
-      "summary": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
-      "published": "2026-10-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168628"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168626",
-      "source": "UN News — Peace and security",
-      "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-      "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday.",
-      "published": "2026-10-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168626"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168623",
-      "source": "UN News — Peace and security",
-      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-      "summary": "UN Secretary-General António Guterres&amp;nbsp;paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
-      "published": "2026-10-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-      "country": "lebanon"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168619",
       "source": "UN News — Middle East",
       "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
@@ -145,22 +72,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168614",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
-      "summary": "Civilian casualties in Ukraine&amp;nbsp;remain at record levels, with intensified Russian attacks in September continuing a pattern of harm in 2026 far exceeding previous years, UN human rights monitors in Ukraine said on Friday.",
-      "published": "2026-10-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168614"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168612",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-      "summary": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the weapons flows fuelling the brutal conflict.&amp;nbsp;",
-      "published": "2026-10-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168612"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168599",
       "source": "UN News — Middle East",
       "title": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
@@ -168,14 +79,6 @@
       "published": "2026-10-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168599",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168603",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
-      "summary": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate strikes on warehouses used by the UN there since July.&amp;nbsp;",
-      "published": "2026-10-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168603"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168591",
@@ -195,45 +98,12 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168598",
-      "source": "UN News — Peace and security",
-      "title": "Haiti sanctions renewed: Starving the gangs of bullets",
-      "summary": "Haiti is living through one of the world’s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting individuals and businesses.",
-      "published": "2026-10-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168598"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168596",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development",
-      "summary": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.",
-      "published": "2026-10-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168596",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168592",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Libya in the spotlight amid ‘encouraging progress’",
-      "summary": "Despite progress in the political process in Libya, institutional divisions, economic deterioration and security fragility continue to threaten stability, the UN envoy warned the Security Council on Wednesday, calling on Libyan leaders to overcome their differences to pave the way for national elections.",
-      "published": "2026-10-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168592"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168589",
       "source": "UN News — Middle East",
       "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
       "summary": "Yemen’s southwestern city of Taiz is facing a “devastating” humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday.",
       "published": "2026-10-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168589"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168585",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
-      "summary": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office (OCHA) said on Tuesday.",
-      "published": "2026-10-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168585"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168578",
@@ -243,14 +113,6 @@
       "published": "2026-10-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168580",
-      "source": "UN News — Peace and security",
-      "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
-      "summary": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
-      "published": "2026-10-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168580"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168573",
@@ -270,30 +132,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168572",
-      "source": "UN News — Peace and security",
-      "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
-      "summary": "UN Secretary-General António Guterres has condemned a Houthi missile attack on Riyadh’s main airport that Saudi authorities say killed 12 people and wounded more than 300.",
-      "published": "2026-10-11T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168572"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168568",
-      "source": "UN News — Peace and security",
-      "title": "Giving a dam: Cultivating peace in Côte d’Ivoire",
-      "summary": "Adam Ouattara and Makongo Traoré have four children and a home on the edge of Torla village in Côte d’Ivoire. He herds cattle. She grows vegetables on a small plot nearby. For years, the dry season pitted their two livelihoods against each other.",
-      "published": "2026-10-10T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168568"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168570",
-      "source": "UN News — Peace and security",
-      "title": "UN chief ‘gravely concerned’ by renewed fighting in northern Ethiopia, warns against escalation",
-      "summary": "UN Secretary-General António Guterres has called for an immediate end to the renewed fighting in northern Ethiopia, saying he is deeply worried by reports that Eritrean forces are present in the country.",
-      "published": "2026-10-10T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168570"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168561",
       "source": "UN News — Middle East",
       "title": "Amid heartache of Nepal flooding disaster, fear remains",
@@ -309,15 +147,6 @@
       "published": "2026-10-09T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168559",
       "country": "iran"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168567",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
-      "summary": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric. Most of the casualties were women and girls.&amp;nbsp;",
-      "published": "2026-10-09T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
-      "country": "israel"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168541",
@@ -430,14 +259,6 @@
       "published": "2026-09-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168444",
       "country": "lebanon"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168436",
-      "source": "UN News — Middle East",
-      "title": "Yemen violence deepens concerns over child hunger crisis",
-      "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
-      "published": "2026-09-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168436"
     }
   ]
 }
