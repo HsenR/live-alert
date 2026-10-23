@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-10-23T10:21:34.836Z",
+  "fetchedAt": "2026-10-23T15:13:16.309Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168654",
+      "source": "UN News — Middle East",
+      "title": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+      "summary": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country’s west coast.",
+      "published": "2026-10-23T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168654"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168648",
       "source": "UN News — Peace and security",
@@ -430,15 +438,6 @@
       "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
       "published": "2026-09-25T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168436"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168428",
-      "source": "UN News — Middle East",
-      "title": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
-      "summary": "The UN Relief and Works Agency for Palestine refugees (UNRWA) continues to operate under “extraordinary pressure”, UN Secretary-General António Guterres said on Thursday.&amp;nbsp;",
-      "published": "2026-09-24T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168428",
-      "country": "israel"
     }
   ]
 }
