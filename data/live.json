@@ -1,6 +1,15 @@
 {
-  "fetchedAt": "2026-10-23T00:54:34.463Z",
+  "fetchedAt": "2026-10-23T05:28:58.712Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168648",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
+      "summary": "Long-range Russian attacks across Ukraine are intensifying, including in Kyiv, causing at least 14 civilian deaths and 78 injuries overnight into Thursday, as UN agencies continue to provide aid.",
+      "published": "2026-10-22T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168648",
+      "country": "israel"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168646",
       "source": "UN News — Peace and security",
@@ -301,14 +310,6 @@
       "published": "2026-10-09T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168564",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
-      "summary": "Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks against civilian targets and infrastructure in recent days.",
-      "published": "2026-10-09T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168564"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168541",
