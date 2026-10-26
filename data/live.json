@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-10-26T12:50:55.574Z",
+  "fetchedAt": "2026-10-26T18:53:40.035Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168670",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+      "summary": "Top human rights experts investigating Russia’s full-scale invasion of Ukraine&amp;nbsp;said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.",
+      "published": "2026-10-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168670"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168669",
+      "source": "UN News — Peace and security",
+      "title": "In Egypt, Guterres warns against Iran-US escalation",
+      "summary": "UN Secretary-General António Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.&amp;nbsp;",
+      "published": "2026-10-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168660",
       "source": "UN News — Middle East",
@@ -269,14 +286,6 @@
       "published": "2026-10-12T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168580",
-      "source": "UN News — Peace and security",
-      "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
-      "summary": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
-      "published": "2026-10-12T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168580"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168573",
