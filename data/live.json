@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-10-26T18:53:40.035Z",
+  "fetchedAt": "2026-10-26T22:54:39.039Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168673",
+      "source": "UN News — Peace and security",
+      "title": "Women and girls’ share of civilian war deaths doubles since 2021",
+      "summary": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.&amp;nbsp;",
+      "published": "2026-10-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168673"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168670",
       "source": "UN News — Peace and security",
@@ -269,14 +277,6 @@
       "summary": "Yemen’s southwestern city of Taiz is facing a “devastating” humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday.",
       "published": "2026-10-13T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168589"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168585",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
-      "summary": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office (OCHA) said on Tuesday.",
-      "published": "2026-10-13T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168585"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168578",
