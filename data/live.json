@@ -1,6 +1,23 @@
 {
-  "fetchedAt": "2026-10-27T06:48:27.089Z",
+  "fetchedAt": "2026-10-27T12:47:06.526Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168672",
+      "source": "UN News — Middle East",
+      "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
+      "summary": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections.",
+      "published": "2026-10-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168674",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
+      "summary": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.&amp;nbsp;",
+      "published": "2026-10-26T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168674"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168673",
       "source": "UN News — Peace and security",
@@ -423,15 +440,6 @@
       "summary": "Saudi Arabia’s Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronger international cooperation to protect Gulf States and vital shipping routes.",
       "published": "2026-09-26T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168459"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168444",
-      "source": "UN News — Middle East",
-      "title": "‘No one speaks on behalf of Lebanon’: PM Salam asserts State authority at UN",
-      "summary": "Lebanon’s Prime Minister, Nawaf Salam, has stressed that decisions over war and peace, and control of weapons, must rest solely with the State and its constitutional institutions.",
-      "published": "2026-09-25T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168444",
-      "country": "lebanon"
     }
   ]
 }
