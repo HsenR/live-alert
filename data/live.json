@@ -1,6 +1,41 @@
 {
-  "fetchedAt": "2026-10-28T07:06:46.681Z",
+  "fetchedAt": "2026-10-28T13:58:23.653Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168685",
+      "source": "UN News — Middle East",
+      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+      "summary": "Families in Gaza are bracing for a fourth winter in tents and makeshift shelters as UN aid operations face mounting obstacles, with transport suspended on Tuesday due to Israel’s closure of the key Kerem Shalom crossing for election day.&amp;nbsp;",
+      "published": "2026-10-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168686",
+      "source": "UN News — Peace and security",
+      "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
+      "summary": "The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday. On Wednesday, 28 October, Member States will vote for the 34th time on a resolution calling for it to end.",
+      "published": "2026-10-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168686"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168684",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Women and girls face greater dangers in war",
+      "summary": "From Gaza to Yemen, women and girls are facing ever greater dangers this year simply surviving in war zones. The Security Council meets Tuesday to debate the best way to improve security for women caught up in conflict.",
+      "published": "2026-10-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168684",
+      "country": "israel"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168682",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+      "summary": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
+      "published": "2026-10-27T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+      "country": "iran"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168672",
       "source": "UN News — Middle East",
@@ -263,31 +298,6 @@
       "country": "israel"
     },
     {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168598",
-      "source": "UN News — Peace and security",
-      "title": "Haiti sanctions renewed: Starving the gangs of bullets",
-      "summary": "Haiti is living through one of the world’s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting individuals and businesses.",
-      "published": "2026-10-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168598"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168596",
-      "source": "UN News — Peace and security",
-      "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development",
-      "summary": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.",
-      "published": "2026-10-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168596",
-      "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168592",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Libya in the spotlight amid ‘encouraging progress’",
-      "summary": "Despite progress in the political process in Libya, institutional divisions, economic deterioration and security fragility continue to threaten stability, the UN envoy warned the Security Council on Wednesday, calling on Libyan leaders to overcome their differences to pave the way for national elections.",
-      "published": "2026-10-14T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168592"
-    },
-    {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168589",
       "source": "UN News — Middle East",
       "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
@@ -432,14 +442,6 @@
       "published": "2026-09-28T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168464",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/09/1168459",
-      "source": "UN News — Middle East",
-      "title": "Saudi Arabia warns Gulf security inseparable from global stability amid regional tensions",
-      "summary": "Saudi Arabia’s Foreign Minister warned on Saturday that escalating threats across the Middle East risked international peace, energy security and global trade, calling for stronger international cooperation to protect Gulf States and vital shipping routes.",
-      "published": "2026-09-26T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168459"
     }
   ]
 }
