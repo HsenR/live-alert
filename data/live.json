@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-10-28T19:16:37.233Z",
+  "fetchedAt": "2026-10-28T23:20:34.014Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168694",
+      "source": "UN News — Peace and security",
+      "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+      "summary": "The UN General Assembly on Wednesday called for the 34th time for an end to the US economic, commercial and financial embargo on Cuba – but with the weakest backing for the resolution in two decades.",
+      "published": "2026-10-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168694"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168691",
+      "source": "UN News — Peace and security",
+      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+      "summary": "As online abuse, gender-based attacks and impunity ramp up the threats to women reporting from crisis zones, journalists and UN leaders are calling for urgent action to protect those who document conflict.&amp;nbsp;",
+      "published": "2026-10-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168691"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168685",
       "source": "UN News — Middle East",
@@ -271,14 +287,6 @@
       "published": "2026-10-15T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168599",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168603",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
-      "summary": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate strikes on warehouses used by the UN there since July.&amp;nbsp;",
-      "published": "2026-10-15T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168603"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168591",
