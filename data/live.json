@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-10-29T15:39:40.532Z",
+  "fetchedAt": "2026-10-29T20:33:49.993Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168702",
+      "source": "UN News — Peace and security",
+      "title": "Russia drone strike on Ukrainian railway station kills 13",
+      "summary": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
+      "published": "2026-10-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168702"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168698",
       "source": "UN News — Peace and security",
@@ -259,15 +267,6 @@
       "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday.",
       "published": "2026-10-19T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168626"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168623",
-      "source": "UN News — Peace and security",
-      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-      "summary": "UN Secretary-General António Guterres&amp;nbsp;paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
-      "published": "2026-10-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-      "country": "lebanon"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168619",
