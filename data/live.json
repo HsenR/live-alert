@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-10-28T23:20:34.014Z",
+  "fetchedAt": "2026-10-29T02:33:04.031Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168696",
+      "source": "UN News — Peace and security",
+      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+      "summary": "Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.&amp;nbsp;",
+      "published": "2026-10-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168696"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168695",
+      "source": "UN News — Peace and security",
+      "title": "UN human rights chief urges better protection of civilians in conflicts",
+      "summary": "Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN&amp;nbsp;human rights chief&amp;nbsp;Volker Türk said at a press briefing on Wednesday.",
+      "published": "2026-10-28T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168695"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168694",
       "source": "UN News — Peace and security",
@@ -262,22 +278,6 @@
       "published": "2026-10-16T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
       "country": "israel"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168614",
-      "source": "UN News — Peace and security",
-      "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
-      "summary": "Civilian casualties in Ukraine&amp;nbsp;remain at record levels, with intensified Russian attacks in September continuing a pattern of harm in 2026 far exceeding previous years, UN human rights monitors in Ukraine said on Friday.",
-      "published": "2026-10-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168614"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168612",
-      "source": "UN News — Peace and security",
-      "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
-      "summary": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the weapons flows fuelling the brutal conflict.&amp;nbsp;",
-      "published": "2026-10-16T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168612"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168599",
