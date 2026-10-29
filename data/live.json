@@ -1,6 +1,14 @@
 {
-  "fetchedAt": "2026-10-29T08:53:16.899Z",
+  "fetchedAt": "2026-10-29T15:39:40.532Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168698",
+      "source": "UN News — Peace and security",
+      "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+      "summary": "Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and energy supplies.",
+      "published": "2026-10-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168698"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168696",
       "source": "UN News — Peace and security",
