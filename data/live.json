@@ -1,6 +1,22 @@
 {
-  "fetchedAt": "2026-10-29T20:33:49.993Z",
+  "fetchedAt": "2026-10-30T00:18:44.141Z",
   "alerts": [
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168705",
+      "source": "UN News — Peace and security",
+      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+      "summary": "Myanmar’s human rights situation is “catastrophic”, the&amp;nbsp;UN independent expert on the country warned at a press briefing Thursday, as the war spirals with no end in sight.&amp;nbsp;",
+      "published": "2026-10-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168705"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168703",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+      "summary": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
+      "published": "2026-10-29T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168703"
+    },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168702",
       "source": "UN News — Peace and security",
@@ -259,14 +275,6 @@
       "summary": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
       "published": "2026-10-19T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168628"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168626",
-      "source": "UN News — Peace and security",
-      "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-      "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Security Council on Monday.",
-      "published": "2026-10-19T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168626"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168619",
