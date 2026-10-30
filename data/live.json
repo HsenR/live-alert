@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-30T18:16:24.138Z",
+  "fetchedAt": "2026-10-30T22:30:18.004Z",
   "alerts": [
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168707",
@@ -17,6 +17,23 @@
       "summary": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
       "published": "2026-10-30T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168706"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "source": "UN News — Peace and security",
+      "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+      "summary": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is&amp;nbsp;“far from over,” according to the UN’s aid coordination office (OCHA).",
+      "published": "2026-10-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "country": "lebanon"
+    },
+    {
+      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168712",
+      "source": "UN News — Peace and security",
+      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+      "summary": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
+      "published": "2026-10-30T12:00:00.000Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168712"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168705",
@@ -258,14 +275,6 @@
       "summary": "Artificial intelligence is already being widely used on the battlefield, and the role of human judgment in military operations is shrinking rapidly, the head of the UN’s independent disarmament research institute warned on Tuesday.&amp;nbsp;",
       "published": "2026-10-20T12:00:00.000Z",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168636"
-    },
-    {
-      "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168630",
-      "source": "UN News — Peace and security",
-      "title": "As Sudan war spills into Central African Republic, UN warns against early peacekeeper exit",
-      "summary": "The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
-      "published": "2026-10-20T12:00:00.000Z",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168630"
     },
     {
       "id": "un:https://news.un.org/feed/view/en/story/2026/10/1168625",
